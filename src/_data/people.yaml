@@ -1,0 +1,345 @@
+# Central directory: one entry per current member, one-to-one
+# person <-> role <-> office <-> contact <-> "ask me about" scope.
+# Fill TBD fields as they get confirmed. `profile` is the person's page on the
+# main site. `projects` feeds the Current Directions page. Alumni are not
+# listed; see the main site's People page.
+#
+# groups render in this order on the directory page
+groups:
+  - Group Leads
+  - Postdoctoral Researchers
+  - Graduate Students
+  - Undergraduate Students
+
+members:
+  - name: Mohammad Hafezi
+    group: Group Leads
+    role: Principal Investigator, Minta Martin Professor of ECE and Physics
+    building: Atlantic
+    office: "2307"
+    email: hafezi@umd.edu
+    scope: TBD
+    profile: https://hafezi.jqi.umd.edu/people/mohammad-hafezi
+    projects: []
+
+  - name: Mahmoud Jalali Mehrabad
+    group: Group Leads
+    role: Group Lead
+    building: TBD
+    office: TBD
+    email: TBD
+    scope: TBD
+    profile: https://hafezi.jqi.umd.edu/people/mahmoud-jalali-mehrabad
+    projects: []
+
+  - name: Hassan Alnatah
+    group: Postdoctoral Researchers
+    role: Postdoctoral Researcher
+    building: TBD
+    office: TBD
+    email: TBD
+    scope: TBD
+    profile: https://hafezi.jqi.umd.edu/people/hassan-alnatah
+    projects: []
+
+  - name: Yang-Zhi Chou
+    group: Postdoctoral Researchers
+    role: Postdoctoral Researcher
+    building: TBD
+    office: TBD
+    email: TBD
+    scope: TBD
+    profile: https://hafezi.jqi.umd.edu/people/yang-zhi-chou
+    projects: []
+
+  - name: Konstantin Davydov
+    group: Postdoctoral Researchers
+    role: Postdoctoral Researcher
+    building: TBD
+    office: TBD
+    email: TBD
+    scope: TBD
+    profile: https://hafezi.jqi.umd.edu/people/konstantin-davydov
+    projects: []
+
+  - name: Pavel Dolgirev
+    group: Postdoctoral Researchers
+    role: Postdoctoral Researcher
+    building: TBD
+    office: TBD
+    email: TBD
+    scope: TBD
+    profile: https://hafezi.jqi.umd.edu/people/pavel-dolgirev-1
+    projects: []
+
+  - name: Mahdi Ghafariasl
+    group: Postdoctoral Researchers
+    role: Postdoctoral Researcher
+    building: TBD
+    office: TBD
+    email: TBD
+    scope: TBD
+    profile: https://hafezi.jqi.umd.edu/people/mahdi-ghafariasl
+    projects: []
+
+  - name: Alekhya Ghosh
+    group: Postdoctoral Researchers
+    role: Postdoctoral Researcher
+    building: TBD
+    office: TBD
+    email: TBD
+    scope: TBD
+    profile: https://hafezi.jqi.umd.edu/people/alekhya-ghosh-0
+    projects: []
+
+  - name: Andrey Grankin
+    group: Postdoctoral Researchers
+    role: Postdoctoral Researcher
+    building: TBD
+    office: TBD
+    email: TBD
+    scope: TBD
+    profile: https://hafezi.jqi.umd.edu/people/andrey-grankin
+    projects: []
+
+  - name: Shi-Yuan Ma
+    group: Postdoctoral Researchers
+    role: Postdoctoral Researcher
+    building: TBD
+    office: TBD
+    email: TBD
+    scope: TBD
+    profile: https://hafezi.jqi.umd.edu/people/shi-yuan-ma
+    projects:
+      - Optical computing and physical learning (Optical Transformers line)
+      - ML for ring lattices (theory, currently solo)
+      - Simulation model development with Lida
+
+  - name: Akiyoshi Park
+    group: Postdoctoral Researchers
+    role: Postdoctoral Researcher
+    building: TBD
+    office: TBD
+    email: TBD
+    scope: TBD
+    profile: https://hafezi.jqi.umd.edu/people/akiyoshi-park
+    projects: []
+
+  - name: Benyamin Remez
+    group: Postdoctoral Researchers
+    role: Postdoctoral Researcher
+    building: TBD
+    office: TBD
+    email: TBD
+    scope: TBD
+    profile: https://hafezi.jqi.umd.edu/people/benyamin-remez
+    projects: []
+
+  - name: Yan-Qi Wang
+    group: Postdoctoral Researchers
+    role: Postdoctoral Researcher
+    building: TBD
+    office: TBD
+    email: TBD
+    scope: TBD
+    profile: https://hafezi.jqi.umd.edu/people/yan-qi-wang
+    projects: []
+
+  - name: Ghadah Alshalan
+    group: Graduate Students
+    role: Graduate Student
+    building: TBD
+    office: TBD
+    email: TBD
+    scope: TBD
+    profile: https://hafezi.jqi.umd.edu/people/ghadah-alshalan
+    projects: []
+
+  - name: Gavin Bogdan
+    group: Graduate Students
+    role: Graduate Student
+    building: TBD
+    office: TBD
+    email: TBD
+    scope: TBD
+    profile: https://hafezi.jqi.umd.edu/people/gavin-bogdan
+    projects:
+      - High-bandwidth signal generation (Zurich Instruments SHFSG)
+      - Lattice probe experiment (3D-printed components)
+
+  - name: Yinqi Fang
+    group: Graduate Students
+    role: Graduate Student
+    building: TBD
+    office: TBD
+    email: TBD
+    scope: TBD
+    profile: https://hafezi.jqi.umd.edu/people/yinqi-fang
+    projects: []
+
+  - name: Beini Gao
+    group: Graduate Students
+    role: Graduate Student
+    building: TBD
+    office: TBD
+    email: TBD
+    scope: TBD
+    profile: https://hafezi.jqi.umd.edu/people/beini-gao
+    projects: []
+
+  - name: Jackson Glass
+    group: Graduate Students
+    role: Graduate Student
+    building: TBD
+    office: TBD
+    email: TBD
+    scope: TBD
+    profile: https://hafezi.jqi.umd.edu/people/jackson-glass
+    projects: []
+
+  - name: Anish Goyal
+    group: Graduate Students
+    role: Graduate Student
+    building: TBD
+    office: TBD
+    email: TBD
+    scope: TBD
+    profile: https://hafezi.jqi.umd.edu/people/anish-goyal
+    projects:
+      - Replicating the Optical Transformers results (physical learning ramp-up)
+
+  - name: Masoud Mohammadi-Arzanagh
+    group: Graduate Students
+    role: Graduate Student
+    building: TBD
+    office: TBD
+    email: TBD
+    scope: TBD
+    profile: https://hafezi.jqi.umd.edu/people/masoud-mohammadi-arzanagh
+    projects: []
+
+  - name: Apurva Padhye
+    group: Graduate Students
+    role: Graduate Student
+    building: TBD
+    office: TBD
+    email: TBD
+    scope: TBD
+    profile: https://hafezi.jqi.umd.edu/people/apurva-padhye
+    projects:
+      - Measurement lab and device characterization (InGaP, TFLN, SiN, topological photonics)
+      - Unified instrument-control interface and motorized-stage automation
+      - Two new measurement setups under construction
+
+  - name: Soumadeep Saha
+    group: Graduate Students
+    role: Graduate Student
+    building: TBD
+    office: TBD
+    email: TBD
+    scope: TBD
+    profile: https://hafezi.jqi.umd.edu/people/soumadeep-saha
+    projects:
+      - Photonic material property database
+
+  - name: Prakriti Shahi
+    group: Graduate Students
+    role: Graduate Student
+    building: TBD
+    office: TBD
+    email: TBD
+    scope: TBD
+    profile: https://hafezi.jqi.umd.edu/people/prakriti-shahi
+    projects: []
+
+  - name: Shreyanka Sinha
+    group: Graduate Students
+    role: Graduate Student
+    building: TBD
+    office: TBD
+    email: TBD
+    scope: TBD
+    profile: https://hafezi.jqi.umd.edu/people/shreyanka-sinha
+    projects: []
+
+  - name: Samarth Sriram
+    group: Graduate Students
+    role: Graduate Student
+    building: TBD
+    office: TBD
+    email: TBD
+    scope: TBD
+    profile: https://hafezi.jqi.umd.edu/people/samarth-sriram
+    projects: []
+
+  - name: Pranshoo Upadhyay
+    group: Graduate Students
+    role: Graduate Student
+    building: TBD
+    office: TBD
+    email: TBD
+    scope: TBD
+    profile: https://hafezi.jqi.umd.edu/people/pranshoo-upadhyay
+    projects: []
+
+  - name: Lida Xu
+    group: Graduate Students
+    role: Graduate Student
+    building: TBD
+    office: TBD
+    email: TBD
+    scope: TBD
+    profile: https://hafezi.jqi.umd.edu/people/lida-xu
+    projects:
+      - Device simulation (NLSE / coupled-mode; tight-binding and TMM toolchain)
+      - Topological photonics explorer apps (github.com/lidaxu-physics)
+
+  - name: Disha Zaveri
+    group: Graduate Students
+    role: Graduate Student
+    building: TBD
+    office: TBD
+    email: TBD
+    scope: TBD
+    profile: https://hafezi.jqi.umd.edu/people/disha-zaveri
+    projects: []
+
+  - name: Sakthi Rajmano Madhan Kumar
+    group: Undergraduate Students
+    role: Undergraduate Student
+    building: TBD
+    office: TBD
+    email: TBD
+    scope: TBD
+    profile: https://hafezi.jqi.umd.edu/people/sakthi-rajmano-madhan-kumar
+    projects: []
+
+  - name: Fiona Rioux
+    group: Undergraduate Students
+    role: Undergraduate Student
+    building: TBD
+    office: TBD
+    email: TBD
+    scope: TBD
+    profile: https://hafezi.jqi.umd.edu/people/fiona-rioux
+    projects: []
+
+  - name: Isaac Sherwood
+    group: Undergraduate Students
+    role: Undergraduate Student
+    building: TBD
+    office: TBD
+    email: TBD
+    scope: TBD
+    profile: https://hafezi.jqi.umd.edu/people/isaac-sherwood
+    projects: []
+
+  - name: Marcus Stancato
+    group: Undergraduate Students
+    role: Undergraduate Student
+    building: TBD
+    office: TBD
+    email: TBD
+    scope: TBD
+    profile: https://hafezi.jqi.umd.edu/people/marcus-stancato
+    projects: []
