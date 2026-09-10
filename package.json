@@ -1,0 +1,16 @@
+{
+  "name": "hafezi-onboarding",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Hafezi group onboarding site - markdown static site matching hafezi.jqi.umd.edu",
+  "type": "module",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "sync-theme": "node tools/sync-theme.mjs"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2",
+    "js-yaml": "^4.1.0"
+  }
+}
