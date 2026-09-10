@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>{{ title }} | {{ site.sectionTitle }} | Hafezi Group</title>
+  <link rel="icon" href="{{ '/assets/theme/logo_hafezi.svg' | url }}" type="image/svg+xml"/>
+  <link rel="stylesheet" href="{{ '/assets/theme/styles.css' | url }}"/>
+  <link rel="stylesheet" href="{{ '/assets/custom.css' | url }}"/>
+</head>
+<body>
+<div class="base-layout">
+  <a href="#main-content" class="skip-nav-link">Skip to main content</a>
+  {% include "partials/header.njk" %}
+  <main id="main-content">
+    <div class="page-content">
+      <div class="page-content__sidebar">
+        {% include "partials/sidebar.njk" %}
+      </div>
+      <div class="page-content__main">
+        <div class="page-content__header">
+          <nav class="breadcrumb" aria-label="Breadcrumb">
+            <ol class="breadcrumb__list">
+              <li class="breadcrumb__list-item"><a href="{{ site.mainSite }}/">Home</a></li>
+              <li class="breadcrumb__list-item"><a href="{{ '/' | url }}">{{ site.sectionTitle }}</a></li>
+              {% if page.url != '/' %}
+              <li class="breadcrumb__list-item"><a aria-current="page" href="{{ page.url | url }}">{{ title }}</a></li>
+              {% endif %}
+            </ol>
+          </nav>
+          <h1 class="page-content__header-title">{{ title }}</h1>
+        </div>
+        <div class="page-content__body">
+          <div class="text-content page-body">
+            {% if draft %}
+            <div class="callout callout--draft">
+              <p><strong>Draft.</strong> This page needs review by the group before it can be treated as authoritative.</p>
+            </div>
+            {% endif %}
+            {{ content | safe }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+  {% include "partials/footer.njk" %}
+</div>
+<script src="{{ '/assets/js/nav.js' | url }}"></script>
+</body>
+</html>

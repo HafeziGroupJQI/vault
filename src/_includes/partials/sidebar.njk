@@ -1,0 +1,17 @@
+<nav class="sidebar-nav" aria-label="Sidebar">
+  <ul>
+    <li>
+      <a class="sidebar-nav__parent" href="{{ site.mainSite }}/">
+        <svg class="icon icon-left-chevron" aria-hidden="true" height="13" width="8" viewBox="0 0 9 14"><path d="M6.642.779.806 6.295a.964.964 0 0 0 0 1.41l5.836 5.517c.392.37 1.016.37 1.409 0l.087-.093c.319-.39.29-.96-.087-1.316L3.101 7l4.955-4.818A.963.963 0 0 0 8.051.779a1.03 1.03 0 0 0-1.41 0Z" fill-rule="nonzero"></path></svg>
+        <span>Home</span>
+      </a>
+      <ul>
+        {% for p in collections.all | byOrder %}
+        {% if p.data.title %}
+        <li><a {% if p.url == page.url %}aria-current="page" {% endif %}href="{{ p.url | url }}">{{ p.data.navTitle or p.data.title }}</a></li>
+        {% endif %}
+        {% endfor %}
+      </ul>
+    </li>
+  </ul>
+</nav>
