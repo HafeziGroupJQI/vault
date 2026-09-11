@@ -55,4 +55,6 @@ with contents read/write on the website repo) makes that dispatch possible.
 
 ## TODO after migration
 
-Filled in automatically by the migration tooling; see the site build logs for unresolved links.
+- People records carry `building`, `office`, and `scope` as `TBD` unless already known; members fill in their own page.
+- Two news posts and the positions page lost inline images that the JQI Drupal host no longer serves.
+- Setup records were inferred from the September 3, 2026 walkthrough; owners should correct them.
