@@ -40,7 +40,7 @@ The researchers used a sample of graphene wired up with electrodes for their exp
 
 Media Group
 
-[JQI](/research/research-groups/jqi)
+[JQI](https://jqi.umd.edu/research/research-groups/jqi)
 
 An animation showing how light carrying orbital angular momentum can create an electrical current in a sample of graphene.
 

@@ -1,9 +1,11 @@
 ---
 title: "Checklist: Undergraduates"
-draft: true
 type: page
 tags: [onboarding, checklist]
 ---
+
+> [!warning] Draft
+> This page needs review by the group before it can be treated as authoritative. Edit it in the vault and remove this note when it is confirmed.
 
 In addition to the [[onboarding/checklists/everyone|everyone checklist]]. This section is a
 best-effort draft — undergrads, please correct it from experience.

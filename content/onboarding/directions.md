@@ -1,9 +1,11 @@
 ---
 title: Current Directions
-draft: true
 type: page
 tags: [onboarding]
 ---
+
+> [!warning] Draft
+> This page needs review by the group before it can be treated as authoritative. Edit it in the vault and remove this note when it is confirmed.
 
 What the group is working on *right now* — so that, in the words of the plan
 that started this page, "as people move forward … maybe we should talk and
