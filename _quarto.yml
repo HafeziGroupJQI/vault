@@ -1,0 +1,17 @@
+# Quarto project for the vault. The website build renders every .qmd under
+# content/ to GitHub-flavored markdown (with frontmatter kept) and hands the
+# result to Quartz; `quarto render <file> --to pdf` still works per file.
+project:
+  type: default
+  render:
+    - "content/**/*.qmd"
+execute:
+  freeze: auto
+format:
+  gfm:
+    variant: gfm+yaml_metadata_block+tex_math_dollars
+    prefer-html: true
+    wrap: none
+    fig-format: png
+    fig-width: 8
+    fig-height: 5

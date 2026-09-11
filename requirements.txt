@@ -1,0 +1,7 @@
+# python deps for executing code cells in .qmd files (used by the website build)
+jupyter
+nbformat
+nbclient
+ipykernel
+numpy
+matplotlib

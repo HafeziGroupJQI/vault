@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "equipment.schema.json",
+  "title": "Equipment record frontmatter",
+  "type": "object",
+  "required": ["title", "type", "id", "make", "model", "category", "interface", "tags"],
+  "properties": {
+    "title": { "type": "string", "minLength": 1 },
+    "type": { "const": "equipment" },
+    "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$" },
+    "make": { "type": "string" },
+    "model": { "type": "string" },
+    "category": { "enum": ["laser", "amplifier", "analyzer", "signal-generator", "stage", "controller", "imaging", "camera", "psu", "meter", "osa", "esa", "scope", "spectrometer", "cryostat", "daq", "attenuator", "infrastructure", "other"] },
+    "interface": { "enum": ["rs232", "usb", "gpib", "lan", "trigger", "manual", "none"] },
+    "driver": { "type": ["string", "null"], "pattern": "^[a-z0-9_]+$" },
+    "manual": { "type": ["string", "null"] },
+    "setups": { "type": "array", "items": { "type": "string", "pattern": "^\\[\\[setups/[a-z0-9-]+\\]\\]$" } },
+    "controls": { "type": "array", "items": { "type": "string" } },
+    "controlled_by": { "type": "array", "items": { "type": "string" } },
+    "status_endpoint": { "type": ["string", "null"] },
+    "owner": { "type": "string" },
+    "location": { "type": "string" },
+    "tags": { "type": "array", "items": { "type": "string" }, "contains": { "const": "equipment" } },
+    "draft": { "type": "boolean" },
+    "aliases": { "type": "array", "items": { "type": "string" } }
+  },
+  "additionalProperties": true
+}

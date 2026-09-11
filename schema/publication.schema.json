@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "publication.schema.json",
+  "title": "Publication record frontmatter",
+  "type": "object",
+  "required": ["title", "type", "year", "authors", "tags"],
+  "properties": {
+    "title": { "type": "string", "minLength": 1 },
+    "type": { "const": "publication" },
+    "year": { "type": "integer", "minimum": 1990, "maximum": 2100 },
+    "authors": { "type": "array", "items": { "type": "string" } },
+    "venue": { "type": ["string", "null"] },
+    "doi": { "type": ["string", "null"] },
+    "url": { "type": ["string", "null"] },
+    "pub_type": { "type": ["string", "null"] },
+    "research_areas": { "type": "array", "items": { "type": "string" } },
+    "source": { "type": "string" },
+    "tags": { "type": "array", "items": { "type": "string" }, "contains": { "const": "publications" } }
+  },
+  "additionalProperties": true
+}

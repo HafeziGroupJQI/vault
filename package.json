@@ -1,16 +1,14 @@
 {
-  "name": "hafezi-onboarding",
+  "name": "hafezi-vault",
   "version": "0.1.0",
   "private": true,
-  "description": "Hafezi group onboarding site - markdown static site matching hafezi.jqi.umd.edu",
+  "description": "Hafezi group knowledge vault: markdown, quarto notes, and equipment records that build the group site",
   "type": "module",
   "scripts": {
-    "build": "eleventy",
-    "serve": "eleventy --serve",
-    "sync-theme": "node tools/sync-theme.mjs"
+    "validate": "node tools/validate.mjs"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^3.1.2",
+    "ajv": "^8.17.1",
     "js-yaml": "^4.1.0"
   }
 }

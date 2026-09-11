@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "setup.schema.json",
+  "title": "Setup record frontmatter",
+  "type": "object",
+  "required": ["title", "type", "id", "equipment", "tags"],
+  "properties": {
+    "title": { "type": "string", "minLength": 1 },
+    "type": { "const": "setup" },
+    "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$" },
+    "room": { "type": "string" },
+    "owner": { "type": "string" },
+    "equipment": { "type": "array", "items": { "type": "string", "pattern": "^\\[\\[equipment/[a-z0-9-]+\\]\\]$" } },
+    "tags": { "type": "array", "items": { "type": "string" }, "contains": { "const": "setup" } }
+  },
+  "additionalProperties": true
+}

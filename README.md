@@ -1,61 +1,58 @@
-# Hafezi Group Onboarding Site
+# Hafezi Group vault
 
-A static site for the Hafezi group's onboarding documentation, built from plain
-Markdown files with [Eleventy](https://www.11ty.dev/). The generated pages use
-the exact stylesheet, fonts, and page structure of
-[hafezi.jqi.umd.edu](https://hafezi.jqi.umd.edu/), so the output can be dropped
-into the main site as an `/onboarding/` subsection or hosted standalone.
-
-## Quick start
-
-```sh
-npm install
-npm run serve        # dev server at http://localhost:8080/onboarding/
-npm run build        # static output in _site/
-```
-
-## Editing content
-
-- **Add or edit a page:** drop a `.md` file under `src/`. Front matter controls
-  the page:
-
-  ```yaml
-  ---
-  title: My Page
-  order: 5        # position in the sidebar (lower = higher)
-  draft: true     # optional: shows a "draft, needs group review" banner
-  ---
-  ```
-
-  Everything below the front matter is ordinary Markdown.
-
-- **Directory data:** `src/_data/people.yaml` is the single source of truth for
-  person ↔ role ↔ office ↔ contact ↔ "ask me about" scope. The
-  [directory page](src/directory.md) renders from it. Fill in `TBD` fields as
-  they get confirmed.
-
-- **Materials database:** `src/_data/materials.yaml` holds the photonic
-  material property tables (linear, nonlinear, electro/acousto-optic) and the
-  sources list. The [materials page](src/materials.md) renders from it.
-
-- **Unverified facts:** wrap them in the verify callout so readers know:
-
-  ```html
-  <div class="callout callout--verify"><p>…needs verification…</p></div>
-  ```
-
-## Theme
-
-`src/assets/theme/` holds a vendored copy of the main site's stylesheet, fonts,
-and logos, rewritten to relative paths. To refresh it after the main site
-changes:
-
-```sh
-npm run sync-theme
-```
+The group's knowledge base: onboarding pages, lab and equipment records, journal-club
+write-ups, and notes, kept as plain Markdown and Quarto files so anyone can edit them
+in Obsidian or on GitHub. Everything under `content/` is **public** and is built into
+the group site by [HafeziGroupJQI/website](https://github.com/HafeziGroupJQI/website)
+on every push. Internal notes belong in the private `vault-private` repository, never here.
 
 ## Layout
 
-`src/_includes/layouts/base.njk` reproduces the main site's DOM: header with
-main-site nav, this section's sidebar nav, breadcrumb, page body, footer.
-Top-nav links point at the live site; sidebar links stay within this section.
+| Path | What lives there |
+| --- | --- |
+| `content/index.md` | Landing page |
+| `content/onboarding/` | Checklists, buildings and access, safety, glossary, resources, current directions |
+| `content/people/` | One record per member (`type: person`) plus `directory.base`, the filterable directory |
+| `content/equipment/` | One record per instrument (`type: equipment`) plus `equipment.base` and the overview |
+| `content/setups/` | One record per experimental setup (`type: setup`) linking its equipment |
+| `content/journal-club/` | Session write-ups (`.qmd`) and discussion notes |
+| `content/lab/` | Long-form lab notes and walkthroughs |
+| `content/materials/` | Photonic material property tables |
+| `content/publications/`, `news/`, `research/` | Migrated from hafezi.jqi.umd.edu (see `source:` in each page) |
+| `content/assets/` | Images, grouped by section |
+| `schema/` | JSON schemas for the typed records above; CI validates against them |
+| `templates/` | Obsidian Templater templates for new notes and records |
+| `_quarto.yml`, `requirements.txt` | Quarto project used by the site build to render `.qmd` files |
+
+## Editing
+
+- Open the repository root as an Obsidian vault (plugins: Templater, Linter). Wikilinks
+  (`[[equipment/santec-tsl]]`) and callouts (`> [!note]`) render on the site as they do in Obsidian.
+- Every page starts with frontmatter. Minimum: `title`, `type`, `tags`. Set `draft: true` to
+  keep a page out of the site while you work on it (it is still visible on GitHub).
+- Typed records (`person`, `equipment`, `setup`, `publication`) must match `schema/*.json`;
+  run `npm run validate` before pushing, or let CI tell you.
+- `.qmd` files: write Quarto as usual. Put PDF-only options under `format: pdf:` so the site
+  build (which renders to markdown) ignores them. Code cells are executed at build time;
+  commit the `_freeze/` cache so CI only re-runs what changed.
+- Images: drop them in `content/assets/<section>/` and embed with `![[assets/<section>/file.jpg]]`.
+
+## Adding things
+
+- **A new instrument**: `templates/equipment.md` (Templater) or copy an existing record. Set
+  `driver` to the command-and-control driver name once one exists; leave `null` otherwise.
+- **A new setup**: `templates/setup.md`; list its equipment as `[[equipment/<id>]]` links.
+- **A journal-club session**: add `journal-club/journal-club-NN.qmd` and a `session-NN-notes.md`,
+  then add a row to `journal-club/index.md`.
+- **Your own directory entry**: edit `content/people/<your-name>.md`.
+
+## How the site is built
+
+Pushes to `main` run `tools/validate.mjs`, then send a `repository_dispatch` to the website
+repository, which checks out `content/`, renders the `.qmd` files with Quarto, builds the site
+with Quartz, and deploys to GitHub Pages. The secret `VAULT_DISPATCH_TOKEN` (fine-grained PAT
+with contents read/write on the website repo) makes that dispatch possible.
+
+## TODO after migration
+
+Filled in automatically by the migration tooling; see the site build logs for unresolved links.

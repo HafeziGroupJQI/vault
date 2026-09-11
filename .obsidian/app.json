@@ -1,0 +1,7 @@
+{
+  "useMarkdownLinks": false,
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "content/assets",
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": ["_freeze/", "schema/", "tools/", "node_modules/", ".github/"]
+}
