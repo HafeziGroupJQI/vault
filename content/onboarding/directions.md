@@ -36,7 +36,7 @@ computation, TMDs) can cross-pollinate.
 
 ## Who is doing what
 
-This list is the **Who is doing what** view of the [[people/directory.base|directory]], built from the `projects` field of each member's page under `people/`. Members without an entry yet: add your current focus to your own page.
+This list is the **Who is doing what** view of the [[people/Directory.base|directory]], built from the `projects` field of each member's page under `people/`. Members without an entry yet: add your current focus to your own page.
 
 ## Simulation toolchain (Lida's explorers)
 
