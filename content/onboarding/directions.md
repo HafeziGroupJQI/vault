@@ -1,8 +1,8 @@
 ---
 title: Current Directions
-navTitle: Current Directions
-order: 12
 draft: true
+type: page
+tags: [onboarding]
 ---
 
 What the group is working on *right now* — so that, in the words of the plan
@@ -23,7 +23,7 @@ computation, TMDs) can cross-pollinate.
   ([arXiv:2506.21388](https://arxiv.org/abs/2506.21388)).
 - **Material platforms in active measurement** — InGaP (UCSB-fabbed chips),
   TFLN, SiN (Ligentec), and the AQHE topological lattices. See the
-  [Photonic Material Database](../materials/).
+  [[materials/index|Photonic Material Database]].
 - **Optical computing and physical learning** — MZI meshes with
   heater-encoded weights; replication and extension of the Optical
   Transformers results; ML for ring lattices (theory).
@@ -36,14 +36,7 @@ computation, TMDs) can cross-pollinate.
 
 ## Who is doing what
 
-This list renders from `people.yaml` — keep your own entry current.
-
-{% for p in people.members %}{% if p.projects.length > 0 %}
-- **[{{ p.name }}]({{ p.profile }})** — {% for pr in p.projects %}{{ pr }}{% if not loop.last %}; {% endif %}{% endfor %}
-{% endif %}{% endfor %}
-
-Members without an entry yet: add your current focus to
-`src/_data/people.yaml`.
+This list is the **Who is doing what** view of the [[people/directory|directory]], built from the `projects` field of each member's page under `people/`. Members without an entry yet: add your current focus to your own page.
 
 ## Simulation toolchain (Lida's explorers)
 

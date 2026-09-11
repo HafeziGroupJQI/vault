@@ -1,7 +1,7 @@
 ---
 title: Welcome
-navTitle: Welcome
-order: 1
+type: page
+tags: []
 ---
 
 Welcome to the Hafezi Group! We are delighted to have you join us, and
@@ -30,23 +30,23 @@ The group's knowledge-sharing rests on three legs:
 
 - **The past** — the journal-club series: ~10 key papers from the group (plus
   a few from collaborators and competitors), one per week, tutorial-style at
-  first and student-led after that. See [Resources](resources/).
+  first and student-led after that. See [[onboarding/resources|Resources]].
 - **The future** — planning discussions and each member's 3 / 6 / 12-month
-  goals. See [Current Directions](directions/).
+  goals. See [[onboarding/directions|Current Directions]].
 - **The how** — this onboarding documentation: contacts, access, trainings,
   equipment, and operations. Start with the checklist for your role:
-  [everyone](checklists/everyone/),
-  [graduate students](checklists/graduate-students/),
-  [postdocs](checklists/postdocs/), or
-  [undergraduates](checklists/undergraduates/).
+  [[onboarding/checklists/everyone|everyone]],
+  [[onboarding/checklists/graduate-students|graduate students]],
+  [[onboarding/checklists/postdocs|postdocs]], or
+  [[onboarding/checklists/undergraduates|undergraduates]].
 
 ## Quick links
 
-- [Buildings & Access](buildings/) — finding and getting into Atlantic and PSC
-- [Directory](directory/) — who sits where, and who to ask about what
-- [Lab Equipment](lab/equipment/) · [Lab Safety](lab/safety/) · [Glossary](lab/glossary/)
-- [Photonic Material Database](materials/) — optical properties of our platforms
-- [Current Directions](directions/) — who is working on what right now
+- [[onboarding/buildings|Buildings & Access]] — finding and getting into Atlantic and PSC
+- [[people/index|Directory]] — who sits where, and who to ask about what
+- [[equipment/index|Lab Equipment]] · [[onboarding/safety|Lab Safety]] · [[onboarding/glossary|Glossary]]
+- [[materials/index|Photonic Material Database]] — optical properties of our platforms
+- [[onboarding/directions|Current Directions]] — who is working on what right now
 
 Again, congratulations — we look forward to working with you.
 

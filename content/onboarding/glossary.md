@@ -1,7 +1,7 @@
 ---
 title: Glossary
-navTitle: Glossary
-order: 11
+type: page
+tags: [onboarding]
 ---
 
 Terms you'll hear in the lab and in group meetings, defined the way we

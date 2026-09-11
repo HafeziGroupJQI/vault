@@ -1,18 +1,18 @@
 ---
 title: "Checklist: Postdocs"
-navTitle: Postdocs
-order: 4
 draft: true
+type: page
+tags: [onboarding, checklist]
 ---
 
-In addition to the [everyone checklist](../everyone/). This section is a
+In addition to the [[onboarding/checklists/everyone|everyone checklist]]. This section is a
 best-effort draft — postdocs, please correct it from experience.
 
 ## Appointment and HR
 
 - Complete your hire paperwork with department HR (payroll, I-9, direct
   deposit). Finance, payroll, and HR staff sit on the ground floor of PSC —
-  see [Buildings & Access](../../buildings/).
+  see [[onboarding/buildings|Buildings & Access]].
 - **Benefits enrollment is time-limited**: State of Maryland employee benefits
   must be elected within 60 days of your start date. See
   [UHR benefits](https://uhr.umd.edu/benefits/).

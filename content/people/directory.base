@@ -1,0 +1,50 @@
+filters:
+  and:
+    - file.folder == "people"
+    - type == "person"
+properties:
+  title:
+    displayName: Name
+  role:
+    displayName: Role
+  building:
+    displayName: Building
+  office:
+    displayName: Office
+  email:
+    displayName: Email
+  scope:
+    displayName: Ask me about
+views:
+  - type: table
+    name: By group
+    order:
+      - title
+      - group
+      - role
+      - building
+      - office
+      - email
+      - scope
+    sort:
+      - property: group
+        direction: ASC
+      - property: title
+        direction: ASC
+  - type: table
+    name: Who is doing what
+    filters:
+      and:
+        - projects.length > 0
+    order:
+      - title
+      - projects
+    sort:
+      - property: title
+        direction: ASC
+  - type: cards
+    name: Cards
+    order:
+      - title
+      - role
+      - email

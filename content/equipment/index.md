@@ -1,7 +1,7 @@
 ---
 title: Lab Equipment
-navTitle: Equipment
-order: 9
+type: page
+tags: [equipment]
 ---
 
 An overview of the measurement lab, distilled from the September 3, 2026 lab

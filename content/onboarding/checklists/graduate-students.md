@@ -1,10 +1,10 @@
 ---
 title: "Checklist: Graduate Students"
-navTitle: Graduate Students
-order: 3
+type: page
+tags: [onboarding, checklist]
 ---
 
-In addition to the [everyone checklist](../everyone/):
+In addition to the [[onboarding/checklists/everyone|everyone checklist]]:
 
 ## Graduate School mandatory online orientation
 
@@ -33,8 +33,9 @@ If you hold a teaching assistantship, complete the TLTC's
 [Graduate Student Orientation to Teaching](https://tltc.umd.edu/gatas/graduate-student-orientation-teaching)
 (a ~90-minute digital course, plus optional in-person August workshops).
 
-<div class="callout callout--verify"><p>Whether there is a separate GRA
-orientation is unconfirmed — if you find out, update this line.</p></div>
+> [!warning] Needs verification
+> Whether there is a separate GRA
+> orientation is unconfirmed — if you find out, update this line.
 
 ## RespectEdu (Title IX / sexual misconduct prevention training)
 
@@ -43,8 +44,9 @@ Students** course, typically about a month before the semester starts. As a GA
 you are also a Responsible University Employee with reporting obligations.
 See [OCRSM training](https://ocrsm.umd.edu/graduate-students).
 
-<div class="callout callout--verify"><p>Whether non-graduate members must also
-complete an equivalent training is unconfirmed.</p></div>
+> [!warning] Needs verification
+> Whether non-graduate members must also
+> complete an equivalent training is unconfirmed.
 
 ## Department-specific planning
 

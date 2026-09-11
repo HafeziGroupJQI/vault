@@ -1,7 +1,7 @@
 ---
 title: Lab Safety
-navTitle: Safety
-order: 10
+type: page
+tags: [onboarding]
 ---
 
 The lab operates **Class 4 laser** systems (the amplified 1550 nm chain). The
@@ -29,7 +29,8 @@ training before working in the lab.
 
 ## Trainings
 
-<div class="callout callout--verify"><p>List the exact required trainings and
-who schedules them (department laser safety, anything JQI-specific). Note
-that at least one required training is in-person only and offered roughly
-monthly — schedule it in your first week.</p></div>
+> [!warning] Needs verification
+> List the exact required trainings and
+> who schedules them (department laser safety, anything JQI-specific). Note
+> that at least one required training is in-person only and offered roughly
+> monthly — schedule it in your first week.

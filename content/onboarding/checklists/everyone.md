@@ -1,7 +1,7 @@
 ---
 title: "Checklist: Everyone"
-navTitle: Everyone
-order: 2
+type: page
+tags: [onboarding, checklist]
 ---
 
 Action items that apply to every new member, regardless of role. Work through
@@ -9,7 +9,7 @@ these in roughly this order during your first week or two.
 
 ## Points of contact
 
-The first thing to know is who to ask. See the [Directory](../../directory/)
+The first thing to know is who to ask. See the [[people/index|Directory]]
 for who sits where and who to ask about what. For anything administrative you
 can't place, start with the JQI front office
 (Room 2207 Atlantic Building, [jqi-info@umd.edu](mailto:jqi-info@umd.edu),
@@ -21,21 +21,22 @@ can't place, start with the JQI front office
   activated on it.
 - **Swipe access** to the Atlantic Building and lab spaces must be requested
   for you. Ask a group lead who to contact for building swipe access and lab
-  keys; see [Buildings & Access](../../buildings/) for what is where.
+  keys; see [[onboarding/buildings|Buildings & Access]] for what is where.
 - Lab access is separate from building access, and hands-on lab work also
   requires safety training first (below).
 
 ## Trainings
 
-<div class="callout callout--verify"><p>Some required trainings are offered
-<strong>in person only, once a month</strong> — tell whoever schedules them
-that it's a priority so you don't lose a month waiting for the next
-session.</p></div>
+> [!warning] Needs verification
+> Some required trainings are offered
+> **in person only, once a month** — tell whoever schedules them
+> that it's a priority so you don't lose a month waiting for the next
+> session.
 
 - Laser safety training before working in the laser labs (see
-  [Lab Safety](../../lab/safety/)).
+  [[onboarding/safety|Lab Safety]]).
 - Any equipment-specific training: ask the person responsible for that
-  instrument (see [Equipment](../../lab/equipment/)).
+  instrument (see [[equipment/index|Equipment]]).
 
 ## Parking and transportation
 
@@ -49,9 +50,10 @@ session.</p></div>
 
 If you want to buy anything for the lab, there is a physics purchase form.
 
-<div class="callout callout--verify"><p>The purchase-form link still needs to
-be added here — it was circulated by email. If you have the email, paste the
-link into this section.</p></div>
+> [!warning] Needs verification
+> The purchase-form link still needs to
+> be added here — it was circulated by email. If you have the email, paste the
+> link into this section.
 
 ## Email lists and calendars
 

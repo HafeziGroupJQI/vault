@@ -1,11 +1,11 @@
 ---
 title: "Checklist: Undergraduates"
-navTitle: Undergraduates
-order: 5
 draft: true
+type: page
+tags: [onboarding, checklist]
 ---
 
-In addition to the [everyone checklist](../everyone/). This section is a
+In addition to the [[onboarding/checklists/everyone|everyone checklist]]. This section is a
 best-effort draft — undergrads, please correct it from experience.
 
 ## Getting started
@@ -18,12 +18,12 @@ best-effort draft — undergrads, please correct it from experience.
   undergrad projects (simulation, data analysis, ML) need no lab access at
   all.
 - If you will set foot in a laser lab: laser safety training first, and never
-  work in the lab alone. See [Lab Safety](../../lab/safety/).
+  work in the lab alone. See [[onboarding/safety|Lab Safety]].
 
 ## Learning the ropes
 
-- Start with the [Glossary](../../lab/glossary/) and the
-  [Equipment overview](../../lab/equipment/) — they exist precisely so you
+- Start with the [[onboarding/glossary|Glossary]] and the
+  [[equipment/index|Equipment overview]] — they exist precisely so you
   don't need two months of osmosis.
-- Join the journal club (see [Resources](../../resources/)); it's the fastest
+- Join the journal club (see [[onboarding/resources|Resources]]); it's the fastest
   map of what the group cares about.

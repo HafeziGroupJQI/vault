@@ -1,7 +1,7 @@
 ---
 title: Resources
-navTitle: Resources
-order: 13
+type: page
+tags: [onboarding]
 ---
 
 ## Journal club — "the past"
@@ -14,10 +14,11 @@ you read a paper you know which group it came from and their history. Once the
 foundation exists, students take the lead: pick a week, present a paper,
 propose a project based on it.
 
-<div class="callout callout--verify"><p>The concrete list of the ~10 papers
-and the schedule should be added here once fixed. Meanwhile, the
-<a href="https://hafezi.jqi.umd.edu/publications">Publications page</a> is the
-superset.</p></div>
+> [!warning] Needs verification
+> The concrete list of the ~10 papers
+> and the schedule should be added here once fixed. Meanwhile, the
+> [Publications page](https://hafezi.jqi.umd.edu/publications) is the
+> superset.
 
 ## Key starting points
 
@@ -34,15 +35,16 @@ Per the group's plan to hyperlink demos rather than describe them:
 
 - [Lida's topological photonics explorer apps](https://github.com/lidaxu-physics)
   — runnable desktop simulators for the lattice/comb physics (see
-  [Current Directions](../directions/) for the tour).
+  [[onboarding/directions|Current Directions]] for the tour).
 
-<div class="callout callout--verify"><p>Add links to any browser-based demos
-of the group's results (e.g. outreach/visualization pages) — "hyperlink the
-online demo(s)" is an open item from the onboarding doc.</p></div>
+> [!warning] Needs verification
+> Add links to any browser-based demos
+> of the group's results (e.g. outreach/visualization pages) — "hyperlink the
+> online demo(s)" is an open item from the onboarding doc.
 
 ## Group operations
 
-- Physics purchasing / ordering: see the [everyone checklist](../checklists/everyone/).
+- Physics purchasing / ordering: see the [[onboarding/checklists/everyone|everyone checklist]].
 - Meeting notes, transcripts, and walkthrough writeups live with whoever took
   them — link canonical copies here as they accumulate.
 
