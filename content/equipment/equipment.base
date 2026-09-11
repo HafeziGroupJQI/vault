@@ -1,0 +1,39 @@
+filters:
+  and:
+    - type == "equipment"
+properties:
+  title:
+    displayName: Instrument
+views:
+  - type: table
+    name: Inventory
+    order:
+      - title
+      - category
+      - make
+      - model
+      - interface
+      - driver
+      - setups
+      - owner
+    sort:
+      - property: category
+        direction: ASC
+      - property: title
+        direction: ASC
+  - type: table
+    name: Remote-controllable
+    filters:
+      and:
+        - driver != null
+    order:
+      - title
+      - interface
+      - driver
+      - status_endpoint
+  - type: cards
+    name: Cards
+    order:
+      - title
+      - category
+      - model

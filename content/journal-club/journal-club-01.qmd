@@ -1,0 +1,171 @@
+---
+title: "Journal Club 1: Enhancing Image Recognition Using Gaussian Boson Sampling"
+subtitle: "PRL 137, 080603"
+author: "Hafezi Group"
+date: 2026-09-10
+type: journal-club
+tags: [journal-club, gaussian-boson-sampling, reservoir-computing]
+toc: true
+format:
+  pdf:
+    pdf-engine: xelatex
+    output-file: "journal-club-01.pdf"
+    toc-depth: 3
+    number-sections: true
+    colorlinks: true
+    include-in-header:
+      text: |
+        \addtokomafont{disposition}{\rmfamily}
+        \usepackage{amsmath, xparse}
+        \usepackage{amsfonts}
+        \usepackage{amssymb}
+        \usepackage{physics}
+        \usepackage{bm}
+---
+
+::: {.callout-note}
+## About this document
+
+This transcript was reconstructed from the audio recording of the first Hafezi-group journal club session (two recorded parts, ~35 min + ~6 min), the presenter's whiteboard discussion as captured in participants' notes and drawings, and the paper under discussion: S.-Q. Gong *et al.*, "Enhancing Image Recognition Using Gaussian Boson Sampling," *Phys. Rev. Lett.* **137**, 080603 (2026) — the Jiǔzhāng 4.0 GBS reservoir-computing experiment from USTC. Speech has been lightly cleaned up; technical terms garbled by the transcription model have been corrected against the paper. Student remarks are paraphrased where the room audio was unclear.
+
+**The recording ends abruptly** partway through a worked example of mapping the digitized feature vector onto computational bases (end of §7). Discussion that continued past that point (the GRVFL construction, the pseudoinverse readout, and future directions) is not transcribed here; it is summarized in the accompanying lecture notes from the participants' own record.
+:::
+
+# Why a journal club
+
+The presenter opened by explaining the motivation for starting the series. Students — including Mahmoud, Mohammed, and Pasha — keep asking about these topics, and it is difficult to explain everything in one sitting: "I believe nothing is difficult, it's just complex. If the complexity is beyond one hour of discussion, then it's something we can never really communicate." Hence a weekly journal club, so the group can build a common language: the discussions are usually high-level, but they need concrete, fundamental concepts underneath.
+
+The papers chosen are not necessarily important in their own right — the point is that everyone can understand what a paper actually *does*, especially people without prior experience in the field. The target for each session is about an hour, an hour and a half at most.
+
+The only goal for today is **not** reservoir computing in general — it is to understand what this paper did: what is the input, what is the output, how is the data processed, and why. Reservoir computing in general may come later today or next time, since this is a typical reservoir-computing paper.
+
+# Terminology: reservoir computing vs. extreme learning machines
+
+Before the technical details, one thing about the *name* "reservoir computing." Many people argue that we should not use that term for what this paper does. What it really is — as the authors themselves nicely point out — is an **ELM, extreme learning machine**. (The presenter noted this was actually the first term they ever learned in their PhD, six or eight years ago.)
+
+The simple picture: you are given a *reservoir* — a physical system that is super complicated — and you encode your data somehow into the system; that is the input, say of length $n$. The system produces some output, say a vector of length $m$, and you directly apply a **linear operation — a linear classifier — to the $m$-element output vector**, which gives you the prediction. That is what reservoir computing / extreme learning machine means.
+
+A student raised the distinction they had learned: reservoir computing was originally the idea of an extremely large RNN with frozen random hidden layers, mainly for *time-series* data. The presenter agreed — that is exactly the rigorous difference between the two terms:
+
+- **Reservoir computing** (rigorously): the reservoir has memory / time-series dynamics.
+- **Extreme learning machine**: feed-forward, one shot.
+
+Most of the time, when the community says "reservoir computing," it actually means an ELM. A student asked whether the setup is assumed to be in steady state rather than a transient; the presenter set that detail aside: the group will use "reservoir computing" loosely, because that is how the community uses it. Rigorously there must be time dependence in the reservoir, but in practice people call feed-forward, one-shot schemes reservoir computing too — the word is catchier, and "reservoir" here means a *physical* reservoir, not the abstract (bath) notion.
+
+Summary of the term: **reservoir computing means we have a physical system, we don't train it, and we use a linear classifier on the output.** The spirit is that the physical system requires no optimization.
+
+Asked whether the reservoir performs nonlinear operations: by definition it doesn't have to, but a purely linear reservoir would be useless — for classification you want nonlinearity. And, to be fair, that is the awkward part of this field: some reservoir-computing papers cannot even beat an arbitrary linear classifier, which makes them practically useless. ("We want to keep a positive tone and look at their value — but I agree.")
+
+# What did this paper do?
+
+Poll of the room: how many have read the paper? Asked to summarize, Anish offered: they looked at MNIST, did the classification using Gaussian boson sampling, and got a better result than software. The presenter's follow-up — *how* did they relate MNIST to GBS? — is exactly the question the session sets out to answer. Papers like this can seem too fancy to understand, but by the end everyone should know what is actually going on — well enough that "if they ask you to replicate the paper, you will know what to do."
+
+Notably, **nothing in this work is unpublished**: the raw Jiǔzhāng 4.0 data is downloadable from the repository the authors posted, so anyone in the group could in principle replicate the analysis and do as well as the authors. This is something to discuss at the end.
+
+## Terms for later reference
+
+**GBS — Gaussian boson sampling.** The physical definition was skipped, but a student gave a working description: some physical object performs a passive unitary transformation on input optical modes; you measure the number of photons in each output mode, and the question is whether you have control over the probability distribution of the outputs as a function of photon number. Asked for the motivation, the presenter gave the brief background: boson sampling is **very hard to compute on a digital computer but easy to realize on a quantum device**, so it is used to demonstrate quantum advantage ("supremacy"). It was the **first quantum advantage demonstrated with optical signals**; the other early demonstration was with superconducting systems. That is why GBS is considered worth digging into. Boson sampling itself will probably be covered in a later session of this series — not today.
+
+**GELM and GRVFL.** These are the paper's two models, whose test results on MNIST and Fashion-MNIST constitute the claimed advantage. A student explained correctly: ELM and RVFL are the classical versions of the reservoir / extreme-learning-machine idea; the "G" means the data first passes through the quantum device — the GBS — and that output feeds the linear classifier. The results table (Table I of the paper) will be revisited at the end, once the pipeline is understood:
+
+| Model | MNIST | Fashion-MNIST |
+|---|---|---|
+| SVC (linear kernel) | 92.9% | 83.9% |
+| Perceptron | 86.01% | 81.12% |
+| GELM | 95.27% | 85.00% |
+| GRVFL | **95.86%** | **85.95%** |
+
+**PCA — principal component analysis.** Students described it as projecting high-dimensional data onto a lower-dimensional plane / separating parameter space into groups. The presenter's summary: it is simply **an efficient way to compress data — dimensionality reduction — without losing most of the information.** A student asked whether one could just run the linear classifier directly on the PCA features; that question was deferred ("first see how they did it, then you will see why they need PCA — that's actually the first question").
+
+# The input pipeline: MNIST $\to$ PCA $\to$ digitized features
+
+What is the data structure of MNIST? For those not sure: **MNIST is the standard handwritten-digit dataset** people used for first-generation machine learning — monochrome pictures of $28\times28$ pixels. Since nothing here (no convolution) preserves the image geometry, each picture is flattened into a **vector of $784$ pixel values**. That is the input.
+
+An aside on why optical-computing papers often *cannot* do MNIST: the dimension is too high. You usually do not have a physical system with enough addressable dimensions to encode a 784-dimensional input.
+
+So: did they put the 784-dimensional vector directly into the GBS reservoir? No. If the system only accepts an input of size ~32, you must compress. One student suggested cutting the vector into parts; but you cannot turn one input into multiple independent inputs — instead, **PCA reduces the 784 dimensions to 32**. (When reading machine-learning papers, the first thing to look at is always the *dimensions* — the tensor dimensions are the key to understanding how a model operates.)
+
+A student asked whether one data point is encoded per input mode of the device — a natural guess given the device has ~8000 modes. The presenter flagged the assumption: the largest input dimension they can take is 32 — **actually 16; they use it twice to get 32**, cutting the feature vector into two halves (this becomes important below).
+
+Referring to Fig. 1 of the paper: the images undergo PCA to 32 features, are **normalized (zero mean, unit variance) and passed through a sigmoid** so every element lies in $(0,1)$, and then are mapped through the "GBS kernel" to the output. The paper's panel 1(a) — the cumulative variance ratio (CVR) — quantifies how much information the compression loses; with 32 features the CVR is 0.744 for MNIST and 0.826 for Fashion-MNIST. The process is more complicated than the figure implies, "and that's probably why it's hard to get what they are doing at the beginning — but now we will decipher this language."
+
+The digitization step, with a toy example: take a feature vector, say elements $0.1,\ 0.2,\ -0.8,\ \dots$ After normalization and the sigmoid all values are in $(0,1)$; then multiplying by $256$ (or $255$) converts each floating-point value into an integer — exactly like converting a float in $[0,1]$ to an 8-bit value in $[0,255]$:
+
+$$
+x \in (0,1) \;\longmapsto\; j = \lfloor 256\,x \rfloor \in \{0, 1, \dots, 255\}.
+$$
+
+So each feature becomes an integer index from 0 to 255. **These integers will be the indices of the GBS modes we select** — this is the crux of the encoding.
+
+# The GBS dataset: 16 detectors $\times$ 511 temporal modes
+
+What does the GBS data actually look like? A student answered: a matrix of spatial modes versus temporal modes. Exactly — the GBS data has two dimensions:
+
+- **time**: digitized into **511 temporal bins** (first time bin, second time bin, …), and
+- **detectors**: the setup uses only **16 detectors** (spatial modes).
+
+The device takes data continuously in time using **thresholded single-photon detectors**: each detector, in each time bin, either *clicks* (1 — at least one photon) or doesn't (0 — no photon). One run of the experiment therefore produces a $511 \times 16$ **bitmap** of 0s and 1s — in the paper's Fig. 1(b), the red dots are the photon clicks. That is *everything* you have.
+
+## The twist: the input never enters the device
+
+This paper is "kind of cute" in that it has something genuinely novel for reservoir computing: **they do not encode the input into the physical system at all.** In most reservoir-computing papers, the input modifies the physical system, which then produces a corresponding output. Here, the GBS data was *already collected* — it just sits there (and is downloadable; "it's the same for us").
+
+Instead, **the input is encoded by letting the data determine which modes we select** from the pre-recorded samples. That is the tricky part of the encoding:
+
+1. Image $\to$ 784-vector $\to$ PCA $\to$ 32 features.
+2. Normalize + sigmoid $\to$ every element in $(0,1)$.
+3. Digitize $\to$ integers in $[0,255]$.
+4. Each integer picks a **temporal mode**: if a feature has value $j$, temporal mode $j$ is selected (and, per the paper, the $i$-th feature is assigned to the $i$-th spatial mode — see §7).
+
+If a feature selects temporal mode 2, we read out the **16 detector values of mode 2** — that is how the input first touches the GBS data.
+
+A student asked whether this happens per detector; the presenter clarified that at this stage nothing involves the detectors yet — steps 1–3 are pure input processing, before the GBS enters at all.
+
+## From bitmaps to probabilities
+
+One $511\times16$ bitmap is a single sample — one shot. The experiment is repeated **millions of times** (the paper: $9\times10^6$ samples collected in ~450 s, of which $5\times10^6$ are used, with ~2200 average clicks per sample) to build up a **probability distribution**. The input then determines which bins you look at, and the selected bins are mapped to the *probabilities* of the outcomes on those modes — that is the row vector that finally feeds the linear classifier.
+
+A student (who said they understood the mechanics but not yet the intuition — "that's for later; first understand what it does") summarized it well: we are sampling the distribution of the system's modes, and the relative frequencies converge to the real probabilities. Each selected column of the bitmap is effectively a binary string, and whether or not you see clicks, every sub-experiment gives you a value for it.
+
+**How is the probability computed?** Simply by counting: you repeat the experiment, say, 5 million times and record every outcome. If a particular outcome (bit pattern on the selected modes) occurs twice, its probability is $2/(5\times10^6)$:
+
+$$
+P(\text{outcome}) \;=\; \frac{\#\,\text{occurrences of that click pattern}}{\#\,\text{samples}}.
+$$
+
+A student asked whether the input value is re-added or re-normalized each repetition — this prompted an important clarification: **the input is static.** A given MNIST image is a fixed piece of data; it goes through the pipeline once and does not change over time. Any time dependence lives in the *reservoir* (the sampling), never in the input data. Do not entangle the two. ("Oh, okay — that makes sense.")
+
+# Reading break
+
+Sensing that people might start to feel lost — "that's what I want to avoid" — the presenter paused the lecture and had everyone re-read the paper for about five minutes with the pipeline so far in mind (image $\to$ PCA $\to$ integers $\to$ indices of the time bins), with two questions to answer:
+
+1. **What is the dimension of the vector just before the linear classifier?**
+2. **How does the index mapping just described connect to the paper's "computational bases"?**
+
+*(The recording of part 1 ends here; part 2 resumes after the reading break.)*
+
+# After the break: mapping selected modes to computational bases
+
+Recap of where things stand, reconstructed jointly with the students:
+
+- $784$ pixels $\to$ PCA $\to$ $32$ features.
+- The 32 features are **cut in half**: the first 16 features map to temporal modes $0\text{–}255$, the second 16 to temporal modes $256\text{–}511$. (These are the paper's partitions A and B of the 511 temporal modes, split at the 256th mode — chosen because the average click number rises over the first 256 temporal modes and falls over the last 255, per Fig. 1(c).)
+- Consider one half after the partition: 16 features, each selecting one temporal mode; reading the 16 detectors at each selected mode turns **each entry into a bit string of length 16**.
+
+The remaining puzzle — "the only missing part today, and the most challenging, but it *is* written in the paper" — is: **how do you get from these length-16 bit strings to the ~3000-dimensional vector that feeds the classifier?**
+
+First, where does 3000 come from? A student worked it out from the paper: the click data is very sparse over the $2^{16}$ possible outcomes, so the authors randomly pick training images and find where most of the data lives — the least-sparse computational bases. That is indeed how the ~3000 bases are *chosen* (the paper's procedure: randomly select $n_1 = 1000$ training images; for each, count samples on the computational bases of the selected modes; keep the bases with the largest $n_2 = 2000$ counts; select the most frequent $N$ bases overall — using all $2^{16}$ basis states would be neither necessary nor practical).
+
+Another student connected this to the earlier probability question: for each randomized image you have a set of these 16-bit outcomes, and "counting the number of samples" means building the histogram over them — "that's how they build the histogram to choose the 3000 out of all the $2^{16}$ possibilities."
+
+But the presenter's question was subtly different: given the selected modes, **how is the 16-dimensional readout mapped onto the ~3000 selected computational bases** (the exact number doesn't matter)? A student sketched an idea involving a change of basis: from a probability standpoint, you drop the terms outside your kept sample space and re-normalize within it — "good," but only an overarching sketch.
+
+Rather than test the room's patience further, the presenter began a small worked example with just **four modes** — writing a four-element example vector on the board…
+
+**…and here the recording ends, mid-example.** The remainder of the session (completing the mapping example, the GRVFL construction that concatenates the original input with the GBS features, the pseudoinverse readout, and the discussion of replicating the paper from the authors' repository) was not captured on audio; see the session notes for the participants' record, and §III of the paper for the authoritative version: the counts on the selected bases from partitions A and B are merged, renormalized, passed through a sigmoid, and become the feature vector of dimension $kN$ (for $M = 16k$ PCA features and $N$ selected bases) that feeds the linear classifier, trained analytically by pseudoinverse.
+
+# Looking ahead
+
+- **Boson sampling itself** (the physics and the complexity argument) will probably be covered in a later session of this series.
+- **Reservoir computing in general** may be discussed later or next time, since this paper is a typical entry point.
+- **Replication**: everything in this work is published — the Jiǔzhāng 4.0 raw data and the processing pipeline are downloadable from the authors' repository — so replicating the analysis is a realistic group exercise and a candidate topic for a future discussion.

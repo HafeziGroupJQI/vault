@@ -2,10 +2,10 @@
 title: Lab Equipment
 type: page
 tags: [equipment]
+aliases: [Lab Equipment]
 ---
 
-An overview of the measurement lab, distilled from the September 3, 2026 lab
-walkthrough. The mental model for the whole lab, in one sentence:
+An overview of the measurement lab, distilled from the September 3, 2026 lab walkthrough (full notes: [[lab/lab-meeting-2026-09-03|Lab walkthrough]]). Every instrument has its own record in this folder; the [[equipment/equipment|inventory table]] lists them all, and the [[setups/index|setups]] pages show how they are wired together. The mental model for the whole lab, in one sentence:
 
 > "You can break down every single experiment that we do into three parts:
 > **laser, sample, detector**. Types of lasers change, types of detectors
@@ -14,33 +14,33 @@ walkthrough. The mental model for the whole lab, in one sentence:
 
 ## Light sources and amplification
 
-- **Santec tunable CW laser** — the workhorse low-power, low-noise tunable
+- [[equipment/santec-tsl|Santec tunable CW laser]] — the workhorse low-power, low-noise tunable
   laser; wavelength/current set over serial from the lab PC.
-- **BKtel pulsed fiber laser** ("BKtel 2", CPFL-1550-300a-FCAPC, 1550 nm,
+- [[equipment/bktel-2|BKtel pulsed fiber laser]] ("BKtel 2", CPFL-1550-300a-FCAPC, 1550 nm,
   300 mW class) — "the big laser." Repetition rate is set by a hardware square
   wave from the function generator; slow parameters over serial.
-- **EDFAs** — BKtel module, Optilab benchtop (INPUT / 1% TAP / OUTPUT), and a
+- **EDFAs** ([[equipment/bktel-edfa|BKtel]], [[equipment/optilab-edfa|Optilab]], [[equipment/fttp-edfa|FTTP]]) — BKtel module, Optilab benchtop (INPUT / 1% TAP / OUTPUT), and a
   rack-mount FTTP unit. They amplify whatever seed you feed them, so they are
   deliberately not remote-controlled: control the seed instead.
-- **Luna OVA** — optical vector network analyzer with its own internal swept
+- [[equipment/luna-ova|Luna OVA]] — optical vector network analyzer with its own internal swept
   laser; amplitude + phase response of devices.
 
 ## Signal generation
 
-- **Rigol DG4202** function/arbitrary waveform generator — the pulse trigger
+- [[equipment/rigol-dg4202|Rigol DG4202]] function/arbitrary waveform generator — the pulse trigger
   for the BKtel laser (e.g. 250 kHz square wave).
-- **Zurich Instruments SHFSG** — 8-channel, 8.5 GHz signal generator; mostly
+- [[equipment/zurich-shfsg|Zurich Instruments SHFSG]] — 8-channel, 8.5 GHz signal generator; mostly
   not in use yet and part of the fully-automated-setup plans.
 
 ## Sample positioning and imaging
 
-- **Thorlabs NanoMax-TS 3-axis flexure stages** — manual micrometers
+- [[equipment/thorlabs-nanomax-ts|Thorlabs NanoMax-TS 3-axis flexure stages]] — manual micrometers
   (swappable for stepper motors) plus internal piezos with ~20 µm fine range.
-- **Elliot Scientific / Martock Design 3-axis flexure stage** (second setup);
-  assorted Newport micrometer stages; **Newport CONEX-CC** closed-loop DC
+- [[equipment/elliot-martock-stage|Elliot Scientific / Martock Design 3-axis flexure stage]] (second setup);
+  assorted Newport micrometer stages; [[equipment/newport-conex-cc|Newport CONEX-CC]] closed-loop DC
   servo controller for motorized axes.
-- **Navitar 12× zoom microscope column** with an **AmScope camera** and a
-  **Thorlabs CS165CU Zelux** color CMOS in the path; a beamsplitter feeds two
+- [[equipment/navitar-12x|Navitar 12× zoom microscope column]] with an [[equipment/amscope-camera|AmScope camera]] and a
+  [[equipment/thorlabs-cs165cu|Thorlabs CS165CU Zelux]] color CMOS in the path; a beamsplitter feeds two
   cameras, and the camera sits on its own translation stage so it can move
   around the chip.
 - Fiber-to-chip coupling is currently manual (turn knobs watching the camera)
@@ -52,25 +52,25 @@ Heaters aren't bought — they are **fabricated on the chip**: a thin metal wire
 whose Joule heating shifts the local refractive index (and nonlinearity).
 Uses: (1) trimming imperfectly fabricated devices back to design behavior,
 (2) encoding the optical weights of MZI meshes for optical computing. Driven
-by a **Keithley 2220-30-1** dual-channel programmable supply.
+by a [[equipment/keithley-2220-30-1|Keithley 2220-30-1]] dual-channel programmable supply.
 
 ## Detection and analysis
 
 In increasing order of spectral specificity:
 
-1. **Power meter** — how much light is there.
-2. **Yokogawa AQ6375B OSA** (1200–2400 nm, grating-based) — the everyday
+1. [[equipment/power-meter|Power meter]] — how much light is there.
+2. [[equipment/yokogawa-aq6375b|Yokogawa AQ6375B OSA]] (1200–2400 nm, grating-based) — the everyday
    spectrum measurement.
-3. **APEX OSA-APE high-resolution OSA** — sweeps an internal laser and beats
+3. [[equipment/apex-osa-ape|APEX OSA-APE high-resolution OSA]] — sweeps an internal laser and beats
    it against your signal (heterodyne); for narrow features and comb lines.
-4. **Visible-band free-space spectrometer** with interchangeable gratings and
-   a TE-cooled **Princeton Instruments camera** (LightField software) — for
+4. [[equipment/visible-spectrometer|Visible-band free-space spectrometer]] with interchangeable gratings and
+   a TE-cooled [[equipment/princeton-instruments-camera|Princeton Instruments camera]] (LightField software) — for
    wavelengths below the OSAs' range, e.g. 775 nm SHG.
-5. **Photodetector → DAC/DAQ** — digitizes detector output for the PC; also
+5. **Photodetector → [[equipment/ni-daq|DAQ]]** — digitizes detector output for the PC; also
    exchanges hardware triggers directly with the laser.
-6. **Tektronix TDS 2014** (everyday scope) and **DSA72004B** (20 GHz,
+6. [[equipment/tektronix-tds2014|Tektronix TDS 2014]] (everyday scope) and [[equipment/tektronix-dsa72004b|DSA72004B]] (20 GHz,
    50 GS/s) — time domain.
-7. **Rohde & Schwarz FPL ESA** (5 kHz–14 GHz) — RF spectrum of the
+7. [[equipment/rs-fpl|Rohde & Schwarz FPL ESA]] (5 kHz–14 GHz) — RF spectrum of the
    photocurrent (rep-rate beat notes, laser noise).
 
 ## How everything talks

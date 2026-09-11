@@ -1,0 +1,11 @@
+filters:
+  and:
+    - type == "setup"
+views:
+  - type: table
+    name: All setups
+    order:
+      - title
+      - room
+      - owner
+      - equipment
