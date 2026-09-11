@@ -3,22 +3,83 @@
   "$id": "person.schema.json",
   "title": "Person record frontmatter",
   "type": "object",
-  "required": ["title", "type", "role", "group", "tags"],
+  "required": [
+    "title",
+    "type",
+    "role",
+    "group",
+    "tags"
+  ],
   "properties": {
-    "title": { "type": "string", "minLength": 1 },
-    "type": { "const": "person" },
-    "role": { "type": "string" },
-    "group": { "enum": ["Group Leads", "Postdoctoral Researchers", "Graduate Students", "Undergraduate Students", "Staff", "Alumni"] },
-    "building": { "type": "string" },
-    "office": { "type": "string" },
-    "email": { "type": "string" },
-    "scope": { "type": "string" },
-    "profile": { "type": ["string", "null"] },
-    "photo": { "type": ["string", "null"] },
-    "research_areas": { "type": "array", "items": { "type": "string" } },
-    "projects": { "type": "array", "items": { "type": "string" } },
-    "source": { "type": "string" },
-    "tags": { "type": "array", "items": { "type": "string" }, "contains": { "const": "people" } }
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "type": {
+      "const": "person"
+    },
+    "role": {
+      "type": "string"
+    },
+    "group": {
+      "enum": [
+        "Group Leads",
+        "Postdoctoral Researchers",
+        "Graduate Students",
+        "Undergraduate Students",
+        "High School Students",
+        "Staff",
+        "Alumni"
+      ]
+    },
+    "building": {
+      "type": "string"
+    },
+    "office": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    },
+    "scope": {
+      "type": "string"
+    },
+    "profile": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "photo": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "research_areas": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "projects": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "source": {
+      "type": "string"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "contains": {
+        "const": "people"
+      }
+    }
   },
   "additionalProperties": true
 }

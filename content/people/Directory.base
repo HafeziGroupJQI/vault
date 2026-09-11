@@ -17,7 +17,10 @@ properties:
     displayName: Ask me about
 views:
   - type: table
-    name: By group
+    name: Current members
+    filters:
+      and:
+        - group != "Alumni"
     order:
       - title
       - group
@@ -42,8 +45,23 @@ views:
     sort:
       - property: title
         direction: ASC
+  - type: table
+    name: Alumni
+    filters:
+      and:
+        - group == "Alumni"
+    order:
+      - title
+      - role
+      - email
+    sort:
+      - property: title
+        direction: ASC
   - type: cards
     name: Cards
+    filters:
+      and:
+        - group != "Alumni"
     order:
       - title
       - role

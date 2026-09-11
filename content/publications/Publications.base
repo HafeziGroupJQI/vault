@@ -1,0 +1,50 @@
+filters:
+  and:
+    - type == "publication"
+properties:
+  title:
+    displayName: Title
+  year:
+    displayName: Year
+  authors:
+    displayName: Authors
+  venue:
+    displayName: Venue
+  doi:
+    displayName: DOI
+views:
+  - type: table
+    name: All publications
+    order:
+      - year
+      - title
+      - authors
+      - venue
+      - doi
+    sort:
+      - property: year
+        direction: DESC
+      - property: title
+        direction: ASC
+  - type: table
+    name: Journal articles
+    filters:
+      and:
+        - pub_type == "Journal Article"
+    order:
+      - year
+      - title
+      - venue
+      - doi
+    sort:
+      - property: year
+        direction: DESC
+  - type: list
+    name: List
+    order:
+      - title
+      - year
+      - venue
+    sort:
+      - property: year
+        direction: DESC

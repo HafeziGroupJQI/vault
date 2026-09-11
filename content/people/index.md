@@ -11,5 +11,5 @@ One record per current member: person, role, office, contact, and what to ask th
 
 Views:
 
-- [[people/Directory.base|Directory table]] (by group, with building and office filters)
+- [[people/Directory.base|Directory table]] (current members by group, alumni, cards)
 - [[onboarding/directions|Current Directions]] (who is working on what)

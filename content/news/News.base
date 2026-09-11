@@ -1,0 +1,28 @@
+filters:
+  and:
+    - type == "news"
+properties:
+  title:
+    displayName: Headline
+  date:
+    displayName: Date
+  people:
+    displayName: People
+views:
+  - type: list
+    name: Latest
+    order:
+      - date
+      - title
+      - people
+    sort:
+      - property: date
+        direction: DESC
+  - type: cards
+    name: Cards
+    order:
+      - title
+      - date
+    sort:
+      - property: date
+        direction: DESC
