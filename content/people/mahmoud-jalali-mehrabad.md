@@ -15,4 +15,4 @@ tags: [people, role/lead]
 Mahmoud Jalali Mehrabad, Group Lead (group lead). Main-site profile: https://hafezi.jqi.umd.edu/people/mahmoud-jalali-mehrabad
 
 > [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/directory|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.
+> Office, email, "ask me about" scope, and `projects` feed the [[people/directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.

@@ -5,7 +5,7 @@ tags: [equipment]
 aliases: [Lab Equipment]
 ---
 
-An overview of the measurement lab, distilled from the September 3, 2026 lab walkthrough (full notes: [[lab/lab-meeting-2026-09-03|Lab walkthrough]]). Every instrument has its own record in this folder; the [[equipment/equipment|inventory table]] lists them all, and the [[setups/index|setups]] pages show how they are wired together. The mental model for the whole lab, in one sentence:
+An overview of the measurement lab, distilled from the September 3, 2026 lab walkthrough (full notes: [[lab/lab-meeting-2026-09-03|Lab walkthrough]]). Every instrument has its own record in this folder; the [[equipment/equipment.base|inventory table]] lists them all, and the [[setups/index|setups]] pages show how they are wired together. The mental model for the whole lab, in one sentence:
 
 > "You can break down every single experiment that we do into three parts:
 > **laser, sample, detector**. Types of lasers change, types of detectors

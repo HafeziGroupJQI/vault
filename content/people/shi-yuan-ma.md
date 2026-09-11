@@ -18,4 +18,4 @@ tags: [people, role/postdoc]
 Shi-Yuan Ma, Postdoctoral Researcher (postdoctoral researcher). Main-site profile: https://hafezi.jqi.umd.edu/people/shi-yuan-ma
 
 > [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/directory|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.
+> Office, email, "ask me about" scope, and `projects` feed the [[people/directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.

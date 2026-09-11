@@ -15,4 +15,4 @@ tags: [people, role/undergrad]
 Sakthi Rajmano Madhan Kumar, Undergraduate Student (undergraduate student). Main-site profile: https://hafezi.jqi.umd.edu/people/sakthi-rajmano-madhan-kumar
 
 > [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/directory|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.
+> Office, email, "ask me about" scope, and `projects` feed the [[people/directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.
