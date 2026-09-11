@@ -5,9 +5,9 @@ author: "Notes by Anish Goyal"
 date: 2026-09-03
 type: note
 tags: [lab, equipment, onboarding]
-toc: true
 format:
   pdf:
+    toc: true
     pdf-engine: xelatex
     output-file: "lab-meeting-2026-09-03.pdf"
     toc-depth: 3

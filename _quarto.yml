@@ -9,6 +9,7 @@ execute:
   freeze: auto
 format:
   gfm:
+    toc: false
     variant: gfm+yaml_metadata_block+tex_math_dollars
     prefer-html: true
     wrap: none

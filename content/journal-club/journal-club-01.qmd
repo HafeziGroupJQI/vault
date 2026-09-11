@@ -5,9 +5,9 @@ author: "Hafezi Group"
 date: 2026-09-10
 type: journal-club
 tags: [journal-club, gaussian-boson-sampling, reservoir-computing]
-toc: true
 format:
   pdf:
+    toc: true
     pdf-engine: xelatex
     output-file: "journal-club-01.pdf"
     toc-depth: 3
