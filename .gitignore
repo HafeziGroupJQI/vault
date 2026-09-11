@@ -1,2 +1,23 @@
+# obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+.trash/
+# quarto (site build regenerates these; freeze cache is committed instead)
+/.quarto/
+**/*_files/
+*.quarto_ipynb
+# os / editors
+.DS_Store
+Thumbs.db
+*~
+.vscode/
+.idea/
+# secrets
+.env
+.env.*
+# eleventy-era leftovers (moved to website/; ignored so they never come back)
 node_modules/
 _site/
+*.bundle
