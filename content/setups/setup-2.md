@@ -13,7 +13,7 @@ Second fiber-to-chip bench built around the Elliot Scientific / Martock flexure 
 
 ## Equipment
 
-- [[equipment/elliot-martock-stage]]
+- [[equipment/elliot-martock-stage|Elliot Scientific / Martock 3-axis flexure stage]]
 
 > [!warning] Needs verification
 > Setup membership was inferred from the September 3, 2026 walkthrough. Owners: please correct the equipment list, room, and graph.

@@ -15,9 +15,9 @@ Free-space spectrometer with interchangeable gratings and the TE-cooled Princeto
 
 ## Equipment
 
-- [[equipment/visible-spectrometer]]
-- [[equipment/princeton-instruments-camera]]
-- [[equipment/attocube-attodry]]
+- [[equipment/visible-spectrometer|Visible-band free-space spectrometer]]
+- [[equipment/princeton-instruments-camera|Princeton Instruments TE-cooled camera]]
+- [[equipment/attocube-attodry|attocube attoDRY cryostat]]
 
 > [!warning] Needs verification
 > Setup membership was inferred from the September 3, 2026 walkthrough. Owners: please correct the equipment list, room, and graph.
