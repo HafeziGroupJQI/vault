@@ -19,7 +19,8 @@ pub_type: Journal Article
 volume: "384"
 issue: "6702"
 pages: null
-published: 06/2024
+date: 2024-06-01
+published_on: 06/2024
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/observation-topological-frequency-combs
 migrated: 2026-09-11

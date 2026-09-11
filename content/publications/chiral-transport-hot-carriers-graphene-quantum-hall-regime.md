@@ -25,7 +25,8 @@ pub_type: Journal Article
 volume: "16"
 issue: "11"
 pages: null
-published: 11/2022
+date: 2022-11-01
+published_on: 11/2022
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/chiral-transport-hot-carriers-graphene-quantum-hall-regime
 migrated: 2026-09-11

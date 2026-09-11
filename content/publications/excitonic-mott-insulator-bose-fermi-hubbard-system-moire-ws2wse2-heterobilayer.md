@@ -26,7 +26,8 @@ pub_type: Journal Article
 volume: "15"
 issue: "2305"
 pages: null
-published: 03/2024
+date: 2024-03-01
+published_on: 03/2024
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/excitonic-mott-insulator-bose-fermi-hubbard-system-moire-ws2wse2-heterobilayer
 migrated: 2026-09-11

@@ -15,7 +15,8 @@ pub_type: Journal Article
 volume: "95"
 issue: null
 pages: null
-published: 06/2017
+date: 2017-06-01
+published_on: 06/2017
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/high-order-multipole-radiation-quantum-hall-states-dirac-materials
 migrated: 2026-09-11

@@ -15,7 +15,8 @@ pub_type: Journal Article
 volume: "119"
 issue: null
 pages: null
-published: 12/2017
+date: 2017-12-01
+published_on: 12/2017
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/light-induced-fractional-quantum-hall-phases-graphene
 migrated: 2026-09-11

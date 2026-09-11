@@ -18,7 +18,8 @@ pub_type: Journal Article
 volume: "123"
 issue: null
 pages: null
-published: 09/2019
+date: 2019-09-01
+published_on: 09/2019
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/interference-temporally-distinguishable-photons-using-frequency-resolved-detection
 migrated: 2026-09-11

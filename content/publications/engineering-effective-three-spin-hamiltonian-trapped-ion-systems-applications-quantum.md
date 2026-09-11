@@ -17,7 +17,8 @@ pub_type: Journal Article
 volume: "7"
 issue: null
 pages: null
-published: null
+date: 2022-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/engineering-effective-three-spin-hamiltonian-trapped-ion-systems-applications-quantum
 migrated: 2026-09-11

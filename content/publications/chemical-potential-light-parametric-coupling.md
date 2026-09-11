@@ -13,7 +13,8 @@ pub_type: Journal Article
 volume: "92"
 issue: null
 pages: null
-published: 11/2015
+date: 2015-11-01
+published_on: 11/2015
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/chemical-potential-light-parametric-coupling
 migrated: 2026-09-11

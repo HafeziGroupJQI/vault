@@ -14,7 +14,8 @@ pub_type: Journal Article
 volume: "10"
 issue: null
 pages: "3502"
-published: 10/2023
+date: 2023-10-01
+published_on: 10/2023
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/topological-edge-mode-tapering
 migrated: 2026-09-11

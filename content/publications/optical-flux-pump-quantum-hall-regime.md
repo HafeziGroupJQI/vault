@@ -14,7 +14,8 @@ pub_type: Journal Article
 volume: "103"
 issue: null
 pages: null
-published: JUN 28
+date: 2021-01-01
+published_on: JUN 28
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/optical-flux-pump-quantum-hall-regime
 migrated: 2026-09-11

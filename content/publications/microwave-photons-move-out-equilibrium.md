@@ -11,7 +11,8 @@ pub_type: Journal Article
 volume: "7"
 issue: null
 pages: null
-published: 09/2014
+date: 2014-09-01
+published_on: 09/2014
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/microwave-photons-move-out-equilibrium
 migrated: 2026-09-11

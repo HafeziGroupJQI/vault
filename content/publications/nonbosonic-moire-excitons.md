@@ -13,7 +13,8 @@ pub_type: Journal Article
 volume: "132"
 issue: "186202"
 pages: null
-published: 04/2024
+date: 2024-04-01
+published_on: 04/2024
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/nonbosonic-moire-excitons
 migrated: 2026-09-11

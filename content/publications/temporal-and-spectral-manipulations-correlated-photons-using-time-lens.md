@@ -16,7 +16,8 @@ pub_type: Journal Article
 volume: "96"
 issue: null
 pages: null
-published: null
+date: 2017-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/temporal-and-spectral-manipulations-correlated-photons-using-time-lens
 migrated: 2026-09-11

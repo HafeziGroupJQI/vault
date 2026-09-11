@@ -15,7 +15,8 @@ pub_type: Journal Article
 volume: "6"
 issue: null
 pages: null
-published: 11/2016
+date: 2016-11-01
+published_on: 11/2016
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/measurement-protocol-entanglement-spectrum-cold-atoms
 migrated: 2026-09-11

@@ -13,7 +13,8 @@ pub_type: Journal Article
 volume: "3"
 issue: null
 pages: null
-published: APR 13
+date: 2021-01-01
+published_on: APR 13
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/light-induced-topological-superconductivity-floquet-interaction-engineering
 migrated: 2026-09-11

@@ -21,7 +21,8 @@ pub_type: Journal Article
 volume: "106"
 issue: "8"
 pages: L081409
-published: 08/2022
+date: 2022-08-01
+published_on: 08/2022
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/magneto-optical-measurements-negatively-charged-2s-exciton-wse2
 migrated: 2026-09-11

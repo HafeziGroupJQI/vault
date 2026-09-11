@@ -19,7 +19,8 @@ pub_type: Journal Article
 volume: "2606"
 issue: "23960"
 pages: null
-published: 06/2026
+date: 2026-06-01
+published_on: 06/2026
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/single-shot-realization-10000-mode-octave-spanning-artificial-gauge-fields
 migrated: 2026-09-11

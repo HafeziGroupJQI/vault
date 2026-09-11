@@ -15,7 +15,8 @@ pub_type: Journal Article
 volume: "7"
 issue: null
 pages: null
-published: null
+date: 2013-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/imaging-topological-edge-states-silicon-photonics
 migrated: 2026-09-11

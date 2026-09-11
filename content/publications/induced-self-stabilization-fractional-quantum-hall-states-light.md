@@ -13,7 +13,8 @@ pub_type: Journal Article
 volume: "4"
 issue: null
 pages: null
-published: null
+date: 2014-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/induced-self-stabilization-fractional-quantum-hall-states-light
 migrated: 2026-09-11

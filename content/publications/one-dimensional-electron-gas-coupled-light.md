@@ -14,7 +14,8 @@ pub_type: Journal Article
 volume: "2311"
 issue: "12160"
 pages: null
-published: 11/2023
+date: 2023-11-01
+published_on: 11/2023
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/one-dimensional-electron-gas-coupled-light
 migrated: 2026-09-11

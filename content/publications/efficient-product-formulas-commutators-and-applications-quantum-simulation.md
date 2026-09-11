@@ -17,7 +17,8 @@ pub_type: Journal Article
 volume: "4"
 issue: null
 pages: null
-published: 03/2022
+date: 2022-03-01
+published_on: 03/2022
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/efficient-product-formulas-commutators-and-applications-quantum-simulation
 migrated: 2026-09-11

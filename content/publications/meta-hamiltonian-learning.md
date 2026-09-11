@@ -13,7 +13,8 @@ pub_type: Journal Article
 volume: null
 issue: null
 pages: null
-published: 04/2021
+date: 2021-04-01
+published_on: 04/2021
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/meta-hamiltonian-learning
 migrated: 2026-09-11

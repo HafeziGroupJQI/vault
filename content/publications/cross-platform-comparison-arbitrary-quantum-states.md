@@ -27,7 +27,8 @@ pub_type: Journal Article
 volume: "13"
 issue: "1"
 pages: null
-published: 11/2022
+date: 2022-11-01
+published_on: 11/2022
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/cross-platform-comparison-arbitrary-quantum-states
 migrated: 2026-09-11

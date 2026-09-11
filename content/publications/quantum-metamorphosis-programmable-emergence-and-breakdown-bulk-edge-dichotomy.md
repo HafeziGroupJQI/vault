@@ -20,7 +20,8 @@ pub_type: Journal Article
 volume: "2511"
 issue: "13831"
 pages: null
-published: 11/2025
+date: 2025-11-01
+published_on: 11/2025
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/quantum-metamorphosis-programmable-emergence-and-breakdown-bulk-edge-dichotomy
 migrated: 2026-09-11

@@ -13,7 +13,8 @@ pub_type: Journal Article
 volume: "90"
 issue: null
 pages: null
-published: null
+date: 2014-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/engineering-three-body-interaction-and-pfaffian-states-circuit-qed-systems
 migrated: 2026-09-11

@@ -14,7 +14,8 @@ pub_type: Journal Article
 volume: "103"
 issue: null
 pages: null
-published: FEB 1
+date: 2021-01-01
+published_on: FEB 1
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/extraction-many-body-chern-number-single-wave-function
 migrated: 2026-09-11

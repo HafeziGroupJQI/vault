@@ -13,7 +13,8 @@ pub_type: Journal Article
 volume: "17"
 issue: null
 pages: null
-published: 09/2021
+date: 2021-09-01
+published_on: 09/2021
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/machine-learning-thermodynamic-arrow-time
 migrated: 2026-09-11

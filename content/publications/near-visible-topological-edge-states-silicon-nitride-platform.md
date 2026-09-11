@@ -18,7 +18,8 @@ pub_type: Journal Article
 volume: "14"
 issue: "6"
 pages: null
-published: 06/2024
+date: 2024-06-01
+published_on: 06/2024
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/near-visible-topological-edge-states-silicon-nitride-platform
 migrated: 2026-09-11

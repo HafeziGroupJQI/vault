@@ -20,7 +20,8 @@ pub_type: Journal Article
 volume: null
 issue: null
 pages: null
-published: null
+date: 2019-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/observation-chiral-photocurrent-transport-quantum-hall-regime-graphene
 migrated: 2026-09-11

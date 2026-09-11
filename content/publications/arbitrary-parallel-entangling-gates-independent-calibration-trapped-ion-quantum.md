@@ -18,7 +18,8 @@ pub_type: Journal Article
 volume: "2604"
 issue: null
 pages: 25993 v1
-published: 04/2026
+date: 2026-04-01
+published_on: 04/2026
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/arbitrary-parallel-entangling-gates-independent-calibration-trapped-ion-quantum
 migrated: 2026-09-11

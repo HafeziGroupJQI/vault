@@ -15,7 +15,8 @@ pub_type: Journal Article
 volume: null
 issue: null
 pages: null
-published: 05/2025
+date: 2025-05-01
+published_on: 05/2025
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/random-pulse-sequences-qubit-noise-spectroscopy
 migrated: 2026-09-11

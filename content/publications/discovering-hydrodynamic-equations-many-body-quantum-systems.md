@@ -17,7 +17,8 @@ pub_type: Journal Article
 volume: null
 issue: null
 pages: null
-published: 11/2021
+date: 2021-11-01
+published_on: 11/2021
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/discovering-hydrodynamic-equations-many-body-quantum-systems
 migrated: 2026-09-11

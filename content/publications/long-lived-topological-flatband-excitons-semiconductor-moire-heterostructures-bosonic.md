@@ -14,7 +14,8 @@ pub_type: Journal Article
 volume: "133"
 issue: "136403"
 pages: null
-published: 09/2024
+date: 2024-09-01
+published_on: 09/2024
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/long-lived-topological-flatband-excitons-semiconductor-moire-heterostructures-bosonic
 migrated: 2026-09-11

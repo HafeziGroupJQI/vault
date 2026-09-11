@@ -14,7 +14,8 @@ pub_type: Journal Article
 volume: "121"
 issue: null
 pages: null
-published: null
+date: 2018-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/optical-lattice-torus-topology
 migrated: 2026-09-11

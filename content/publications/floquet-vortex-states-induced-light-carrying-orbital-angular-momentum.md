@@ -15,7 +15,8 @@ pub_type: Journal Article
 volume: "105"
 issue: null
 pages: null
-published: null
+date: 2022-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/floquet-vortex-states-induced-light-carrying-orbital-angular-momentum
 migrated: 2026-09-11

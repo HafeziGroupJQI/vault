@@ -19,7 +19,8 @@ pub_type: Journal Article
 volume: "18"
 issue: null
 pages: "1747"
-published: null
+date: 2012-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/switching-and-counting-atomic-vapors-photonic-crystal-fibers
 migrated: 2026-09-11

@@ -14,7 +14,8 @@ pub_type: Journal Article
 volume: "112"
 issue: " L100509"
 pages: null
-published: 09/2025
+date: 2025-09-01
+published_on: 09/2025
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/enhanced-cooper-pairing-nano-patterned-metals
 migrated: 2026-09-11

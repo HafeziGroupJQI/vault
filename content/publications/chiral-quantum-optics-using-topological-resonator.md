@@ -15,7 +15,8 @@ pub_type: Journal Article
 volume: "101"
 issue: null
 pages: null
-published: null
+date: 2020-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/chiral-quantum-optics-using-topological-resonator
 migrated: 2026-09-11

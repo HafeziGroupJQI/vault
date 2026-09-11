@@ -14,7 +14,8 @@ pub_type: Journal Article
 volume: "2504"
 issue: 13758v1
 pages: null
-published: 04/2025
+date: 2025-04-01
+published_on: 04/2025
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/optical-engineering-and-detection-magnetism-moire-semiconductors
 migrated: 2026-09-11

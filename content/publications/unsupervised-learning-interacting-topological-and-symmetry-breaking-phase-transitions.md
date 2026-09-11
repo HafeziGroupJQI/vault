@@ -13,7 +13,8 @@ pub_type: Journal Article
 volume: "105"
 issue: "23"
 pages: null
-published: 06/2022
+date: 2022-06-01
+published_on: 06/2022
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/unsupervised-learning-interacting-topological-and-symmetry-breaking-phase-transitions
 migrated: 2026-09-11

@@ -14,7 +14,8 @@ pub_type: Journal Article
 volume: "9"
 issue: null
 pages: null
-published: 03/2018
+date: 2018-03-01
+published_on: 03/2018
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/thermal-management-and-non-reciprocal-control-phonon-flow-optomechanics
 migrated: 2026-09-11

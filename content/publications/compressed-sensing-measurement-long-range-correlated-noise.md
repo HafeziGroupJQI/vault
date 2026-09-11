@@ -13,7 +13,8 @@ pub_type: Journal Article
 volume: null
 issue: null
 pages: null
-published: 05/2022
+date: 2022-05-01
+published_on: 05/2022
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/compressed-sensing-measurement-long-range-correlated-noise
 migrated: 2026-09-11

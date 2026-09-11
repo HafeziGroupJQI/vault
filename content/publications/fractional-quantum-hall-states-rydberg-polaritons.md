@@ -16,7 +16,8 @@ pub_type: Journal Article
 volume: "91"
 issue: null
 pages: null
-published: 03/2015
+date: 2015-03-01
+published_on: 03/2015
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/fractional-quantum-hall-states-rydberg-polaritons
 migrated: 2026-09-11

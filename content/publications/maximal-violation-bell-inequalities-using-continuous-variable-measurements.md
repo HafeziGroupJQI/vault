@@ -15,7 +15,8 @@ pub_type: Journal Article
 volume: "67"
 issue: null
 pages: null
-published: Jan
+date: 2003-01-01
+published_on: Jan
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/maximal-violation-bell-inequalities-using-continuous-variable-measurements
 migrated: 2026-09-11

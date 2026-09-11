@@ -12,7 +12,8 @@ pub_type: Journal Article
 volume: "20"
 issue: null
 pages: null
-published: null
+date: 2012-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/optomechanically-induced-non-reciprocity-microring-resonators
 migrated: 2026-09-11

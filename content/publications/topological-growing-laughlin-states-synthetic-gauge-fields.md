@@ -14,7 +14,8 @@ pub_type: Journal Article
 volume: "113"
 issue: null
 pages: null
-published: null
+date: 2014-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/topological-growing-laughlin-states-synthetic-gauge-fields
 migrated: 2026-09-11

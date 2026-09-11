@@ -14,7 +14,8 @@ pub_type: Journal Article
 volume: "107"
 issue: null
 pages: null
-published: 02/2023
+date: 2023-02-01
+published_on: 02/2023
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/spin-mediated-mott-excitons
 migrated: 2026-09-11

@@ -158,7 +158,8 @@ pub_type: Journal Article
 volume: "12"
 issue: null
 pages: null
-published: 07/2025
+date: 2025-07-01
+published_on: 07/2025
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/roadmap-photonics-2d-materials
 migrated: 2026-09-11

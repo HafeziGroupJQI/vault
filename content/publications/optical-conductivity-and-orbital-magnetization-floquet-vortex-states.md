@@ -13,7 +13,8 @@ pub_type: Journal Article
 volume: null
 issue: null
 pages: null
-published: 06/2023
+date: 2023-06-01
+published_on: 06/2023
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/optical-conductivity-and-orbital-magnetization-floquet-vortex-states
 migrated: 2026-09-11

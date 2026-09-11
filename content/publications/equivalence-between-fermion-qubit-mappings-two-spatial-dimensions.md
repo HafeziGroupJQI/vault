@@ -12,7 +12,8 @@ pub_type: Journal Article
 volume: "4"
 issue: null
 pages: null
-published: 03/2023
+date: 2023-03-01
+published_on: 03/2023
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/equivalence-between-fermion-qubit-mappings-two-spatial-dimensions
 migrated: 2026-09-11

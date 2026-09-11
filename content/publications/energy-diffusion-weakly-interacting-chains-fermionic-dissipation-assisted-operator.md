@@ -16,7 +16,8 @@ pub_type: Journal Article
 volume: null
 issue: null
 pages: null
-published: 08/2024
+date: 2024-08-01
+published_on: 08/2024
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/energy-diffusion-weakly-interacting-chains-fermionic-dissipation-assisted-operator
 migrated: 2026-09-11

@@ -16,7 +16,8 @@ pub_type: Journal Article
 volume: "85"
 issue: null
 pages: null
-published: null
+date: 2012-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/quantum-transport-strongly-interacting-photons-one-dimensional-nonlinear-waveguide
 migrated: 2026-09-11

@@ -12,7 +12,8 @@ pub_type: Journal Article
 volume: "19"
 issue: null
 pages: null
-published: null
+date: 2017-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/stability-fractional-quantum-hall-states-disordered-photonic-systems
 migrated: 2026-09-11

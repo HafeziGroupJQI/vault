@@ -13,7 +13,8 @@ pub_type: Journal Article
 volume: "94"
 issue: null
 pages: null
-published: null
+date: 2016-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/two-coupled-nonlinear-cavities-driven-dissipative-environment
 migrated: 2026-09-11

@@ -25,7 +25,8 @@ pub_type: Journal Article
 volume: "2408"
 issue: "08750"
 pages: null
-published: 08/2024
+date: 2024-08-01
+published_on: 08/2024
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/nonlinear-quantum-optics-topological-interface-enabled-defect-engineering
 migrated: 2026-09-11

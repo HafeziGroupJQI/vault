@@ -19,7 +19,8 @@ pub_type: Journal Article
 volume: "135"
 issue: "156902"
 pages: null
-published: 10/2025
+date: 2025-10-01
+published_on: 10/2025
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/surface-mediated-ultra-strong-cavity-coupling-two-dimensional-itinerant-electrons
 migrated: 2026-09-11

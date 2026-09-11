@@ -13,7 +13,8 @@ pub_type: Journal Article
 volume: "561"
 issue: null
 pages: null
-published: null
+date: 2018-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/topological-source-quantum-light
 migrated: 2026-09-11

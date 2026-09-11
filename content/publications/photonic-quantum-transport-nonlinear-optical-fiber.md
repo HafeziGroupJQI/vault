@@ -15,7 +15,8 @@ pub_type: Journal Article
 volume: "94"
 issue: null
 pages: null
-published: null
+date: 2011-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/photonic-quantum-transport-nonlinear-optical-fiber
 migrated: 2026-09-11

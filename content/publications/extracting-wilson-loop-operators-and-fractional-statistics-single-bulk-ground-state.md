@@ -14,7 +14,8 @@ pub_type: Journal Article
 volume: null
 issue: null
 pages: null
-published: 10/2022
+date: 2022-10-01
+published_on: 10/2022
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/extracting-wilson-loop-operators-and-fractional-statistics-single-bulk-ground-state
 migrated: 2026-09-11

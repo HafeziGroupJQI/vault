@@ -17,7 +17,8 @@ pub_type: Journal Article
 volume: "22"
 issue: null
 pages: null
-published: null
+date: 2014-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/ultra-sensitive-chip-based-photonic-temperature-sensor-using-ring-resonator-structures
 migrated: 2026-09-11

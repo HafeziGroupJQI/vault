@@ -14,7 +14,8 @@ pub_type: Journal Article
 volume: "101"
 issue: null
 pages: null
-published: Aug
+date: 2008-01-01
+published_on: Aug
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/optical-bistability-low-light-level-due-collective-atomic-recoil
 migrated: 2026-09-11

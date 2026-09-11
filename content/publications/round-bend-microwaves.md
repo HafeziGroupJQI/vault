@@ -12,7 +12,8 @@ pub_type: Journal Article
 volume: "522"
 issue: null
 pages: null
-published: null
+date: 2015-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/round-bend-microwaves
 migrated: 2026-09-11

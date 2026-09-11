@@ -16,7 +16,8 @@ pub_type: Journal Article
 volume: "126"
 issue: null
 pages: null
-published: MAR 10
+date: 2021-01-01
+published_on: MAR 10
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/light-matter-interactions-synthetic-magnetic-fields-landau-photon-polaritons
 migrated: 2026-09-11

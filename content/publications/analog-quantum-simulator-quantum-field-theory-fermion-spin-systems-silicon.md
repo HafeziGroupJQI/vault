@@ -21,7 +21,8 @@ pub_type: Journal Article
 volume: null
 issue: null
 pages: null
-published: 05/2026
+date: 2026-05-01
+published_on: 05/2026
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/analog-quantum-simulator-quantum-field-theory-fermion-spin-systems-silicon
 migrated: 2026-09-11

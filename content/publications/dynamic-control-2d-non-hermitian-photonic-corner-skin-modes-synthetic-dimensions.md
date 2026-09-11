@@ -19,7 +19,8 @@ pub_type: Journal Article
 volume: "15"
 issue: "10881"
 pages: null
-published: 12/2024
+date: 2024-12-01
+published_on: 12/2024
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/dynamic-control-2d-non-hermitian-photonic-corner-skin-modes-synthetic-dimensions
 migrated: 2026-09-11

@@ -15,7 +15,8 @@ pub_type: Journal Article
 volume: "4"
 issue: "4"
 pages: null
-published: 11/2022
+date: 2022-11-01
+published_on: 11/2022
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/boson-sampling-generalized-bosons
 migrated: 2026-09-11

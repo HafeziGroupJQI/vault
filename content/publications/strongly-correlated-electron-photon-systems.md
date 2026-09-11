@@ -15,7 +15,8 @@ pub_type: Journal Article
 volume: "606"
 issue: "7912"
 pages: null
-published: null
+date: 2022-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/strongly-correlated-electron-photon-systems
 migrated: 2026-09-11

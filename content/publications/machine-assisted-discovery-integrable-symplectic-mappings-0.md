@@ -16,7 +16,8 @@ pub_type: Journal Article
 volume: "51"
 issue: null
 pages: null
-published: 12/2023
+date: 2023-12-01
+published_on: 12/2023
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/machine-assisted-discovery-integrable-symplectic-mappings-0
 migrated: 2026-09-11

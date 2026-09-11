@@ -22,7 +22,8 @@ pub_type: Journal Article
 volume: null
 issue: null
 pages: null
-published: 01/2026
+date: 2026-01-01
+published_on: 01/2026
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/giant-enhancement-exciton-diffusion-near-electronic-mott-insulator
 migrated: 2026-09-11

@@ -14,7 +14,8 @@ pub_type: Journal Article
 volume: "108"
 issue: "040101"
 pages: null
-published: 10/2023
+date: 2023-10-01
+published_on: 10/2023
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/topological-photonics-fundamental-concepts-recent-developments-and-future-directions
 migrated: 2026-09-11

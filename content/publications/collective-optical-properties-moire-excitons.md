@@ -16,7 +16,8 @@ pub_type: Journal Article
 volume: "134"
 issue: "176901"
 pages: null
-published: 04/2025
+date: 2025-04-01
+published_on: 04/2025
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/collective-optical-properties-moire-excitons
 migrated: 2026-09-11

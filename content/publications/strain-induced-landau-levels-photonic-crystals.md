@@ -12,7 +12,8 @@ pub_type: Journal Article
 volume: "18"
 issue: null
 pages: "527"
-published: 06/2024
+date: 2024-06-01
+published_on: 06/2024
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/strain-induced-landau-levels-photonic-crystals
 migrated: 2026-09-11

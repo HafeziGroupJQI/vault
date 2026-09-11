@@ -15,7 +15,8 @@ pub_type: Journal Article
 volume: "4"
 issue: "043031"
 pages: null
-published: 10/2022
+date: 2022-10-01
+published_on: 10/2022
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/decoding-conformal-field-theories-supervised-unsupervised-learning
 migrated: 2026-09-11

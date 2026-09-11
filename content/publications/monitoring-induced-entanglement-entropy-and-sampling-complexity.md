@@ -17,7 +17,8 @@ pub_type: Journal Article
 volume: "4"
 issue: "3"
 pages: null
-published: 09/2022
+date: 2022-09-01
+published_on: 09/2022
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/monitoring-induced-entanglement-entropy-and-sampling-complexity
 migrated: 2026-09-11

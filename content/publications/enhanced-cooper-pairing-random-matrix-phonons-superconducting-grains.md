@@ -13,7 +13,8 @@ pub_type: Journal Article
 volume: "2408"
 issue: "03927"
 pages: null
-published: 08/2024
+date: 2024-08-01
+published_on: 08/2024
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/enhanced-cooper-pairing-random-matrix-phonons-superconducting-grains
 migrated: 2026-09-11

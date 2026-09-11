@@ -15,7 +15,8 @@ pub_type: Journal Article
 volume: "10"
 issue: null
 pages: null
-published: null
+date: 2016-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/measurement-topological-invariants-2d-photonic-system
 migrated: 2026-09-11

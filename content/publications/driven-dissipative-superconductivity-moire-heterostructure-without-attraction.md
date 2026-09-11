@@ -15,7 +15,8 @@ pub_type: Journal Article
 volume: "2607"
 issue: 15169v1
 pages: null
-published: 07/2026
+date: 2026-07-01
+published_on: 07/2026
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/driven-dissipative-superconductivity-moire-heterostructure-without-attraction
 migrated: 2026-09-11

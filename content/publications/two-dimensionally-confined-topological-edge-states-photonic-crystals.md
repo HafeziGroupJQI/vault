@@ -15,7 +15,8 @@ pub_type: Journal Article
 volume: "18"
 issue: null
 pages: null
-published: null
+date: 2016-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/two-dimensionally-confined-topological-edge-states-photonic-crystals
 migrated: 2026-09-11

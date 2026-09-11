@@ -18,7 +18,8 @@ pub_type: Journal Article
 volume: "4"
 issue: null
 pages: null
-published: null
+date: 2008-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/anyonic-interferometry-and-protected-memories-atomic-spin-lattices
 migrated: 2026-09-11

@@ -15,7 +15,8 @@ pub_type: Journal Article
 volume: "17"
 issue: null
 pages: null
-published: 08/2021
+date: 2021-08-01
+published_on: 08/2021
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/topological-frequency-combs-and-nested-temporal-solitons
 migrated: 2026-09-11

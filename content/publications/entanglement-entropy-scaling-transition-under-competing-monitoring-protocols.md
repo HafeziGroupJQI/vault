@@ -15,7 +15,8 @@ pub_type: Journal Article
 volume: "126"
 issue: null
 pages: null
-published: 03/2021
+date: 2021-03-01
+published_on: 03/2021
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/entanglement-entropy-scaling-transition-under-competing-monitoring-protocols
 migrated: 2026-09-11

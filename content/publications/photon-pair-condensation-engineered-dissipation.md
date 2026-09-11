@@ -17,7 +17,8 @@ pub_type: Journal Article
 volume: "123"
 issue: null
 pages: null
-published: 04/2019
+date: 2019-04-01
+published_on: 04/2019
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/photon-pair-condensation-engineered-dissipation
 migrated: 2026-09-11

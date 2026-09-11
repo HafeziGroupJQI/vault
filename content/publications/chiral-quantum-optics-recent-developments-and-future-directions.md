@@ -15,7 +15,8 @@ pub_type: Journal Article
 volume: null
 issue: 06495v1
 pages: null
-published: 04/2025
+date: 2025-04-01
+published_on: 04/2025
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/chiral-quantum-optics-recent-developments-and-future-directions
 migrated: 2026-09-11

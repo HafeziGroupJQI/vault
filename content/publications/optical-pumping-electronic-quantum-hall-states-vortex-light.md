@@ -24,7 +24,8 @@ pub_type: Journal Article
 volume: "19"
 issue: null
 pages: "156"
-published: 02/2025
+date: 2025-02-01
+published_on: 02/2025
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/optical-pumping-electronic-quantum-hall-states-vortex-light
 migrated: 2026-09-11

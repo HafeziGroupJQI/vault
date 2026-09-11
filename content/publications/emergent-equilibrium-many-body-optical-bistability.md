@@ -17,7 +17,8 @@ pub_type: Journal Article
 volume: "95"
 issue: null
 pages: null
-published: 04/2017
+date: 2017-04-01
+published_on: 04/2017
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/emergent-equilibrium-many-body-optical-bistability
 migrated: 2026-09-11

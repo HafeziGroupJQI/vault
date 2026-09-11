@@ -15,7 +15,8 @@ pub_type: Journal Article
 volume: null
 issue: null
 pages: null
-published: 11/2024
+date: 2024-11-01
+published_on: 11/2024
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/fault-tolerant-fermionic-quantum-computing
 migrated: 2026-09-11

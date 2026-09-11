@@ -22,7 +22,8 @@ pub_type: Journal Article
 volume: "390"
 issue: "6773"
 pages: 612–616
-published: 11/2025
+date: 2025-11-01
+published_on: 11/2025
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/multi-timescale-frequency-phase-matching-high-yield-nonlinear-photonics
 migrated: 2026-09-11

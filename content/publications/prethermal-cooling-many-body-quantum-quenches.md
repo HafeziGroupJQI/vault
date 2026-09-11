@@ -14,7 +14,8 @@ pub_type: Journal Article
 volume: "2606"
 issue: 21813.v1
 pages: null
-published: 06/2026
+date: 2026-06-01
+published_on: 06/2026
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/prethermal-cooling-many-body-quantum-quenches
 migrated: 2026-09-11

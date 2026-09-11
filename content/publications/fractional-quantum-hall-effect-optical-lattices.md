@@ -14,7 +14,8 @@ pub_type: Journal Article
 volume: "76"
 issue: null
 pages: null
-published: Aug
+date: 2007-01-01
+published_on: Aug
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/fractional-quantum-hall-effect-optical-lattices
 migrated: 2026-09-11

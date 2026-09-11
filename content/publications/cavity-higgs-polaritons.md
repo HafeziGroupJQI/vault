@@ -14,7 +14,8 @@ pub_type: Journal Article
 volume: "2"
 issue: null
 pages: null
-published: null
+date: 2020-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/cavity-higgs-polaritons
 migrated: 2026-09-11

@@ -15,7 +15,8 @@ pub_type: Journal Article
 volume: "101"
 issue: null
 pages: null
-published: null
+date: 2020-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/optical-excitations-compressible-and-incompressible-two-dimensional-electron-liquids
 migrated: 2026-09-11

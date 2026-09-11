@@ -13,7 +13,8 @@ pub_type: Journal Article
 volume: "97"
 issue: null
 pages: null
-published: null
+date: 2018-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/anisotropic-exciton-transport-transition-metal-dichalcogenides
 migrated: 2026-09-11

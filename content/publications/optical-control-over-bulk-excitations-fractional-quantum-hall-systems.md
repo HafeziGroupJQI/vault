@@ -17,7 +17,8 @@ pub_type: Journal Article
 volume: "98"
 issue: null
 pages: null
-published: null
+date: 2018-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/optical-control-over-bulk-excitations-fractional-quantum-hall-systems
 migrated: 2026-09-11

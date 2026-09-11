@@ -17,7 +17,8 @@ pub_type: Journal Article
 volume: null
 issue: null
 pages: null
-published: 07/2023
+date: 2023-07-01
+published_on: 07/2023
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/spin-selective-strong-light-matter-coupling-2d-hole-gas-microcavity-system
 migrated: 2026-09-11

@@ -18,7 +18,8 @@ pub_type: Journal Article
 volume: "112"
 issue: null
 pages: null
-published: null
+date: 2014-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/constrained-dynamics-zeno-effect-quantum-simulation-implementing-non-abelian-lattice
 migrated: 2026-09-11

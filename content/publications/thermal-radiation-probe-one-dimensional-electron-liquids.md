@@ -15,7 +15,8 @@ pub_type: Journal Article
 volume: "99"
 issue: null
 pages: null
-published: null
+date: 2019-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/thermal-radiation-probe-one-dimensional-electron-liquids
 migrated: 2026-09-11

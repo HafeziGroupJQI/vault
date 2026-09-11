@@ -15,7 +15,8 @@ pub_type: Journal Article
 volume: "2511"
 issue: "17494"
 pages: null
-published: 11/2025
+date: 2025-11-01
+published_on: 11/2025
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/fractional-chern-insulator-edges-crystalline-effects-and-optical-measurements
 migrated: 2026-09-11

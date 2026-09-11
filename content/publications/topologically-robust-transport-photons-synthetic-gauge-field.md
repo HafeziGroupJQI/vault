@@ -16,7 +16,8 @@ pub_type: Journal Article
 volume: "113"
 issue: null
 pages: null
-published: null
+date: 2014-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/topologically-robust-transport-photons-synthetic-gauge-field
 migrated: 2026-09-11

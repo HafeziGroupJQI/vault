@@ -19,7 +19,8 @@ pub_type: Journal Article
 volume: "21"
 issue: null
 pages: "374"
-published: 03/2025
+date: 2025-03-01
+published_on: 03/2025
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/observation-finite-energy-phase-transition-one-dimensional-quantum-simulator
 migrated: 2026-09-11

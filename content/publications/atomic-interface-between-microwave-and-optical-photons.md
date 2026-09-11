@@ -16,7 +16,8 @@ pub_type: Journal Article
 volume: "85"
 issue: null
 pages: null
-published: null
+date: 2012-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/atomic-interface-between-microwave-and-optical-photons
 migrated: 2026-09-11

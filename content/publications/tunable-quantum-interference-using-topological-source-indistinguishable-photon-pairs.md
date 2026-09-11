@@ -15,7 +15,8 @@ pub_type: Journal Article
 volume: "15"
 issue: null
 pages: null
-published: null
+date: 2021-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/tunable-quantum-interference-using-topological-source-indistinguishable-photon-pairs
 migrated: 2026-09-11

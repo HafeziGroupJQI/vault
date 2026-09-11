@@ -18,7 +18,8 @@ pub_type: Journal Article
 volume: "359"
 issue: null
 pages: null
-published: null
+date: 2018-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/topological-quantum-optics-interface
 migrated: 2026-09-11

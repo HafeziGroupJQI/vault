@@ -18,7 +18,8 @@ pub_type: Journal Article
 volume: "6"
 issue: null
 pages: null
-published: null
+date: 2020-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/many-body-topological-invariants-randomized-measurements-synthetic-quantum-matter
 migrated: 2026-09-11

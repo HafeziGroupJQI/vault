@@ -15,7 +15,8 @@ pub_type: Journal Article
 volume: "2608"
 issue: 31156v1
 pages: null
-published: 08/2026
+date: 2026-08-01
+published_on: 08/2026
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/bosonic-codes-compact-phase-spaces
 migrated: 2026-09-11

@@ -15,7 +15,8 @@ pub_type: Journal Article
 volume: "105"
 issue: "20"
 pages: null
-published: 05/2022
+date: 2022-05-01
+published_on: 05/2022
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/two-dimensional-excitons-twisted-light-and-fate-photons-orbital-angular-momentum
 migrated: 2026-09-11

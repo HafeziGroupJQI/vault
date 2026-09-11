@@ -18,7 +18,8 @@ pub_type: Journal Article
 volume: "102"
 issue: null
 pages: null
-published: May
+date: 2009-01-01
+published_on: May
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/efficient-all-optical-switching-using-slow-light-within-hollow-fiber
 migrated: 2026-09-11

@@ -23,7 +23,8 @@ pub_type: Journal Article
 volume: "57"
 issue: null
 pages: null
-published: null
+date: 2011-01-01
+published_on: null
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/atoms-talking-squids
 migrated: 2026-09-11

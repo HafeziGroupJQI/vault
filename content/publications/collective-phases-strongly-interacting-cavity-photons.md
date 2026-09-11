@@ -16,7 +16,8 @@ pub_type: Journal Article
 volume: "94"
 issue: null
 pages: null
-published: 09/2016
+date: 2016-09-01
+published_on: 09/2016
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/collective-phases-strongly-interacting-cavity-photons
 migrated: 2026-09-11

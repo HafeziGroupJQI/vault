@@ -13,7 +13,8 @@ pub_type: Journal Article
 volume: "15"
 issue: null
 pages: null
-published: Nov
+date: 2025-01-01
+published_on: Nov
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/diagnosing-electronic-phases-matter-using-photonic-correlation-functions
 migrated: 2026-09-11

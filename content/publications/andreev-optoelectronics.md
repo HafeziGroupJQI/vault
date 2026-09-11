@@ -14,7 +14,8 @@ pub_type: Journal Article
 volume: "2512"
 issue: "04176"
 pages: null
-published: 12/2025
+date: 2025-12-01
+published_on: 12/2025
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/andreev-optoelectronics
 migrated: 2026-09-11

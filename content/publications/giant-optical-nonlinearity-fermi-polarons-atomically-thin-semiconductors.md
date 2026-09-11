@@ -21,7 +21,8 @@ pub_type: Journal Article
 volume: "18"
 issue: null
 pages: null
-published: 05/2024
+date: 2024-05-01
+published_on: 05/2024
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/giant-optical-nonlinearity-fermi-polarons-atomically-thin-semiconductors
 migrated: 2026-09-11

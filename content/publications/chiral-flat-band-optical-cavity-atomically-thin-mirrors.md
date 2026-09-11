@@ -23,7 +23,8 @@ pub_type: Journal Article
 volume: "10"
 issue: "51"
 pages: null
-published: 12/2024
+date: 2024-12-01
+published_on: 12/2024
 research_areas: []
 source: https://hafezi.jqi.umd.edu/publications/chiral-flat-band-optical-cavity-atomically-thin-mirrors
 migrated: 2026-09-11
