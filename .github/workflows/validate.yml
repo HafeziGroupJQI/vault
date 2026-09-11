@@ -26,6 +26,6 @@ jobs:
       - uses: peter-evans/repository-dispatch@v3
         with:
           token: ${{ secrets.VAULT_DISPATCH_TOKEN }}
-          repository: HafeziGroupJQI/website
+          repository: HafeziGroupJQI/hafezigroupjqi.github.io
           event-type: vault-updated
           client-payload: '{"sha": "${{ github.sha }}"}'

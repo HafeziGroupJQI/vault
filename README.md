@@ -3,7 +3,7 @@
 The group's knowledge base: onboarding pages, lab and equipment records, journal-club
 write-ups, and notes, kept as plain Markdown and Quarto files so anyone can edit them
 in Obsidian or on GitHub. Everything under `content/` is **public** and is built into
-the group site by [HafeziGroupJQI/website](https://github.com/HafeziGroupJQI/website)
+the group site by [HafeziGroupJQI/hafezigroupjqi.github.io](https://github.com/HafeziGroupJQI/hafezigroupjqi.github.io)
 on every push. Internal notes belong in the private `vault-private` repository, never here.
 
 ## Layout
