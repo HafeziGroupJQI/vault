@@ -7,7 +7,7 @@
 # quarto (site build regenerates these; freeze cache is committed instead)
 /.quarto/
 **/*_files/
-*.quarto_ipynb
+**/*.quarto_ipynb
 # os / editors
 .DS_Store
 Thumbs.db
