@@ -4,10 +4,11 @@ type: person
 role: Minta Martin Professor of Electrical and Computer Engineering and Physics
   (Joint appointment), Simons and Humboldt Fellow
 group: Group Leads
-building: Atlantic
+building: Atlantic Building
 office: "2307"
+places: [atlantic-2307]
 email: hafezi@umd.edu
-scope: TBD
+scope: null
 profile: https://hafezi.jqi.umd.edu/people/mohammad-hafezi
 photo: assets/people/mohammad-hafezi.jpg
 research_areas: []
@@ -20,8 +21,3 @@ tags:
 ---
 
 ![[assets/people/mohammad-hafezi.jpg]]
-
-Mohammad Hafezi, Minta Martin Professor of Electrical and Computer Engineering and Physics (Joint appointment), Simons and Humboldt Fellow. Main-site profile: https://hafezi.jqi.umd.edu/people/mohammad-hafezi
-
-> [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/Directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.

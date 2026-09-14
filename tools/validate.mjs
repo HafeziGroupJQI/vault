@@ -53,6 +53,10 @@ for (const { f, fm } of parsed) if (fm.draft === true) {
 for (const { f, fm, body } of parsed) {
   const name = rel(f);
   if (!fm.title) errors.push(`${name}: no title`);
+  for (const tag of fm.tags ?? []) {
+    if (!/^[a-z0-9]+(?:-[a-z0-9]+)*(?:\/[a-z0-9]+(?:-[a-z0-9]+)*)?$/.test(tag))
+      errors.push(`${name}: invalid tag ${tag}`);
+  }
   if ((fm.tags ?? []).includes("internal") || (fm.tags ?? []).includes("private"))
     errors.push(`${name}: tagged internal/private but lives in content/ (public)`);
   if (fm.type && schemas[fm.type] && !schemas[fm.type](fm))
@@ -69,6 +73,36 @@ for (const { f, fm, body } of parsed) {
     if (/^https?:/.test(raw)) continue;
     const p = path.resolve(path.dirname(f), raw.split(/[ )]/)[0]);
     if (!fs.existsSync(p)) errors.push(`${name}: missing image ${raw}`);
+  }
+}
+
+// Places are kept in one YAML file so rooms, occupants, and person profiles stay in sync.
+const placesPath = path.join(CONTENT, "places", "places.yml");
+if (fs.existsSync(placesPath)) {
+  let data;
+  try { data = yaml.load(fs.readFileSync(placesPath, "utf8")); }
+  catch (e) { errors.push(`places/places.yml: bad yaml: ${e.message}`); }
+  if (data && !schemas.places(data))
+    for (const e of schemas.places.errors) errors.push(`places/places.yml: ${e.instancePath || "/"} ${e.message}`);
+  if (data?.places) {
+    const people = new Map(parsed.filter((p) => p.fm.type === "person").map((p) => [path.basename(p.f, path.extname(p.f)), p]));
+    const places = new Map();
+    for (const place of data.places) {
+      if (places.has(place.id)) errors.push(`places/places.yml: duplicate id ${place.id}`);
+      places.set(place.id, place);
+    }
+    for (const place of data.places) {
+      if (place.building && !places.has(place.building)) errors.push(`places/places.yml: ${place.id} has unknown building ${place.building}`);
+      for (const slug of place.occupants ?? []) {
+        if (!people.has(slug)) errors.push(`places/places.yml: ${place.id} has unknown occupant ${slug}`);
+        else if (!(people.get(slug).fm.places ?? []).includes(place.id))
+          errors.push(`people/${slug}.md: missing places entry for ${place.id}`);
+      }
+    }
+    for (const [slug, person] of people) for (const id of person.fm.places ?? []) {
+      if (!places.has(id)) errors.push(`people/${slug}.md: unknown place ${id}`);
+      else if (!(places.get(id).occupants ?? []).includes(slug)) errors.push(`places/places.yml: ${id} is missing occupant ${slug}`);
+    }
   }
 }
 

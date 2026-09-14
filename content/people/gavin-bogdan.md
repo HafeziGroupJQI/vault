@@ -3,10 +3,11 @@ title: Gavin Bogdan
 type: person
 role: Graduate Research Assistant/Teaching Assistant
 group: Graduate Students
-building: TBD
-office: TBD
-email: TBD
-scope: TBD
+building: Atlantic Building
+office: "2369"
+places: [atlantic-2369]
+email: null
+scope: null
 profile: https://hafezi.jqi.umd.edu/people/gavin-bogdan
 photo: assets/people/gavin-bogdan.jpg
 research_areas: []
@@ -21,8 +22,3 @@ tags:
 ---
 
 ![[assets/people/gavin-bogdan.jpg]]
-
-Gavin Bogdan, Graduate Research Assistant/Teaching Assistant. Main-site profile: https://hafezi.jqi.umd.edu/people/gavin-bogdan
-
-> [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/Directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.

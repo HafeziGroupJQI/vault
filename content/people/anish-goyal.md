@@ -3,10 +3,11 @@ title: Anish Goyal
 type: person
 role: Graduate Research Assistant
 group: Graduate Students
-building: TBD
-office: TBD
-email: TBD
-scope: TBD
+building: Atlantic Building
+office: "2369"
+places: [atlantic-2369]
+email: null
+scope: null
 profile: https://hafezi.jqi.umd.edu/people/anish-goyal
 photo: assets/people/anish-goyal.jpg
 research_areas: []
@@ -20,8 +21,3 @@ tags:
 ---
 
 ![[assets/people/anish-goyal.jpg]]
-
-Anish Goyal, Graduate Research Assistant. Main-site profile: https://hafezi.jqi.umd.edu/people/anish-goyal
-
-> [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/Directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.

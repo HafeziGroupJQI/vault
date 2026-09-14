@@ -3,10 +3,11 @@ title: Apurva Padhye
 type: person
 role: Graduate Student
 group: Graduate Students
-building: TBD
-office: TBD
-email: TBD
-scope: TBD
+building: Atlantic Building
+office: Room not recorded
+places: [apurva-office]
+email: null
+scope: null
 profile: https://hafezi.jqi.umd.edu/people/apurva-padhye
 photo: assets/people/apurva-padhye.jpg
 research_areas: []
@@ -23,8 +24,3 @@ tags:
 ---
 
 ![[assets/people/apurva-padhye.jpg]]
-
-Apurva Padhye, Graduate Student. Main-site profile: https://hafezi.jqi.umd.edu/people/apurva-padhye
-
-> [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/Directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.

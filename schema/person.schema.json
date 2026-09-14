@@ -33,16 +33,16 @@
       ]
     },
     "building": {
-      "type": "string"
+      "type": ["string", "null"]
     },
     "office": {
-      "type": "string"
+      "type": ["string", "null"]
     },
     "email": {
-      "type": "string"
+      "type": ["string", "null"]
     },
     "scope": {
-      "type": "string"
+      "type": ["string", "null"]
     },
     "profile": {
       "type": [
@@ -67,6 +67,14 @@
       "items": {
         "type": "string"
       }
+    },
+    "places": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+      },
+      "uniqueItems": true
     },
     "source": {
       "type": "string"

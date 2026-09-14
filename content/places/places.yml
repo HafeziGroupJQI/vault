@@ -1,0 +1,105 @@
+places:
+  - id: atlantic-building
+    name: Atlantic Building
+    kind: building
+    address: 4296 Stadium Drive, College Park, MD 20742
+    description: JQI offices, laboratories, and shared rooms.
+    status: verified
+    tags: [places, places/building]
+
+  - id: physical-sciences-complex
+    name: Physical Sciences Complex
+    short_name: PSC
+    kind: building
+    address: 4296 Stadium Drive, College Park, MD 20742
+    description: Laboratories and administrative offices adjoining Atlantic.
+    status: verified
+    tags: [places, places/building]
+
+  - id: jqi-front-office
+    name: JQI front office
+    kind: office
+    building: atlantic-building
+    room: "2207"
+    status: verified
+    tags: [places, places/office]
+
+  - id: atlantic-2307
+    name: Mohammad's office
+    kind: office
+    building: atlantic-building
+    room: "2307"
+    occupants: [mohammad-hafezi]
+    status: verified
+    tags: [places, places/office]
+
+  - id: atlantic-2369
+    name: Anish and Gavin's office
+    kind: office
+    building: atlantic-building
+    room: "2369"
+    occupants: [anish-goyal, gavin-bogdan]
+    status: verified
+    tags: [places, places/office]
+
+  - id: mahmoud-office
+    name: Mahmoud's office
+    kind: office
+    building: atlantic-building
+    occupants: [mahmoud-jalali-mehrabad]
+    status: needs-details
+    tags: [places, places/office]
+
+  - id: apurva-office
+    name: Apurva's office
+    kind: office
+    building: atlantic-building
+    occupants: [apurva-padhye]
+    status: needs-details
+    tags: [places, places/office]
+
+  - id: psc-basement-lab
+    name: PSC basement lab
+    kind: lab
+    building: physical-sciences-complex
+    floor: Basement
+    status: needs-details
+    tags: [places, places/lab]
+
+  - id: psc-subbasement-lab
+    name: PSC subbasement lab
+    kind: lab
+    building: physical-sciences-complex
+    floor: Subbasement
+    status: needs-details
+    tags: [places, places/lab]
+
+  - id: atlantic-lab
+    name: Atlantic laboratory
+    kind: lab
+    building: atlantic-building
+    status: needs-details
+    tags: [places, places/lab]
+
+  - id: group-kitchen
+    name: JQI group kitchen
+    kind: shared
+    building: atlantic-building
+    room: "2366"
+    status: verified
+    tags: [places, places/shared]
+
+  - id: conference-room
+    name: Group conference room
+    kind: shared
+    building: atlantic-building
+    status: needs-details
+    tags: [places, places/shared]
+
+  - id: psc-administration
+    name: Finance, payroll, and HR
+    kind: service
+    building: physical-sciences-complex
+    floor: Ground floor
+    status: needs-details
+    tags: [places, places/service]

@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "places.schema.json",
+  "title": "Places directory",
+  "type": "object",
+  "required": ["places"],
+  "properties": {
+    "places": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "kind", "status", "tags"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+          "name": { "type": "string", "minLength": 1 },
+          "short_name": { "type": "string", "minLength": 1 },
+          "kind": { "enum": ["building", "office", "lab", "shared", "service"] },
+          "building": { "type": "string" },
+          "room": { "type": "string" },
+          "floor": { "type": "string" },
+          "address": { "type": "string" },
+          "description": { "type": "string" },
+          "occupants": {
+            "type": "array",
+            "items": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+            "uniqueItems": true
+          },
+          "status": { "enum": ["verified", "needs-details"] },
+          "tags": {
+            "type": "array",
+            "items": { "type": "string" },
+            "contains": { "const": "places" },
+            "uniqueItems": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}
