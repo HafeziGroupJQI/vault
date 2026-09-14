@@ -4,10 +4,10 @@ type: person
 role: "Senior Quantum Scientist at QuEra. Former Theoretical Quantum Optics
   Postdoctoral Fellow. "
 group: Alumni
-building: TBD
-office: TBD
+building: null
+office: null
 email: aschu@umd.edu
-scope: TBD
+scope: null
 profile: https://hafezi.jqi.umd.edu/people/alexander-schuckert
 photo: assets/people/alexander-schuckert.jpg
 research_areas: []
@@ -20,8 +20,3 @@ tags:
 ---
 
 ![[assets/people/alexander-schuckert.jpg]]
-
-Alexander Schuckert, Senior Quantum Scientist at QuEra. Former Theoretical Quantum Optics Postdoctoral Fellow. . Main-site profile: https://hafezi.jqi.umd.edu/people/alexander-schuckert
-
-> [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/Directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.

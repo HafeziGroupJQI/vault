@@ -4,10 +4,10 @@ type: person
 role: Research Scientist at IBM Quantum. Former Theoretical Quantum Optics
   Postdoctoral Fellow.
 group: Alumni
-building: TBD
-office: TBD
+building: null
+office: null
 email: oshtanko@umd.edu
-scope: TBD
+scope: null
 profile: https://hafezi.jqi.umd.edu/people/oles-shtanko
 photo: assets/people/oles-shtanko.jpg
 research_areas: []
@@ -21,14 +21,9 @@ tags:
 
 ![[assets/people/oles-shtanko.jpg]]
 
-Oles Shtanko, Research Scientist at IBM Quantum. Former Theoretical Quantum Optics Postdoctoral Fellow.. Main-site profile: https://hafezi.jqi.umd.edu/people/oles-shtanko
+## Research areas
 
-**Research Areas:** 
-
--   Polar molecules, magnetic atoms, and other dipolar systems
--   Topological matter in AMO systems
--   Driven-dissipative systems
--   Alkaline-earth atoms
-
-> [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/Directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.
+- Polar molecules, magnetic atoms, and other dipolar systems
+- Topological matter in AMO systems
+- Driven-dissipative systems
+- Alkaline-earth atoms

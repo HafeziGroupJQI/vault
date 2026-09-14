@@ -3,10 +3,10 @@ title: Peter Lunts
 type: person
 role: Postdoctoral Fellow, Harvard University Department of Physics
 group: Alumni
-building: TBD
-office: TBD
+building: null
+office: null
 email: plunts@umd.edu
-scope: TBD
+scope: null
 profile: https://hafezi.jqi.umd.edu/people/peter-lunts
 photo: assets/people/peter-lunts.png
 research_areas: []
@@ -20,13 +20,8 @@ tags:
 
 ![[assets/people/peter-lunts.png]]
 
-Peter Lunts, Postdoctoral Fellow, Harvard University Department of Physics. Main-site profile: https://hafezi.jqi.umd.edu/people/peter-lunts
+## Research areas
 
-**Research Areas:** 
-
--   Quantum Information Science
--   Many-body physics
--   Hybrid quantum systems
-
-> [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/Directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.
+- Quantum Information Science
+- Many-body physics
+- Hybrid quantum systems

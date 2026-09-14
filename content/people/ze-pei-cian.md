@@ -3,10 +3,10 @@ title: Ze-Pei Cian
 type: person
 role: Quantitative Researcher, Millennium
 group: Alumni
-building: TBD
-office: TBD
+building: null
+office: null
 email: zpcian@umd.edu
-scope: TBD
+scope: null
 profile: https://hafezi.jqi.umd.edu/people/ze-pei-cian
 photo: assets/people/ze-pei-cian.jpg
 research_areas: []
@@ -20,11 +20,6 @@ tags:
 
 ![[assets/people/ze-pei-cian.jpg]]
 
-Ze-Pei Cian, Quantitative Researcher, Millennium. Main-site profile: https://hafezi.jqi.umd.edu/people/ze-pei-cian
-
-**Research Areas:** 
+## Research areas
 
 Quantum Information Science
-
-> [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/Directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.

@@ -3,10 +3,10 @@ title: Shreyanka Sinha
 type: person
 role: Graduate Research Assistant
 group: Graduate Students
-building: TBD
-office: TBD
-email: TBD
-scope: TBD
+building: null
+office: null
+email: null
+scope: null
 profile: https://hafezi.jqi.umd.edu/people/shreyanka-sinha
 photo: assets/people/shreyanka-sinha.jpg
 research_areas: []
@@ -19,8 +19,3 @@ tags:
 ---
 
 ![[assets/people/shreyanka-sinha.jpg]]
-
-Shreyanka Sinha, Graduate Research Assistant. Main-site profile: https://hafezi.jqi.umd.edu/people/shreyanka-sinha
-
-> [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/Directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.

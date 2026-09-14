@@ -3,10 +3,10 @@ title: Vikram Orre
 type: person
 role: Genesis Engineering Solutions
 group: Alumni
-building: TBD
-office: TBD
+building: null
+office: null
 email: vikramov@umd.edu
-scope: TBD
+scope: null
 profile: https://hafezi.jqi.umd.edu/people/vikram-orre
 photo: null
 research_areas: []
@@ -18,11 +18,6 @@ tags:
   - role/alumni
 ---
 
-Vikram Orre, Genesis Engineering Solutions. Main-site profile: https://hafezi.jqi.umd.edu/people/vikram-orre
-
-**Where are they now?:** 
+## Current position
 
 Genesis Engineering Solutions
-
-> [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/Directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.

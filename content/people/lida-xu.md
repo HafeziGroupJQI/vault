@@ -3,10 +3,10 @@ title: Lida Xu
 type: person
 role: Graduate Student
 group: Graduate Students
-building: TBD
-office: TBD
-email: " lidaxu66@umd.edu"
-scope: TBD
+building: null
+office: null
+email: lidaxu66@umd.edu
+scope: null
 profile: https://hafezi.jqi.umd.edu/people/lida-xu
 photo: assets/people/lida-xu.jpg
 research_areas: []
@@ -22,12 +22,7 @@ tags:
 
 ![[assets/people/lida-xu.jpg]]
 
-Lida Xu, Graduate Student. Main-site profile: https://hafezi.jqi.umd.edu/people/lida-xu
+## Research areas
 
-**Research Areas:** 
-
--   Topological physics with light
--   Many-body physics
-
-> [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/Directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.
+- Topological physics with light
+- Many-body physics

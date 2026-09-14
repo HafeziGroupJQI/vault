@@ -3,10 +3,10 @@ title: Pranshoo Upadhyay
 type: person
 role: Graduate Student
 group: Graduate Students
-building: TBD
-office: TBD
+building: null
+office: null
 email: pranshoo@umd.edu
-scope: TBD
+scope: null
 profile: https://hafezi.jqi.umd.edu/people/pranshoo-upadhyay
 photo: assets/people/pranshoo-upadhyay.jpg
 research_areas: []
@@ -20,9 +20,4 @@ tags:
 
 ![[assets/people/pranshoo-upadhyay.jpg]]
 
-Pranshoo Upadhyay, Graduate Student. Main-site profile: https://hafezi.jqi.umd.edu/people/pranshoo-upadhyay
-
 Website: [https://pranshoo.github.io/pranshoo-physics/](https://pranshoo.github.io/pranshoo-physics/)
-
-> [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/Directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.

@@ -3,10 +3,10 @@ title: Yu-Xin Wang
 type: person
 role: Postdoctoral Associate at MIT. Former Hartree Postdoctoral Fellow.
 group: Alumni
-building: TBD
-office: TBD
+building: null
+office: null
 email: yuxinw@umd.edu
-scope: TBD
+scope: null
 profile: https://hafezi.jqi.umd.edu/people/yu-xin-wang
 photo: assets/people/yu-xin-wang.jpg
 research_areas: []
@@ -19,8 +19,3 @@ tags:
 ---
 
 ![[assets/people/yu-xin-wang.jpg]]
-
-Yu-Xin Wang, Postdoctoral Associate at MIT. Former Hartree Postdoctoral Fellow.. Main-site profile: https://hafezi.jqi.umd.edu/people/yu-xin-wang
-
-> [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/Directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.

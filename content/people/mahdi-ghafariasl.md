@@ -3,10 +3,10 @@ title: Mahdi Ghafariasl
 type: person
 role: Postdoctoral Researcher
 group: Postdoctoral Researchers
-building: TBD
-office: TBD
+building: null
+office: null
 email: mg47463@umd.edu
-scope: TBD
+scope: null
 profile: https://hafezi.jqi.umd.edu/people/mahdi-ghafariasl
 photo: assets/people/mahdi-ghafariasl.jpg
 research_areas: []
@@ -19,8 +19,3 @@ tags:
 ---
 
 ![[assets/people/mahdi-ghafariasl.jpg]]
-
-Mahdi Ghafariasl, Postdoctoral Researcher. Main-site profile: https://hafezi.jqi.umd.edu/people/mahdi-ghafariasl
-
-> [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/Directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.

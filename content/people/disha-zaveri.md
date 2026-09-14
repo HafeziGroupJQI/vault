@@ -3,10 +3,10 @@ title: Disha Zaveri
 type: person
 role: Graduate Research Assistant/Teaching Assistant
 group: Graduate Students
-building: TBD
-office: TBD
-email: TBD
-scope: TBD
+building: null
+office: null
+email: null
+scope: null
 profile: https://hafezi.jqi.umd.edu/people/disha-zaveri
 photo: assets/people/disha-zaveri.jpg
 research_areas: []
@@ -19,8 +19,3 @@ tags:
 ---
 
 ![[assets/people/disha-zaveri.jpg]]
-
-Disha Zaveri, Graduate Research Assistant/Teaching Assistant. Main-site profile: https://hafezi.jqi.umd.edu/people/disha-zaveri
-
-> [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/Directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.

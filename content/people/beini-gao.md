@@ -3,10 +3,10 @@ title: Beini Gao
 type: person
 role: Graduate Student
 group: Graduate Students
-building: TBD
-office: TBD
+building: null
+office: null
 email: gbeini@umd.edu
-scope: TBD
+scope: null
 profile: https://hafezi.jqi.umd.edu/people/beini-gao
 photo: assets/people/beini-gao.jpg
 research_areas: []
@@ -19,8 +19,3 @@ tags:
 ---
 
 ![[assets/people/beini-gao.jpg]]
-
-Beini Gao, Graduate Student. Main-site profile: https://hafezi.jqi.umd.edu/people/beini-gao
-
-> [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/Directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.

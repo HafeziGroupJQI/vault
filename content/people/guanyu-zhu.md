@@ -3,10 +3,10 @@ title: Guanyu Zhu
 type: person
 role: IBM Watson Research Center (Quantum Information)
 group: Alumni
-building: TBD
-office: TBD
+building: null
+office: null
 email: gzhu123@umd.edu
-scope: TBD
+scope: null
 profile: https://hafezi.jqi.umd.edu/people/guanyu-zhu
 photo: assets/people/guanyu-zhu.jpg
 research_areas: []
@@ -20,17 +20,12 @@ tags:
 
 ![[assets/people/guanyu-zhu.jpg]]
 
-Guanyu Zhu, IBM Watson Research Center (Quantum Information). Main-site profile: https://hafezi.jqi.umd.edu/people/guanyu-zhu
+## Research areas
 
-**Research Areas:** 
+- Topological physics with light
+- Many-body physics
+- Hybrid quantum systems
 
--   Topological physics with light
--   Many-body physics
--   Hybrid quantum systems
-
-**Where are they now?:** 
+## Current position
 
 IBM Watson Research Center (Quantum Information)
-
-> [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/Directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.

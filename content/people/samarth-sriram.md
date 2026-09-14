@@ -3,10 +3,10 @@ title: Samarth Sriram
 type: person
 role: Graduate Student
 group: Graduate Students
-building: TBD
-office: TBD
-email: TBD
-scope: TBD
+building: null
+office: null
+email: null
+scope: null
 profile: https://hafezi.jqi.umd.edu/people/samarth-sriram
 photo: assets/people/samarth-sriram.jpg
 research_areas: []
@@ -19,8 +19,3 @@ tags:
 ---
 
 ![[assets/people/samarth-sriram.jpg]]
-
-Samarth Sriram, Graduate Student. Main-site profile: https://hafezi.jqi.umd.edu/people/samarth-sriram
-
-> [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/Directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.

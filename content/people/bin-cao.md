@@ -3,10 +3,10 @@ title: Bin Cao
 type: person
 role: Apple
 group: Alumni
-building: TBD
-office: TBD
+building: null
+office: null
 email: bincao@umd.edu
-scope: TBD
+scope: null
 profile: https://hafezi.jqi.umd.edu/people/bin-cao
 photo: assets/people/bin-cao.jpg
 research_areas: []
@@ -20,11 +20,6 @@ tags:
 
 ![[assets/people/bin-cao.jpg]]
 
-Bin Cao, Apple. Main-site profile: https://hafezi.jqi.umd.edu/people/bin-cao
-
-**Where are they now?:** 
+## Current position
 
 Apple
-
-> [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/Directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.

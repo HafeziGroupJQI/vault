@@ -3,10 +3,10 @@ title: Shi-Yuan Ma
 type: person
 role: Visiting Assistant Research Scientist
 group: Postdoctoral Researchers
-building: TBD
-office: TBD
-email: TBD
-scope: TBD
+building: null
+office: null
+email: null
+scope: null
 profile: https://hafezi.jqi.umd.edu/people/shi-yuan-ma
 photo: assets/people/shi-yuan-ma.jpg
 research_areas: []
@@ -22,8 +22,3 @@ tags:
 ---
 
 ![[assets/people/shi-yuan-ma.jpg]]
-
-Shi-Yuan Ma, Visiting Assistant Research Scientist. Main-site profile: https://hafezi.jqi.umd.edu/people/shi-yuan-ma
-
-> [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/Directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.

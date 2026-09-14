@@ -3,10 +3,10 @@ title: Tsung-Sheng Huang
 type: person
 role: Postdoctoral Research Fellow, ICFO, Spain
 group: Alumni
-building: TBD
-office: TBD
+building: null
+office: null
 email: tshuang@umd.edu
-scope: TBD
+scope: null
 profile: https://hafezi.jqi.umd.edu/people/tsung-sheng-huang
 photo: assets/people/tsung-sheng-huang.jpg
 research_areas: []
@@ -20,11 +20,6 @@ tags:
 
 ![[assets/people/tsung-sheng-huang.jpg]]
 
-Tsung-Sheng Huang, Postdoctoral Research Fellow, ICFO, Spain. Main-site profile: https://hafezi.jqi.umd.edu/people/tsung-sheng-huang
-
-**Research Areas:** 
+## Research areas
 
 Hybrid quantum systems
-
-> [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/Directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.

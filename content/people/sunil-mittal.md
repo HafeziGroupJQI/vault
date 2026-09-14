@@ -3,10 +3,10 @@ title: Sunil Mittal
 type: person
 role: Assistant Professor at Northeastern University
 group: Alumni
-building: TBD
-office: TBD
+building: null
+office: null
 email: mittals@umd.edu
-scope: TBD
+scope: null
 profile: https://hafezi.jqi.umd.edu/people/sunil-mittal
 photo: assets/people/sunil-mittal.jpg
 research_areas: []
@@ -20,11 +20,6 @@ tags:
 
 ![[assets/people/sunil-mittal.jpg]]
 
-Sunil Mittal, Assistant Professor at Northeastern University. Main-site profile: https://hafezi.jqi.umd.edu/people/sunil-mittal
-
-**Where are they now?:** 
+## Current position
 
 Assistant Professor at Northeastern University
-
-> [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/Directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.

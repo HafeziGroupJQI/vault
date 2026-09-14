@@ -3,10 +3,10 @@ title: Pavel Dolgirev
 type: person
 role: Postdoctoral Researcher
 group: Postdoctoral Researchers
-building: TBD
-office: TBD
-email: TBD
-scope: TBD
+building: null
+office: null
+email: null
+scope: null
 profile: https://hafezi.jqi.umd.edu/people/pavel-dolgirev-1
 photo: assets/people/pavel-dolgirev.jpg
 research_areas: []
@@ -19,8 +19,3 @@ tags:
 ---
 
 ![[assets/people/pavel-dolgirev.jpg]]
-
-Pavel Dolgirev, Postdoctoral Researcher. Main-site profile: https://hafezi.jqi.umd.edu/people/pavel-dolgirev-1
-
-> [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/Directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.

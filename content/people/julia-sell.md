@@ -3,10 +3,10 @@ title: Julia Sell
 type: person
 role: Institute for Defense Analyses
 group: Alumni
-building: TBD
-office: TBD
+building: null
+office: null
 email: jsell@physics.umd.edu
-scope: TBD
+scope: null
 profile: https://hafezi.jqi.umd.edu/people/julia-sell
 photo: assets/people/julia-sell.jpg
 research_areas: []
@@ -20,15 +20,10 @@ tags:
 
 ![[assets/people/julia-sell.jpg]]
 
-Julia Sell, Institute for Defense Analyses. Main-site profile: https://hafezi.jqi.umd.edu/people/julia-sell
-
-**Research Areas:** 
+## Research areas
 
 Hybrid quantum systems
 
-**Where are they now?:** 
+## Current position
 
 Institute for Defense Analyses
-
-> [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/Directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.

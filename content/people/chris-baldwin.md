@@ -4,10 +4,10 @@ type: person
 role: Assistant Professor at Michigan State University. Former NRC Postdoctoral
   Fellow.
 group: Alumni
-building: TBD
-office: TBD
+building: null
+office: null
 email: cbaldwi3@umd.edu
-scope: TBD
+scope: null
 profile: https://hafezi.jqi.umd.edu/people/chris-baldwin
 photo: assets/people/chris-baldwin.jpg
 research_areas: []
@@ -20,8 +20,3 @@ tags:
 ---
 
 ![[assets/people/chris-baldwin.jpg]]
-
-Chris Baldwin, Assistant Professor at Michigan State University. Former NRC Postdoctoral Fellow.. Main-site profile: https://hafezi.jqi.umd.edu/people/chris-baldwin
-
-> [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/Directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.

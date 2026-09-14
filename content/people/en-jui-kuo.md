@@ -4,10 +4,10 @@ type: person
 role: Assistant Professor, National Yang Ming Chiao Tung University, Dep't of
   Electrophysics
 group: Alumni
-building: TBD
-office: TBD
+building: null
+office: null
 email: kuoenjui@umd.edu
-scope: TBD
+scope: null
 profile: https://hafezi.jqi.umd.edu/people/en-jui-kuo-0
 photo: assets/people/en-jui-kuo.jpg
 research_areas: []
@@ -20,8 +20,3 @@ tags:
 ---
 
 ![[assets/people/en-jui-kuo.jpg]]
-
-En-Jui Kuo, Assistant Professor, National Yang Ming Chiao Tung University, Dep't of Electrophysics. Main-site profile: https://hafezi.jqi.umd.edu/people/en-jui-kuo-0
-
-> [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/Directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.

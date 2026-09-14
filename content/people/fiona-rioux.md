@@ -3,10 +3,10 @@ title: Fiona Rioux
 type: person
 role: Research Assistant
 group: Undergraduate Students
-building: TBD
-office: TBD
-email: TBD
-scope: TBD
+building: null
+office: null
+email: null
+scope: null
 profile: https://hafezi.jqi.umd.edu/people/fiona-rioux
 photo: null
 research_areas: []
@@ -17,8 +17,3 @@ tags:
   - people
   - role/undergrad
 ---
-
-Fiona Rioux, Research Assistant. Main-site profile: https://hafezi.jqi.umd.edu/people/fiona-rioux
-
-> [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/Directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.

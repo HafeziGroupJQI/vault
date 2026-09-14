@@ -2,6 +2,7 @@ filters:
   and:
     - file.folder == "people"
     - type == "person"
+    - group != "Alumni"
 properties:
   title:
     displayName: Name
@@ -34,35 +35,3 @@ views:
         direction: ASC
       - property: title
         direction: ASC
-  - type: table
-    name: Who is doing what
-    filters:
-      and:
-        - projects.length > 0
-    order:
-      - title
-      - projects
-    sort:
-      - property: title
-        direction: ASC
-  - type: table
-    name: Alumni
-    filters:
-      and:
-        - group == "Alumni"
-    order:
-      - title
-      - role
-      - email
-    sort:
-      - property: title
-        direction: ASC
-  - type: cards
-    name: Cards
-    filters:
-      and:
-        - group != "Alumni"
-    order:
-      - title
-      - role
-      - email

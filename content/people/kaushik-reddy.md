@@ -3,10 +3,10 @@ title: Kaushik Reddy
 type: person
 role: Software Systems Enginees, ServiceNow
 group: Alumni
-building: TBD
-office: TBD
+building: null
+office: null
 email: kkaushik@umd.edu
-scope: TBD
+scope: null
 profile: https://hafezi.jqi.umd.edu/people/kaushik-reddy
 photo: assets/people/kaushik-reddy.jpg
 research_areas: []
@@ -19,8 +19,3 @@ tags:
 ---
 
 ![[assets/people/kaushik-reddy.jpg]]
-
-Kaushik Reddy, Software Systems Enginees, ServiceNow. Main-site profile: https://hafezi.jqi.umd.edu/people/kaushik-reddy
-
-> [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/Directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.

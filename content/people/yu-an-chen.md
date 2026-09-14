@@ -3,10 +3,10 @@ title: Yu-An Chen
 type: person
 role: Assistant Professor at Peking University. Former JQI Postdoctoral Fellow.
 group: Alumni
-building: TBD
-office: TBD
+building: null
+office: null
 email: yuanchen@umd.edu
-scope: TBD
+scope: null
 profile: https://hafezi.jqi.umd.edu/people/yu-chen
 photo: assets/people/yu-an-chen.jpg
 research_areas: []
@@ -20,13 +20,8 @@ tags:
 
 ![[assets/people/yu-an-chen.jpg]]
 
-Yu-An Chen, Assistant Professor at Peking University. Former JQI Postdoctoral Fellow.. Main-site profile: https://hafezi.jqi.umd.edu/people/yu-chen
+## Research areas
 
-**Research Areas:** 
-
--   Quantum Information Science
--   Topological physics with light
--   Hybrid quantum systems
-
-> [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/Directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.
+- Quantum Information Science
+- Topological physics with light
+- Hybrid quantum systems

@@ -3,10 +3,10 @@ title: Gautam Nambiar
 type: person
 role: Postdoctoral Researcher, The Hong Kong University of Science and Technology
 group: Alumni
-building: TBD
-office: TBD
+building: null
+office: null
 email: nambiar@umd.edu
-scope: TBD
+scope: null
 profile: https://hafezi.jqi.umd.edu/people/gautam-nambiar
 photo: assets/people/gautam-nambiar.jpg
 research_areas: []
@@ -20,11 +20,6 @@ tags:
 
 ![[assets/people/gautam-nambiar.jpg]]
 
-Gautam Nambiar, Postdoctoral Researcher, The Hong Kong University of Science and Technology. Main-site profile: https://hafezi.jqi.umd.edu/people/gautam-nambiar
-
-**Research Areas:** 
+## Research areas
 
 Many-body physics
-
-> [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/Directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.

@@ -3,10 +3,10 @@ title: Deric Session
 type: person
 role: Systems Scientist, Onto Innovation
 group: Alumni
-building: TBD
-office: TBD
+building: null
+office: null
 email: dwsess@umd.edu
-scope: TBD
+scope: null
 profile: https://hafezi.jqi.umd.edu/people/deric-session
 photo: assets/people/deric-session.jpg
 research_areas: []
@@ -19,8 +19,3 @@ tags:
 ---
 
 ![[assets/people/deric-session.jpg]]
-
-Deric Session, Systems Scientist, Onto Innovation. Main-site profile: https://hafezi.jqi.umd.edu/people/deric-session
-
-> [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/Directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.

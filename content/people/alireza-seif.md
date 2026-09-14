@@ -3,10 +3,10 @@ title: Alireza Seif
 type: person
 role: IBM Watson Research Center (Quantum Information)
 group: Alumni
-building: TBD
-office: TBD
+building: null
+office: null
 email: seif@umd.edu
-scope: TBD
+scope: null
 profile: https://hafezi.jqi.umd.edu/people/alireza-seif
 photo: assets/people/alireza-seif.jpg
 research_areas: []
@@ -20,16 +20,11 @@ tags:
 
 ![[assets/people/alireza-seif.jpg]]
 
-Alireza Seif, IBM Watson Research Center (Quantum Information). Main-site profile: https://hafezi.jqi.umd.edu/people/alireza-seif
+## Research areas
 
-**Research Areas:** 
+- Many-body physics
+- Hybrid quantum systems
 
--   Many-body physics
--   Hybrid quantum systems
-
-**Where are they now?:** 
+## Current position
 
 University of Chicago
-
-> [!info] Keep your own record current
-> Office, email, "ask me about" scope, and `projects` feed the [[people/Directory.base|directory]] and [[onboarding/directions|Current Directions]] pages. Edit the frontmatter above.
