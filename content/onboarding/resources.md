@@ -4,22 +4,6 @@ type: page
 tags: [onboarding]
 ---
 
-## Journal club — "the past"
-
-The group runs a weekly journal-club series: roughly **ten key papers from the
-group itself**, one per week for about 2.5 months, presented tutorial-style at
-first, plus a few papers from collaborators and competitors ("if you can't
-defeat them, join them"). The purpose is a map of the community — so that when
-you read a paper you know which group it came from and their history. Once the
-foundation exists, students take the lead: pick a week, present a paper,
-propose a project based on it.
-
-> [!warning] Needs verification
-> The concrete list of the ~10 papers
-> and the schedule should be added here once fixed. Meanwhile, the
-> [Publications page](https://hafezi.jqi.umd.edu/publications) is the
-> superset.
-
 ## Key starting points
 
 - [Group publications](https://hafezi.jqi.umd.edu/publications) and

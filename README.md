@@ -1,8 +1,8 @@
 # Hafezi Group vault
 
-The group's knowledge base: onboarding pages, lab and equipment records, journal-club
-write-ups, and notes, kept as plain Markdown and Quarto files so anyone can edit them
-in Obsidian or on GitHub. Everything under `content/` is **public** and is built into
+The group's public knowledge base: onboarding pages, lab and equipment records, and notes,
+kept as plain Markdown and Quarto files so anyone can edit them in Obsidian or on GitHub.
+Everything under `content/` is **public** and is built into
 the group site by [HafeziGroupJQI/hafezigroupjqi.github.io](https://github.com/HafeziGroupJQI/hafezigroupjqi.github.io)
 on every push. Internal notes belong in the private `vault-private` repository, never here.
 
@@ -15,7 +15,6 @@ on every push. Internal notes belong in the private `vault-private` repository, 
 | `content/people/` | One record per member (`type: person`) plus `directory.base`, the filterable directory |
 | `content/equipment/` | One record per instrument (`type: equipment`) plus `equipment.base` and the overview |
 | `content/setups/` | One record per experimental setup (`type: setup`) linking its equipment |
-| `content/journal-club/` | Session write-ups (`.qmd`) and discussion notes |
 | `content/lab/` | Long-form lab notes and walkthroughs |
 | `content/materials/` | Photonic material property tables |
 | `content/publications/`, `news/`, `research/` | Migrated from hafezi.jqi.umd.edu (see `source:` in each page) |
@@ -42,8 +41,6 @@ on every push. Internal notes belong in the private `vault-private` repository, 
 - **A new instrument**: `templates/equipment.md` (Templater) or copy an existing record. Set
   `driver` to the command-and-control driver name once one exists; leave `null` otherwise.
 - **A new setup**: `templates/setup.md`; list its equipment as `[[equipment/<id>]]` links.
-- **A journal-club session**: add `journal-club/journal-club-NN.qmd` and a `session-NN-notes.md`,
-  then add a row to `journal-club/index.md`.
 - **Your own directory entry**: edit `content/people/<your-name>.md`.
 
 ## How the site is built

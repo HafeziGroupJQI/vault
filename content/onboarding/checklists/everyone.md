@@ -57,8 +57,8 @@ If you want to buy anything for the lab, there is a physics purchase form.
 
 ## Email lists and calendars
 
-Ask a group lead to add you to the group mailing list, the group calendar
-(lab meetings, journal club), and any Slack/Teams workspace in use.
+Ask a group lead to add you to the group mailing list, the group calendar,
+and any Slack/Teams workspace in use.
 
 ## Optional quality-of-life
 

@@ -26,11 +26,8 @@ writing campaign.
 
 ## How this fits together
 
-The group's knowledge-sharing rests on three legs:
+The group's knowledge-sharing connects planning and onboarding:
 
-- **The past** — the journal-club series: ~10 key papers from the group (plus
-  a few from collaborators and competitors), one per week, tutorial-style at
-  first and student-led after that. See [[onboarding/resources|Resources]].
 - **The future** — planning discussions and each member's 3 / 6 / 12-month
   goals. See [[onboarding/directions|Current Directions]].
 - **The how** — this onboarding documentation: contacts, access, trainings,

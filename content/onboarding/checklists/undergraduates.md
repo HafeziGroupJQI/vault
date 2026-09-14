@@ -27,5 +27,3 @@ best-effort draft — undergrads, please correct it from experience.
 - Start with the [[onboarding/glossary|Glossary]] and the
   [[equipment/index|Equipment overview]] — they exist precisely so you
   don't need two months of osmosis.
-- Join the journal club (see [[onboarding/resources|Resources]]); it's the fastest
-  map of what the group cares about.
