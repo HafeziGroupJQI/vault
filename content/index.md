@@ -2,17 +2,12 @@
 title: Hafezi Group
 type: page
 description: Quantum optics, photonics, many-body physics, and quantum information at the University of Maryland.
+source: https://hafezi.jqi.umd.edu/
 tags: [home]
 ---
-We study quantum light and matter across quantum optics, condensed-matter physics,
-quantum information, photonics, and machine learning.
 
-The group is led by [[people/mohammad-hafezi|Mohammad Hafezi]] at the University of Maryland.
+![[assets/about/hero.png]]
 
-## Explore
+Our group aims to **theoretically AND experimentally** investigate various quantum properties of light-matter interaction for applications in future optoelectronic devices, quantum information processing, and sensing. Moreover, we explore associated fundamental phenomena, such as many-body physics, that could emerge in such physical systems. Our research is at the interface of quantum optics, condensed matter physics, quantum information sciences, and more recently, machine learning.
 
-- [[research/index|Research]] — current themes and experimental platforms
-- [[people/index|People]] — current members and alumni
-- [[publications/index|Publications]] — papers from the group
-- [[places/index|Places]] — offices, laboratories, and shared rooms
-- [[onboarding/index|Group guide]] — access, safety, equipment, and onboarding
+Group lead: [[people/mohammad-hafezi|Mohammad Hafezi]]. See [[research/index|Research]], [[people/index|People]], and [[publications/index|Publications]].
