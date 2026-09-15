@@ -17,7 +17,7 @@ jobs:
       - run: npm ci
       - run: npm run validate
 
-  # tell the website repo to rebuild whenever public content changes
+  # tell the public website and the member site to rebuild whenever public content changes
   dispatch:
     needs: validate
     if: github.event_name == 'push' && github.ref == 'refs/heads/main'
@@ -27,5 +27,11 @@ jobs:
         with:
           token: ${{ secrets.VAULT_DISPATCH_TOKEN }}
           repository: HafeziGroupJQI/hafezigroupjqi.github.io
+          event-type: vault-updated
+          client-payload: '{"sha": "${{ github.sha }}"}'
+      - uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.MEMBERS_DISPATCH_TOKEN }}
+          repository: HafeziGroupJQI/members-site
           event-type: vault-updated
           client-payload: '{"sha": "${{ github.sha }}"}'
