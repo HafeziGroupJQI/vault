@@ -20,4 +20,4 @@ tags:
 
 ![[assets/people/pranshoo-upadhyay.jpg]]
 
-Website: [https://pranshoo.github.io/pranshoo-physics/](https://pranshoo.github.io/pranshoo-physics/)
+Website: [pranshoo.github.io](https://pranshoo.github.io/pranshoo-physics/)

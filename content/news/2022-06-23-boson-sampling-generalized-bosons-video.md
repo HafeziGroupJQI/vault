@@ -18,8 +18,8 @@ Recent progress on quantum random sampling protocols such as random circuit samp
 
 As you can read about in the paper linked below, we found that such an intermediately interacting regime could be feasibly utilized by a generalization of current boson sampling protocols. We introduce the concept of generalized bosons, whose local bosonic commutation \[a,a^\\dagger\]=1 is replaced by an arbitrary single-mode operator that is diagonal in the generalized Fock basis. Then we prove the "boson sampling" for generalized bosons produces similar hardness results as would be expected using classical methods. Finally, we provide two concrete examples of generalized boson sampling protocols in ion-trap and circuit-QED platforms. 
 
-Watch the video here: [https://www.youtube.com/watch?v=ysas6DzAogI](https://www.youtube.com/watch?v=ysas6DzAogI)
+[Watch the video](https://www.youtube.com/watch?v=ysas6DzAogI)
 
-Read the full article here:  [https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043096#:~:text=Examples%20of%20generalized%20bosons%20include,of%20sampling%20directly%20carry%20over.](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043096#:~:text=Examples%20of%20generalized%20bosons%20include,of%20sampling%20directly%20carry%20over.)
+[Read the full article](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043096#:~:text=Examples%20of%20generalized%20bosons%20include,of%20sampling%20directly%20carry%20over.)
 
 People: [[people/mohammad-hafezi|Mohammad Hafezi]]

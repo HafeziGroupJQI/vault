@@ -19,6 +19,6 @@ tags:
 
 Understanding the Hubbard model is crucial for investigating various quantum many-body states and its fermionic and bosonic versions have been largely realized separately. Recently, transition metal dichalcogenides heterobilayers have emerged as a promising platform for simulating the rich physics of the Hubbard model. In this work, we explore the interplay between fermionic and bosonic populations, using a WS2/WSe2 heterobilayer device that hosts this hybrid particle density. We independently tune the fermionic and bosonic populations by electronic doping and optical injection of electron-hole pairs, respectively. This enables us to form strongly interacting excitons that are manifested in a large energy gap in the photoluminescence spectrum. The incompressibility of excitons is further corroborated by measuring exciton diffusion, which remains constant upon increasing pumping intensity, as opposed to the expected behavior of a weakly interacting gas of bosons, suggesting the formation of a bosonic Mott insulator. We explain our observations using a two-band model including phase space filling. Our system provides a controllable approach to the exploration of quantum many-body effects in the generalized Bose-Fermi-Hubbard model.
 
-Read the full article here: [https://arxiv.org/abs/2304.09731](https://arxiv.org/abs/2304.09731)
+[Read the full article](https://arxiv.org/abs/2304.09731)
 
 People: [[people/beini-gao|Beini Gao]], [[people/daniel-suarez-forero|Daniel Suarez Forero]], [[people/supratik-sarkar|Supratik Sarkar]]
