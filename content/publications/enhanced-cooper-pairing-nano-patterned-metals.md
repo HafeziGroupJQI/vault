@@ -26,4 +26,4 @@ tags:
 
 Masoud Mohammadi-Arzanagh, Andrey Grankin, Victor Galitski, Mohammad Hafezi. *Phys. Rev. B* (2025).
 
-[doi:10.1103/v82c-tmdc](https://doi.org/10.1103/v82c-tmdc) · [link](https://journals.aps.org/prb/abstract/10.1103/v82c-tmdc)
+[doi:10.1103/v82c-tmdc](https://doi.org/10.1103/v82c-tmdc)

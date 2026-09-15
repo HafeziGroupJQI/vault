@@ -30,4 +30,4 @@ tags:
 
 L Jiang, G Brennen, Alexey V. Gorshkov, K Hammerer, Mohammad Hafezi, E Demler, M Lukin, P Zoller. *Nature Phys.* (2008).
 
-[link](http://www.nature.com/nphys/journal/v4/n6/abs/nphys943.html)
+[Read on nature.com](http://www.nature.com/nphys/journal/v4/n6/abs/nphys943.html)

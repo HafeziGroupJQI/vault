@@ -25,4 +25,4 @@ tags:
 
 Rui-Xing Zhang, Zhi-Cheng Yang. *arXiv:2010.07945* (2020).
 
-[link](https://arxiv.org/abs/2010.07945)
+[Read on arxiv.org](https://arxiv.org/abs/2010.07945)

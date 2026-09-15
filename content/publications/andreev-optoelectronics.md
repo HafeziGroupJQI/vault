@@ -26,4 +26,4 @@ tags:
 
 Benjamin Remez, Pouyan Ghaemi, Jay Sau, Mohammad Hafezi. *arXiv* (2025).
 
-[doi:10.48550/arXiv.2512.04176](https://doi.org/10.48550/arXiv.2512.04176) · [link](https://arxiv.org/abs/2512.04176)
+[doi:10.48550/arXiv.2512.04176](https://doi.org/10.48550/arXiv.2512.04176)

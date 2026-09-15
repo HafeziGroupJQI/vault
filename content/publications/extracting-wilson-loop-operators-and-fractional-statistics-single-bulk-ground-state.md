@@ -26,4 +26,4 @@ tags:
 
 Ze-Pei Cian, Mohammad Hafezi, Maissam Barkeshli. *arXiv* (2022).
 
-[link](https://arxiv.org/abs/2209.14302)
+[Read on arxiv.org](https://arxiv.org/abs/2209.14302)

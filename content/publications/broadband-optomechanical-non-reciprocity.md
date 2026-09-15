@@ -24,4 +24,4 @@ tags:
 
 Alireza Seif, Mohammad Hafezi. *Nature Photonics News & Views* (2018).
 
-[doi:10.1038/s41566-018-0091-x](https://doi.org/10.1038/s41566-018-0091-x) · [link](https://www.nature.com/articles/s41566-018-0091-x)
+[doi:10.1038/s41566-018-0091-x](https://doi.org/10.1038/s41566-018-0091-x)

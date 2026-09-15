@@ -29,4 +29,4 @@ tags:
 
 Mathias Van Regemortel, Oles Shtanko, Luis Pedro García-Pintos, Abhinav Deshpande, Hossein Dehghani, Alexey V. Gorshkov, Mohammad Hafezi. *Physical Review Research* (2022).
 
-[doi:10.1103/physrevresearch.4.l032021](https://doi.org/10.1103/physrevresearch.4.l032021) · [link](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.L032021)
+[doi:10.1103/physrevresearch.4.l032021](https://doi.org/10.1103/physrevresearch.4.l032021)

@@ -26,4 +26,4 @@ tags:
 
 Jacob Steiner, Mohammad Hafezi, Stefan Kehrein, Gil Refael. *arXiv* (2026).
 
-[doi:10.48550/arXiv.2606.21813](https://doi.org/10.48550/arXiv.2606.21813) · [link](https://arxiv.org/abs/2606.21813)
+[doi:10.48550/arXiv.2606.21813](https://doi.org/10.48550/arXiv.2606.21813)

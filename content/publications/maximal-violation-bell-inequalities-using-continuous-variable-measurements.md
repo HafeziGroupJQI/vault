@@ -27,4 +27,4 @@ tags:
 
 Jérôme Wenger, Mohammad Hafezi, Frédéric Grosshans, Rosa Tualle-Brouri, Philippe Grangier. *Phys. Rev. A* (2003).
 
-[doi:10.1103/PhysRevA.67.012105](https://doi.org/10.1103/PhysRevA.67.012105) · [link](http://link.aps.org/doi/10.1103/PhysRevA.67.012105)
+[doi:10.1103/PhysRevA.67.012105](https://doi.org/10.1103/PhysRevA.67.012105)

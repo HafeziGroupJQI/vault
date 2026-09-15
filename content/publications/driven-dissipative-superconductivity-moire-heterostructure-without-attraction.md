@@ -27,4 +27,4 @@ tags:
 
 Tsung-Sheng Huang, Atac Imamoglu, Mohammad Hafezi, Sebastian Diehl. *arXiv* (2026).
 
-[doi:10.48550/arXiv.2607.15169](https://doi.org/10.48550/arXiv.2607.15169) · [link](https://arxiv.org/abs/2607.15169)
+[doi:10.48550/arXiv.2607.15169](https://doi.org/10.48550/arXiv.2607.15169)

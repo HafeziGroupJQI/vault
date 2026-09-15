@@ -27,4 +27,4 @@ tags:
 
 Alexander Schuckert, Eleanor Crane, Alexey V. Gorshkov, Mohammad Hafezi, Michael J. Gullans. *arXiv* (2024).
 
-[doi:10.48550/arXiv.2411.08955](https://doi.org/10.48550/arXiv.2411.08955) · [link](https://arxiv.org/abs/2411.08955)
+[doi:10.48550/arXiv.2411.08955](https://doi.org/10.48550/arXiv.2411.08955)

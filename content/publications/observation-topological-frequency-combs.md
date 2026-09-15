@@ -31,4 +31,4 @@ tags:
 
 Christopher Flower, Mahmoud Jalali Mehrabad, Lida Xu, Gregory Moille, Daniel G. Suarez-Forero, Yanne Chembo, Kartik Srinivasan, Sunil Mittal, Mohammad Hafezi. *Science* (2024).
 
-[doi:10.1126/science.ado0053](https://doi.org/10.1126/science.ado0053) · [link](https://www.science.org/doi/epdf/10.1126/science.ado0053)
+[doi:10.1126/science.ado0053](https://doi.org/10.1126/science.ado0053)

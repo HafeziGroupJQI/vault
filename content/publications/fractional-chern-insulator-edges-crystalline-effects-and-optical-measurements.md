@@ -27,4 +27,4 @@ tags:
 
 Yan-Qi Wang, Johannes Motruk, Andrey Grankin, Mohammad Hafezi. *arXiv* (2025).
 
-[doi:10.48550/arXiv.2511.17494](https://doi.org/10.48550/arXiv.2511.17494) · [link](https://arxiv.org/abs/2511.17494)
+[doi:10.48550/arXiv.2511.17494](https://doi.org/10.48550/arXiv.2511.17494)

@@ -25,4 +25,4 @@ tags:
 
 En-Jui Kuo, Hossein Dehghani. *Physical Review B* (2022).
 
-[doi:10.1103/physrevb.105.235136](https://doi.org/10.1103/physrevb.105.235136) · [link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.235136)
+[doi:10.1103/physrevb.105.235136](https://doi.org/10.1103/physrevb.105.235136)

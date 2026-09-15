@@ -25,4 +25,4 @@ tags:
 
 Gautam Nambiar, Andrey Grankin, Mohammad Hafezi. *Phys. Rev. X* (2025).
 
-[doi:10.1103/67zs-hqf3](https://doi.org/10.1103/67zs-hqf3) · [link](https://link.aps.org/doi/10.1103/67zs-hqf3)
+[doi:10.1103/67zs-hqf3](https://doi.org/10.1103/67zs-hqf3)

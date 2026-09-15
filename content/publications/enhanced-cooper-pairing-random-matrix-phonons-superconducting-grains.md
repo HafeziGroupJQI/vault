@@ -7,7 +7,7 @@ authors:
   - Mohammad Hafezi
   - Victor Galitski
 venue: "arXiv "
-doi: "10.48550/arXiv.2408.03927 "
+doi: 10.48550/arXiv.2408.03927
 url: https://arxiv.org/abs/2408.03927
 pub_type: Journal Article
 volume: "2408"
@@ -25,4 +25,4 @@ tags:
 
 Andrey Grankin, Mohammad Hafezi, Victor Galitski. *arXiv * (2024).
 
-[doi:10.48550/arXiv.2408.03927 ](https://doi.org/10.48550/arXiv.2408.03927 ) · [link](https://arxiv.org/abs/2408.03927)
+[doi:10.48550/arXiv.2408.03927](https://doi.org/10.48550/arXiv.2408.03927)

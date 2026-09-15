@@ -26,4 +26,4 @@ tags:
 
 M Hafezi, A Sørensen, E Demler, M Lukin. *Phys. Rev. A* (2007).
 
-[doi:10.1103/PhysRevA.76.023613](https://doi.org/10.1103/PhysRevA.76.023613) · [link](http://link.aps.org/doi/10.1103/PhysRevA.76.023613)
+[doi:10.1103/PhysRevA.76.023613](https://doi.org/10.1103/PhysRevA.76.023613)

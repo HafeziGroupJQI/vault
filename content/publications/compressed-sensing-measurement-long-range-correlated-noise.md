@@ -25,4 +25,4 @@ tags:
 
 Alireza Seif, Mohammad Hafezi, Yi-Kai Liu. *arXiv preprint arXiv:2105.12589* (2021).
 
-[link](https://arxiv.org/abs/2105.12589)
+[Read on arxiv.org](https://arxiv.org/abs/2105.12589)

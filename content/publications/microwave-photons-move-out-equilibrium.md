@@ -23,4 +23,4 @@ tags:
 
 Mohammad Hafezi. *Physics* (2014).
 
-[doi:10.1103/Physics.7.92](https://doi.org/10.1103/Physics.7.92) · [link](http://link.aps.org/doi/10.1103/Physics.7.92)
+[doi:10.1103/Physics.7.92](https://doi.org/10.1103/Physics.7.92)

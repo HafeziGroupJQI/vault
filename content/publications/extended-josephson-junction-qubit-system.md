@@ -25,4 +25,4 @@ tags:
 
 Andrey Grankin, Alicia J. Kollár, Mohammad Hafezi. *Phys. Rev. A* (2024).
 
-[doi:10.1103/PhysRevA.110.032621](https://doi.org/10.1103/PhysRevA.110.032621) · [link](https://link.aps.org/doi/10.1103/PhysRevA.110.032621)
+[doi:10.1103/PhysRevA.110.032621](https://doi.org/10.1103/PhysRevA.110.032621)

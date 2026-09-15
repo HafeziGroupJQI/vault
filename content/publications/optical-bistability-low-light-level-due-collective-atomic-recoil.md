@@ -26,4 +26,4 @@ tags:
 
 M Vengalattore, M Hafezi, M Lukin, M Prentiss. *Phys. Rev. Lett.* (2008).
 
-[doi:10.1103/PhysRevLett.101.063901](https://doi.org/10.1103/PhysRevLett.101.063901) · [link](http://link.aps.org/doi/10.1103/PhysRevLett.101.063901)
+[doi:10.1103/PhysRevLett.101.063901](https://doi.org/10.1103/PhysRevLett.101.063901)

@@ -34,4 +34,4 @@ tags:
 
 Mahmoud Jalali Mehrabad, Lida Xu, Gregory Moille, Christopher Flower, Supratik Sarkar, Apurva Padhye, Shao-Chien Ou, Daniel G. Suarez-Forero, Mahdi Ghafariasl, Yanne Chembo, Kartik Srinivasan, Mohammad Hafezi. *Science* (2025).
 
-[doi:10.1126/science.adu6368](https://doi.org/10.1126/science.adu6368) · [link](https://arxiv.org/abs/2506.15016)
+[doi:10.1126/science.adu6368](https://doi.org/10.1126/science.adu6368)

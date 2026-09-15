@@ -34,4 +34,4 @@ tags:
 
 Pranshoo Upadhyay, Daniel G. Suarez-Forero, Tsung-Sheng Huang, Mahmoud Jalali Mehrabad, Beini Gao, Supratik Sarkar, Deric Session, Kenji Watanabe, Takashi Taniguchi, You Zhou, Michael Knap, Mohammad Hafezi. *Science* (2026).
 
-[doi:10.1126/science.ads5266](https://doi.org/10.1126/science.ads5266) · [link](https://www.science.org/doi/10.1126/science.ads5266)
+[doi:10.1126/science.ads5266](https://doi.org/10.1126/science.ads5266)

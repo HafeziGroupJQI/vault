@@ -29,4 +29,4 @@ tags:
 
 Yaroslav Kharkov, Oles Shtanko, Alireza Seif, Przemyslaw Bienias, Mathias Van Regemortel, Mohammad Hafezi, Alexey V. Gorshkov. *arXiv:2111.02385* (2021).
 
-[link](https://arxiv.org/abs/2111.02385)
+[Read on arxiv.org](https://arxiv.org/abs/2111.02385)

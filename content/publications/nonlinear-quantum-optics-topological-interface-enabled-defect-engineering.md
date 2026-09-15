@@ -37,4 +37,4 @@ tags:
 
 L. Hallacy, N. J. Martin, Jalali Mehrabad, D. Hallett, X. Chen, R. Dost, A. Foster, L. Brunswick, A. Fenzl, E. Clarke, P. K. Patil, A. Fox, M. S. Skolnick, L. R. Wilson. *arXiv* (2024).
 
-[doi:10.48550/arXiv.2408.08750](https://doi.org/10.48550/arXiv.2408.08750) · [link](https://arxiv.org/abs/2408.08750)
+[doi:10.48550/arXiv.2408.08750](https://doi.org/10.48550/arXiv.2408.08750)

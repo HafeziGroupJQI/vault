@@ -32,4 +32,4 @@ tags:
 
 Lida Xu, Mahmoud Mehrabad, Christopher Flower, Gregory Moille, Alessandro Restelli, Daniel Suarez-Forero, Yanne Chembo, Sunil Mittal, Kartik Srinivasan, Mohammad Hafezi. *Science Advances* (2025).
 
-[doi:10.1126/sciadv.adw7696](https://doi.org/10.1126/sciadv.adw7696) · [link](https://www.science.org/doi/10.1126/sciadv.adw7696)
+[doi:10.1126/sciadv.adw7696](https://doi.org/10.1126/sciadv.adw7696)

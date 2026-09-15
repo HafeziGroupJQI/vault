@@ -24,4 +24,4 @@ tags:
 
 En-Jui Kuo, Hossein Dehghani. *arXiv preprint arXiv:2111.08747* (2021).
 
-[link](https://arxiv.org/abs/2111.08747)
+[Read on arxiv.org](https://arxiv.org/abs/2111.08747)

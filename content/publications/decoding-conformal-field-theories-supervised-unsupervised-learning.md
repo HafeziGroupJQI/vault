@@ -27,4 +27,4 @@ tags:
 
 En-Jui Kuo, Alireza Seif, Rex Lundgren, Seth Whitsitt, Mohammad Hafezi. *Physical Review Research* (2022).
 
-[doi:10.1103/PhysRevResearch.4.043031](https://doi.org/10.1103/PhysRevResearch.4.043031) · [link](https://arxiv.org/abs/2106.13485)
+[doi:10.1103/PhysRevResearch.4.043031](https://doi.org/10.1103/PhysRevResearch.4.043031)

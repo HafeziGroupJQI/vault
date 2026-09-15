@@ -31,4 +31,4 @@ tags:
 
 Thibault Peyronel, Michal Bajcsy, Sebastian Hofferberth, Vlatko Balic, Mohammad Hafezi, Qiyu Liang, Alexander Zibrov, Vladan Vuletic, Mikhail Lukin. *IEEE Journal of Selected Topics in Quantum Electronics* (2012).
 
-[link](http://ieeexplore.ieee.org/xpl/abstractAuthors.jsp?arnumber=6189727)
+[Read on ieeexplore.ieee.org](http://ieeexplore.ieee.org/xpl/abstractAuthors.jsp?arnumber=6189727)

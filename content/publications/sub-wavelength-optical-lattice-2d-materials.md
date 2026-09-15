@@ -34,4 +34,4 @@ tags:
 
 Supratik Sarkar, Mahmoud Jalali Mehrabad, Daniel G. Suarez-Forero, Liuxin Gu, Christopher Flower, Lida Xu, Kenji Watanabe, Takashi Taniguchi, Suji Park, Houk Jang, You Zhou, Mohammad Hafezi. *Science Advances* (2025).
 
-[doi:10.1126/sciadv.adv2023](https://doi.org/10.1126/sciadv.adv2023) · [link](https://www.science.org/doi/10.1126/sciadv.adv2023)
+[doi:10.1126/sciadv.adv2023](https://doi.org/10.1126/sciadv.adv2023)

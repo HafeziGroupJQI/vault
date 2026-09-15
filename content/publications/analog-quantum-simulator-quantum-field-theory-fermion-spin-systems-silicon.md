@@ -33,4 +33,4 @@ tags:
 
 Ali Rad, Alexander Schuckert, Eleanor Crane, Gautam Nambiar, Fan Fei, Jonathan Wyrick, Richard Silver, Mohammad Hafezi, Zohreh Davoudi, Michael J. Gullans. *Physical Review D* (2026).
 
-[doi:10.1103/hv84-l6kg](https://doi.org/10.1103/hv84-l6kg) · [link](https://arxiv.org/abs/2407.03419)
+[doi:10.1103/hv84-l6kg](https://doi.org/10.1103/hv84-l6kg)

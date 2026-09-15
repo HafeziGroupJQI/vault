@@ -24,4 +24,4 @@ tags:
 
 Mohammad Hafezi, Google Quantum AI and 200+ collaborators. *arXiv* (2025).
 
-[doi:10.48550/arXiv.2512.21416](https://doi.org/10.48550/arXiv.2512.21416) · [link](https://arxiv.org/abs/2512.21416)
+[doi:10.48550/arXiv.2512.21416](https://doi.org/10.48550/arXiv.2512.21416)

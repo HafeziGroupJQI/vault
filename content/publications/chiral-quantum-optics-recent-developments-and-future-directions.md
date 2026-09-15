@@ -27,4 +27,4 @@ tags:
 
 D. Suárez-Forero, Jalali Mehrabad, C. Vega, A. González-Tudela, M. Hafezi. *PRX Quantum* (2025).
 
-[doi:10.1103/PRXQuantum.6.020101](https://doi.org/10.1103/PRXQuantum.6.020101) · [link](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.020101)
+[doi:10.1103/PRXQuantum.6.020101](https://doi.org/10.1103/PRXQuantum.6.020101)

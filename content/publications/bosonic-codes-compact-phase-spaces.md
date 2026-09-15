@@ -27,4 +27,4 @@ tags:
 
 David Roberts, Aaron Slipper, Alireza Parhizkar, Victor V. Albert, Mohammad Hafezi. *arXiv* (2026).
 
-[doi:10.48550/arXiv.2608.31156](https://doi.org/10.48550/arXiv.2608.31156) · [link](https://arxiv.org/abs/2608.31156)
+[doi:10.48550/arXiv.2608.31156](https://doi.org/10.48550/arXiv.2608.31156)

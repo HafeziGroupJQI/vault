@@ -25,4 +25,4 @@ tags:
 
 Przemyslaw Bienias, Alireza Seif, Mohammad Hafezi. *arXiv preprint arXiv:2104.04453* (2021).
 
-[doi:10.48550/arXiv.2104.04453](https://doi.org/10.48550/arXiv.2104.04453) · [link](https://arxiv.org/abs/2104.04453)
+[doi:10.48550/arXiv.2104.04453](https://doi.org/10.48550/arXiv.2104.04453)

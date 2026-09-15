@@ -32,4 +32,4 @@ tags:
 
 Mahmoud Mehrabad, Alireza Parhizkar, Lida Xu, Gregory Moille, Avik Dutt, Dirk Englund, Kartik Srinivasan, Daniel Leykam, Mohammad Hafezi. *arXiv* (2025).
 
-[doi:10.48550/arXiv.2511.13831](https://doi.org/10.48550/arXiv.2511.13831) · [link](https://arxiv.org/abs/2511.13831)
+[doi:10.48550/arXiv.2511.13831](https://doi.org/10.48550/arXiv.2511.13831)

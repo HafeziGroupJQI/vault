@@ -30,4 +30,4 @@ tags:
 
 M Bajcsy, S Hofferberth, Vlatko Balic, T Peyronel, M Hafezi, A Zibrov, Vladan Vuletic, M Lukin. *Phys. Rev. Lett.* (2009).
 
-[doi:10.1103/PhysRevLett.102.203902](https://doi.org/10.1103/PhysRevLett.102.203902) · [link](http://link.aps.org/doi/10.1103/PhysRevLett.102.203902)
+[doi:10.1103/PhysRevLett.102.203902](https://doi.org/10.1103/PhysRevLett.102.203902)

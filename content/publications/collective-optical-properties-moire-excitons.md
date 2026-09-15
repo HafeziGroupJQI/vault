@@ -28,4 +28,4 @@ tags:
 
 Tsung-Sheng Huang, Yu-Xin Wang, Yan-Qi Wang, Darrick Chang, Mohammad Hafezi, Andrey Grankin. *Physical Review Letters* (2025).
 
-[doi:10.1103/PhysRevLett.134.176901](https://doi.org/10.1103/PhysRevLett.134.176901) · [link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.176901)
+[doi:10.1103/PhysRevLett.134.176901](https://doi.org/10.1103/PhysRevLett.134.176901)

@@ -25,4 +25,4 @@ tags:
 
 Sunil Mittal, Wade DeGottardi, Mohammad Hafezi. *Optics and Photonics News* (2018).
 
-[link](https://www.osa-opn.org/opn/media/Images/PDF/2018/0518/36-43_OPN_05_18.pdf?ext=.pdf)
+[Read on osa-opn.org](https://www.osa-opn.org/opn/media/Images/PDF/2018/0518/36-43_OPN_05_18.pdf?ext=.pdf)

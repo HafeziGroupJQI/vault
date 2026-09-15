@@ -24,4 +24,4 @@ tags:
 
 Mahmoud Mehrabad, Mohammad Hafezi. *Nature Photonics* (2024).
 
-[doi:10.1038/s41566-024-01453-8](https://doi.org/10.1038/s41566-024-01453-8) · [link](https://www.nature.com/articles/s41566-024-01453-8)
+[doi:10.1038/s41566-024-01453-8](https://doi.org/10.1038/s41566-024-01453-8)

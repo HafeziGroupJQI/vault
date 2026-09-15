@@ -19,7 +19,7 @@ authors:
   - Mohammad Hafezi
   - Glenn S. Solomon
 venue: ACS Nano
-doi: " https://doi.org/10.1021/acsnano.2c05502"
+doi: 10.1021/acsnano.2c05502
 url: https://pubs.acs.org/doi/10.1021/acsnano.2c05502
 pub_type: Journal Article
 volume: "16"
@@ -37,4 +37,4 @@ tags:
 
 Bin Cao, Tobias Grass, Olivier Gazzano, Kishan Ashokbhai Patel, Jiuning Hu, Markus Müller, Tobias Huber-Loyola, Luca Anzi, Kenji Watanabe, Takashi Taniguchi, David B. Newell, Michael Gullans, Roman Sordan, Mohammad Hafezi, Glenn S. Solomon. *ACS Nano* (2022).
 
-[doi: https://doi.org/10.1021/acsnano.2c05502](https://doi.org/ https://doi.org/10.1021/acsnano.2c05502) · [link](https://pubs.acs.org/doi/10.1021/acsnano.2c05502)
+[doi:10.1021/acsnano.2c05502](https://doi.org/10.1021/acsnano.2c05502)

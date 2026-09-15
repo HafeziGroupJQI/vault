@@ -31,4 +31,4 @@ tags:
 
 Christian Eckhardt, Andrey Grankin, Dante Kennes, Michael Ruggenthaler, Angel Rubio, Michael Sentef, Mohammad Hafezi, Marios Michael. *Physical Review Letters* (2025).
 
-[doi:10.1103/2fw2-lbhy](https://doi.org/10.1103/2fw2-lbhy) · [link](https://journals.aps.org/prl/abstract/10.1103/2fw2-lbhy)
+[doi:10.1103/2fw2-lbhy](https://doi.org/10.1103/2fw2-lbhy)

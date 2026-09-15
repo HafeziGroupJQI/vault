@@ -26,4 +26,4 @@ tags:
 
 Victor Bradley, Kamal Sharma, Mohammad Hafezi, Wade DeGottardi. *PRX Quantum* (2024).
 
-[doi:10.1103/PRXQuantum.5.040338](https://doi.org/10.1103/PRXQuantum.5.040338) · [link](https://link.aps.org/doi/10.1103/PRXQuantum.5.040338)
+[doi:10.1103/PRXQuantum.5.040338](https://doi.org/10.1103/PRXQuantum.5.040338)

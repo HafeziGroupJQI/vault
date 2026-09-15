@@ -32,4 +32,4 @@ tags:
 
 Olivier Gazzano, Bin Cao, Jiuning Hu, Tobias Huber, Tobias Grass, Michael Gullans, David Newell, Mohammad Hafezi, Glenn Solomon. *arXiv preprint arXiv:1903.01487* (2019).
 
-[link](https://arxiv.org/abs/1903.01487)
+[Read on arxiv.org](https://arxiv.org/abs/1903.01487)

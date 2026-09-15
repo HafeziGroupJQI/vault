@@ -36,4 +36,4 @@ tags:
 
 Deric Session, Mahmoud Jalali Mehrabad, Nikil Paithanker, Tobias Grass, Christian Eckhardt, Bin Cao, Daniel Gustavo Suarez Forero, Kevin Li, Mohammad S. Alam, Glenn S. Solomon, Nathan Schine, Jay Sau, Roman Sordan, Mohammad Hafezi. *Nature Photonics* (2025).
 
-[doi:10.1038/s41566-024-01565-1](https://doi.org/10.1038/s41566-024-01565-1) · [link](https://www.nature.com/articles/s41566-024-01565-1#Sec1)
+[doi:10.1038/s41566-024-01565-1](https://doi.org/10.1038/s41566-024-01565-1)

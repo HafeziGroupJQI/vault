@@ -38,4 +38,4 @@ tags:
 
 N. J. Martin, Jalali Mehrabad, X. Chen, R. Dost, E. Nussbaum, D. Hallett, L. Hallacy, A. Foster, E. Clarke, P. K. Patil, S. Hughes, M. Hafezi, A. Fox, M. S. Skolnick, L. R. Wilson. *Phys. Rev. Res.* (2024).
 
-[doi:10.1103/PhysRevResearch.6.L022065](https://doi.org/10.1103/PhysRevResearch.6.L022065) · [link](https://link.aps.org/doi/10.1103/PhysRevResearch.6.L022065)
+[doi:10.1103/PhysRevResearch.6.L022065](https://doi.org/10.1103/PhysRevResearch.6.L022065)

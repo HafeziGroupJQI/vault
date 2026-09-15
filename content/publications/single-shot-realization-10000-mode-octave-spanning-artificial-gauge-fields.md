@@ -31,4 +31,4 @@ tags:
 
 Lida Xu, Apurva Padhye, Supratik Sarkar, Alireza Parhizkar, Christopher Flower, Gregory Moille, Kartik Srinivasan, Mohammad Hafezi, Mahmoud Jalali Mehrabad. *arXiv* (2026).
 
-[doi:10.48550/arXiv.2606.23960](https://doi.org/10.48550/arXiv.2606.23960) · [link](https://arxiv.org/abs/2606.23960)
+[doi:10.48550/arXiv.2606.23960](https://doi.org/10.48550/arXiv.2606.23960)

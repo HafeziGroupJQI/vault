@@ -31,4 +31,4 @@ tags:
 
 Xinyuan Zheng, Mahmoud Jalali Mehrabad, Jonathan Vannucci, Kevin Li, Avik Dutt, Mohammad Hafezi, Sunil Mittal, Edo Waks. *Nature Communications* (2024).
 
-[doi:10.1038/s41467-024-55236-4](https://doi.org/10.1038/s41467-024-55236-4) · [link](https://www.nature.com/articles/s41467-024-55236-4#citeas)
+[doi:10.1038/s41467-024-55236-4](https://doi.org/10.1038/s41467-024-55236-4)

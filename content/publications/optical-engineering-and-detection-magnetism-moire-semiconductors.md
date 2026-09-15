@@ -26,4 +26,4 @@ tags:
 
 Tsung-Sheng Huang, Andrey Grankin, Yu-Xin Wang, Mohammad Hafezi. *arXiv* (2025).
 
-[doi:10.48550/arXiv.2504.13758](https://doi.org/10.48550/arXiv.2504.13758) · [link](https://arxiv.org/abs/2504.13758)
+[doi:10.48550/arXiv.2504.13758](https://doi.org/10.48550/arXiv.2504.13758)

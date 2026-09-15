@@ -33,4 +33,4 @@ tags:
 
 Liuxin Gu, Lifu Zhang, Ruihao Ni, Ming Xie, Dominik Wild, Suji Park, Houk Jang, Takashi Taniguchi, Kenji Watanabe, Mohammad Hafezi, You Zhou. *Nature Photonics* (2024).
 
-[doi:10.1038/s41566-024-01434-x](https://doi.org/10.1038/s41566-024-01434-x) · [link](https://www.nature.com/articles/s41566-024-01434-x)
+[doi:10.1038/s41566-024-01434-x](https://doi.org/10.1038/s41566-024-01434-x)

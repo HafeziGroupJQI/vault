@@ -30,4 +30,4 @@ tags:
 
 Matthew Diaz, Masoud Mohammadi-Arzanagh, Yingyue Zhu, Mohammad Hafezi, Norbert M. Linke, Alaina M. Green, Arthur Nam. *arXiv* (2026).
 
-[doi:10.48550/arXiv.2604.25993](https://doi.org/10.48550/arXiv.2604.25993) · [link](https://arxiv.org/abs/2604.25993)
+[doi:10.48550/arXiv.2604.25993](https://doi.org/10.48550/arXiv.2604.25993)

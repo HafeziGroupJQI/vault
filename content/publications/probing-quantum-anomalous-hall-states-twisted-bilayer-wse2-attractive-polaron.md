@@ -41,4 +41,4 @@ tags:
 
 Beini Gao, Mahdi Ghafariasl, Mahmoud Jalali Mehrabad, Tsung-Sheng Huang, Lifu Zhang, Deric Session, Pranshoo Upadhyay, Rundong Ma, Ghadah Alshalan, Daniel Gustavo Suarez Forero, Supratik Sarkar, Suji Park, Houk Jang, Kenji Watanabe, Takashi Taniguchi, Ming Xie, You Zhou, Mohammad Hafezi. *Physical Review X* (2026).
 
-[doi:10.1103/259w-bpxx](https://doi.org/10.1103/259w-bpxx) · [link](https://arxiv.org/abs/2504.11530)
+[doi:10.1103/259w-bpxx](https://doi.org/10.1103/259w-bpxx)

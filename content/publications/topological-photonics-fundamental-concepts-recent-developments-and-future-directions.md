@@ -26,4 +26,4 @@ tags:
 
 Mahmoud Jalali Mehrabad, Sunil Mittal, Mohammad Hafezi. *Physical Review A* (2023).
 
-[doi:10.1103/PhysRevA.108.040101](https://doi.org/10.1103/PhysRevA.108.040101) · [link](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.040101?ft=1)
+[doi:10.1103/PhysRevA.108.040101](https://doi.org/10.1103/PhysRevA.108.040101)
