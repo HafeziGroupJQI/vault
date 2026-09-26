@@ -1,6 +1,6 @@
 # Hafezi Group vault
 
-The group's public knowledge base: onboarding pages, lab and equipment records, and notes,
+The group's public knowledge base: people, research, lab and equipment records,
 kept as plain Markdown and Quarto files so anyone can edit them in Obsidian or on GitHub.
 Everything under `content/` is **public** and is built into
 the group site by [HafeziGroupJQI/hafezigroupjqi.github.io](https://github.com/HafeziGroupJQI/hafezigroupjqi.github.io)
@@ -11,11 +11,9 @@ on every push. Internal notes belong in the private `vault-private` repository, 
 | Path | What lives there |
 | --- | --- |
 | `content/index.md` | Landing page |
-| `content/onboarding/` | Checklists, buildings and access, safety, glossary, resources, current directions |
 | `content/people/` | One record per member (`type: person`) plus `directory.base`, the filterable directory |
 | `content/equipment/` | One record per instrument (`type: equipment`) plus `equipment.base` and the overview |
 | `content/setups/` | One record per experimental setup (`type: setup`) linking its equipment |
-| `content/lab/` | Long-form lab notes and walkthroughs |
 | `content/materials/` | Photonic material property tables |
 | `content/publications/`, `news/`, `research/` | Migrated from hafezi.jqi.umd.edu (see `source:` in each page) |
 | `content/assets/` | Images, grouped by section |

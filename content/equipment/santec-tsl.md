@@ -18,4 +18,4 @@ location: TBD
 tags: [equipment, equipment/laser]
 ---
 
-The workhorse low-power, low-noise tunable CW laser. Wavelength and current are set over serial from the lab PC. Legacy control: `Santec_Nidaq_GUI3` on the shared drive (laser sweep synchronized with the NI DAQ).
+The workhorse low-power, low-noise tunable CW laser. Wavelength and current are set over serial from the lab PC. Legacy control: `Santec_Nidaq_GUI3` (laser sweep synchronized with the NI DAQ).

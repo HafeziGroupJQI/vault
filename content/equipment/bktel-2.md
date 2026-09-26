@@ -18,6 +18,6 @@ location: TBD
 tags: [equipment, equipment/laser]
 ---
 
-"The big laser": 1550 nm, 300 mW class pulsed fiber laser. The repetition rate is set by a hardware square wave from the [[equipment/rigol-dg4202|Rigol DG4202]]; slow parameters go over serial. Class-4: see [[onboarding/safety|Lab Safety]]. Legacy control: `bkTel_DAQ_OSA_ESA_APEX_OptoPlex_Control`.
+"The big laser": 1550 nm, 300 mW class pulsed fiber laser. The repetition rate is set by a hardware square wave from the [[equipment/rigol-dg4202|Rigol DG4202]]; slow parameters go over serial. Class-4: complete laser safety training before operating it. Legacy control: `bkTel_DAQ_OSA_ESA_APEX_OptoPlex_Control`.
 
 ![[assets/equipment/bktel-2-pulsed-laser.jpg]]

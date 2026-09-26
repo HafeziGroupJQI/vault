@@ -5,7 +5,7 @@ tags: [equipment]
 aliases: [Lab Equipment]
 ---
 
-An overview of the measurement lab, distilled from the September 3, 2026 lab walkthrough (full notes: [[lab/lab-meeting-2026-09-03|Lab walkthrough]]). Every instrument has its own record in this folder; the [[equipment/Inventory.base|inventory table]] lists them all, and the [[setups/index|setups]] pages show how they are wired together. The mental model for the whole lab, in one sentence:
+An overview of the measurement lab, distilled from the September 3, 2026 lab walkthrough. Every instrument has its own record in this folder; the [[equipment/Inventory.base|inventory table]] lists them all, and the [[setups/index|setups]] pages show how they are wired together. The mental model for the whole lab, in one sentence:
 
 > "You can break down every single experiment that we do into three parts:
 > **laser, sample, detector**. Types of lasers change, types of detectors
@@ -88,10 +88,8 @@ connection.
   e.g. `20260830_InGaP_UCSB_chip1_AQHE401_FR_drop`.
 - Data folders on the lab PC: `C - InGaP`, `C - TFLN`, `C - SiN Ligentec`,
   `C - Topological photonics`, `LUNA OVA`, `Wheel_calibration`.
-- Legacy control scripts (largely by Chris, a former student) live on the
-  shared drive at `CMNS-phys-hafezi-lab → 01 User Accounts → Apurva →
-  A - Lab stuff - instruments` — one script per instrument combination
-  (`bkTel_DAQ_OSA_ESA_APEX_OptoPlex_Control`, `Santec_Nidaq_GUI3`,
+- Legacy control scripts (largely by Chris, a former student) cover one
+  instrument combination each (`bkTel_DAQ_OSA_ESA_APEX_OptoPlex_Control`, `Santec_Nidaq_GUI3`,
   `Yokogawa_Interface`, `ZH_DAQ_FFT`, …). They are the de-facto documentation
   for each instrument's command set — read them before writing new control
   code.
