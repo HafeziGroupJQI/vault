@@ -79,6 +79,11 @@
     "source": {
       "type": "string"
     },
+    "github": {
+      "description": "The person's GitHub login: it lets them edit this page from the members site's Settings.",
+      "type": "string",
+      "pattern": "^[A-Za-z0-9](?:[A-Za-z0-9-]{0,38})$"
+    },
     "tags": {
       "type": "array",
       "items": {
