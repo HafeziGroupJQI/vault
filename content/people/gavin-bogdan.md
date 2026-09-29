@@ -16,6 +16,7 @@ projects:
   - Lattice probe experiment (3D-printed components)
 source: https://hafezi.jqi.umd.edu/people/gavin-bogdan
 migrated: 2026-09-11
+github: gbogdan-hash
 tags:
   - people
   - role/grad
