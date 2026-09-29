@@ -39,7 +39,7 @@ tags:
 
 \- Sirah SFM/DFM mixTrain
 
-\- SanTec Tunable IR CW laser, 1400-160 nm
+\- SanTec Tunable IR CW laser, 1400-1600 nm
 
 \- bKtl pulsed laser, 1500 nm, ns-pulsed-1kW 
 
