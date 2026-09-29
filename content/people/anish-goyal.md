@@ -15,6 +15,7 @@ projects:
   - Replicating the Optical Transformers results (physical learning ramp-up)
 source: https://hafezi.jqi.umd.edu/people/anish-goyal
 migrated: 2026-09-11
+github: anishgoyal1108
 tags:
   - people
   - role/grad
