@@ -7,7 +7,7 @@ building: null
 office: null
 email: "malam13@terpmail.umd.edu "
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/mohammad-safwan-alam
+profile: null
 photo: assets/people/mohammad-safwan-alam.jpg
 research_areas: []
 projects: []

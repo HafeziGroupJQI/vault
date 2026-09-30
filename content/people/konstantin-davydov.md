@@ -7,7 +7,7 @@ building: null
 office: null
 email: null
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/konstantin-davydov
+profile: null
 photo: assets/people/konstantin-davydov.jpg
 research_areas: []
 projects: []

@@ -8,7 +8,7 @@ office: Room not recorded
 places: [apurva-office]
 email: null
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/apurva-padhye
+profile: null
 photo: assets/people/apurva-padhye.jpg
 research_areas: []
 projects:

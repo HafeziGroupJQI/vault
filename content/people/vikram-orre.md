@@ -7,7 +7,7 @@ building: null
 office: null
 email: vikramov@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/vikram-orre
+profile: null
 photo: null
 research_areas: []
 projects: []

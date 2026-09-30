@@ -8,7 +8,7 @@ building: null
 office: null
 email: aschu@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/alexander-schuckert
+profile: null
 photo: assets/people/alexander-schuckert.jpg
 research_areas: []
 projects: []

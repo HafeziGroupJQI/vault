@@ -7,7 +7,7 @@ building: null
 office: null
 email: null
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/yinqi-fang
+profile: null
 photo: assets/people/yinqi-fang.jpg
 research_areas: []
 projects: []

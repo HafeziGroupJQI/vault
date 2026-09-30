@@ -7,7 +7,7 @@ building: null
 office: null
 email: null
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/niklas-mueller
+profile: null
 photo: assets/people/niklas-mueller.jpg
 research_areas: []
 projects: []

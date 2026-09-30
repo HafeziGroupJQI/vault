@@ -7,7 +7,7 @@ building: null
 office: null
 email: plunts@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/peter-lunts
+profile: null
 photo: assets/people/peter-lunts.png
 research_areas: []
 projects: []

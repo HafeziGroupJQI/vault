@@ -7,7 +7,7 @@ building: null
 office: null
 email: yuanchen@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/yu-chen
+profile: null
 photo: assets/people/yu-an-chen.jpg
 research_areas: []
 projects: []

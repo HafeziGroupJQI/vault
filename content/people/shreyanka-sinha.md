@@ -7,7 +7,7 @@ building: null
 office: null
 email: null
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/shreyanka-sinha
+profile: null
 photo: assets/people/shreyanka-sinha.jpg
 research_areas: []
 projects: []

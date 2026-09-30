@@ -7,7 +7,7 @@ building: null
 office: null
 email: tshuang@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/tsung-sheng-huang
+profile: null
 photo: assets/people/tsung-sheng-huang.jpg
 research_areas: []
 projects: []

@@ -7,7 +7,7 @@ building: null
 office: null
 email: agrankin@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/andrey-grankin
+profile: null
 photo: assets/people/andrey-grankin.jpg
 research_areas: []
 projects: []

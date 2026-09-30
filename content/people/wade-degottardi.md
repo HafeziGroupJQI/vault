@@ -7,7 +7,7 @@ building: null
 office: null
 email: wdegott@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/wade-degottardi
+profile: null
 photo: assets/people/wade-degottardi.jpg
 research_areas: []
 projects: []

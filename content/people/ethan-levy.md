@@ -7,7 +7,7 @@ building: null
 office: null
 email: elevy127@terpmail.umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/ethan-levy
+profile: null
 photo: assets/people/ethan-levy.jpg
 research_areas: []
 projects: []

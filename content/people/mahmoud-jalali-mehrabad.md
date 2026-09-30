@@ -8,7 +8,7 @@ office: Room not recorded
 places: [mahmoud-office]
 email: mjalalim@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/mahmoud-jalali-mehrabad
+profile: null
 photo: assets/people/mahmoud-jalali-mehrabad.png
 research_areas: []
 projects: []

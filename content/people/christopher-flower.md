@@ -7,7 +7,7 @@ building: null
 office: null
 email: cflower@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/christopher-flower
+profile: null
 photo: assets/people/christopher-flower.jpg
 research_areas: []
 projects: []

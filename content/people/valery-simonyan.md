@@ -7,7 +7,7 @@ building: null
 office: null
 email: valerysimonyan@gmail.com
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/valery-simonyan
+profile: null
 photo: assets/people/valery-simonyan.jpg
 research_areas: []
 projects: []

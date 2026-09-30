@@ -7,7 +7,7 @@ building: null
 office: null
 email: nambiar@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/gautam-nambiar
+profile: null
 photo: assets/people/gautam-nambiar.jpg
 research_areas: []
 projects: []

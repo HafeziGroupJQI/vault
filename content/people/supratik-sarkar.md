@@ -7,7 +7,7 @@ building: null
 office: null
 email: sarkar@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/supratik-sarkar
+profile: null
 photo: assets/people/supratik-sarkar.jpg
 research_areas: []
 projects: []

@@ -7,7 +7,7 @@ building: null
 office: null
 email: null
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/jackson-glass
+profile: null
 photo: assets/people/jackson-glass.jpg
 research_areas: []
 projects: []

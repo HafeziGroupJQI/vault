@@ -7,7 +7,7 @@ building: null
 office: null
 email: null
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/disha-zaveri
+profile: null
 photo: assets/people/disha-zaveri.jpg
 research_areas: []
 projects: []

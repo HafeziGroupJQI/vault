@@ -7,7 +7,7 @@ building: null
 office: null
 email: sbarik@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/sabyasachi-barik
+profile: null
 photo: assets/people/sabyasachi-barik.jpg
 research_areas: []
 projects: []

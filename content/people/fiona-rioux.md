@@ -7,7 +7,7 @@ building: null
 office: null
 email: null
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/fiona-rioux
+profile: null
 photo: null
 research_areas: []
 projects: []

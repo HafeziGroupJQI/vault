@@ -7,7 +7,7 @@ building: null
 office: null
 email: null
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/isaac-sherwood
+profile: null
 photo: assets/people/isaac-sherwood.jpg
 research_areas: []
 projects: []

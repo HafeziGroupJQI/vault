@@ -7,7 +7,7 @@ building: null
 office: null
 email: wyq@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/yan-qi-wang
+profile: null
 photo: assets/people/yan-qi-wang.jpg
 research_areas: []
 projects: []

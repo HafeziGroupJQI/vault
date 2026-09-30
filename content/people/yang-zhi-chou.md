@@ -7,7 +7,7 @@ building: null
 office: null
 email: yzchou@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/yang-zhi-chou
+profile: null
 photo: assets/people/yang-zhi-chou.jpg
 research_areas: []
 projects: []

@@ -8,7 +8,7 @@ building: null
 office: null
 email: cbaldwi3@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/chris-baldwin
+profile: null
 photo: assets/people/chris-baldwin.jpg
 research_areas: []
 projects: []

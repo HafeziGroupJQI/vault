@@ -7,7 +7,7 @@ building: null
 office: null
 email: gbeini@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/beini-gao
+profile: null
 photo: assets/people/beini-gao.jpg
 research_areas: []
 projects: []

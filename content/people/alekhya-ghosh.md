@@ -7,7 +7,7 @@ building: null
 office: null
 email: null
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/alekhya-ghosh-0
+profile: null
 photo: assets/people/alekhya-ghosh.jpg
 research_areas: []
 projects: []

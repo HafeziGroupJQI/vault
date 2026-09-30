@@ -7,7 +7,7 @@ building: null
 office: null
 email: cdwhite@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/christopher-white
+profile: null
 photo: assets/people/christopher-white.jpg
 research_areas: []
 projects: []

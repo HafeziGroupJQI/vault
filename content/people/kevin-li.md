@@ -7,7 +7,7 @@ building: null
 office: null
 email: k3vinli@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/kevin-li
+profile: null
 photo: assets/people/kevin-li.png
 research_areas: []
 projects: []

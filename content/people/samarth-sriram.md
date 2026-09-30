@@ -7,7 +7,7 @@ building: null
 office: null
 email: null
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/samarth-sriram
+profile: null
 photo: assets/people/samarth-sriram.jpg
 research_areas: []
 projects: []

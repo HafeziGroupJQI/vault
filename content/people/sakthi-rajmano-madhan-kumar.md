@@ -7,7 +7,7 @@ building: null
 office: null
 email: null
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/sakthi-rajmano-madhan-kumar
+profile: null
 photo: assets/people/sakthi-rajmano-madhan-kumar.jpg
 research_areas: []
 projects: []

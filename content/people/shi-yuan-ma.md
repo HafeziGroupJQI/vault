@@ -7,7 +7,7 @@ building: null
 office: null
 email: null
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/shi-yuan-ma
+profile: null
 photo: assets/people/shi-yuan-ma.jpg
 research_areas: []
 projects:

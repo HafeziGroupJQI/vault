@@ -7,7 +7,7 @@ building: null
 office: null
 email: null
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/akiyoshi-park
+profile: null
 photo: assets/people/akiyoshi-park.jpg
 research_areas: []
 projects: []

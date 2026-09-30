@@ -7,7 +7,7 @@ building: null
 office: null
 email: lidaxu66@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/lida-xu
+profile: null
 photo: assets/people/lida-xu.jpg
 research_areas: []
 projects:

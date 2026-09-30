@@ -7,7 +7,7 @@ building: null
 office: null
 email: null
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/prakriti-shahi
+profile: null
 photo: assets/people/prakriti-shahi.jpg
 research_areas: []
 projects: []

@@ -7,7 +7,7 @@ building: null
 office: null
 email: pranshoo@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/pranshoo-upadhyay
+profile: null
 photo: assets/people/pranshoo-upadhyay.jpg
 research_areas: []
 projects: []

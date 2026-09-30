@@ -7,7 +7,7 @@ building: null
 office: null
 email: kxhuang@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/kaixin-huang
+profile: null
 photo: assets/people/kaixin-huang.jpg
 research_areas: []
 projects: []

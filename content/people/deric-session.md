@@ -7,7 +7,7 @@ building: null
 office: null
 email: dwsess@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/deric-session
+profile: null
 photo: assets/people/deric-session.jpg
 research_areas: []
 projects: []

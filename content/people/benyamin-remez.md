@@ -7,7 +7,7 @@ building: null
 office: null
 email: null
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/benyamin-remez
+profile: null
 photo: assets/people/benyamin-remez.png
 research_areas: []
 projects: []

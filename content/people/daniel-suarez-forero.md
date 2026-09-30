@@ -7,7 +7,7 @@ building: null
 office: null
 email: dsuarezf@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/daniel-suarez-forero
+profile: null
 photo: assets/people/daniel-suarez-forero.jpg
 research_areas: []
 projects: []

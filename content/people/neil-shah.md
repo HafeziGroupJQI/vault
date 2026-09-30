@@ -7,7 +7,7 @@ building: null
 office: null
 email: null
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/neil-shah
+profile: null
 photo: assets/people/neil-shah.jpg
 research_areas: []
 projects: []

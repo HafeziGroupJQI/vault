@@ -7,7 +7,7 @@ building: null
 office: null
 email: emechtel@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/erik-mechtel
+profile: null
 photo: assets/people/erik-mechtel.jpg
 research_areas: []
 projects: []

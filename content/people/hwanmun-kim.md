@@ -7,7 +7,7 @@ building: null
 office: null
 email: kim.hwanmun@gmail.com
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/hwanmun-kim
+profile: null
 photo: assets/people/hwanmun-kim.jpg
 research_areas: []
 projects: []

@@ -7,7 +7,7 @@ building: null
 office: null
 email: jvannucc@physics.umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/jon-vannucci
+profile: null
 photo: assets/people/jon-vannucci.jpg
 research_areas: []
 projects: []

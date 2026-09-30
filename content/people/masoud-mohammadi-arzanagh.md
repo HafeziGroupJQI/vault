@@ -7,7 +7,7 @@ building: null
 office: null
 email: masoudma@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/masoud-mohammadi-arzanagh
+profile: null
 photo: assets/people/masoud-mohammadi-arzanagh.jpg
 research_areas: []
 projects: []

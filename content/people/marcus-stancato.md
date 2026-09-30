@@ -8,7 +8,7 @@ office: null
 email: "University Email: capitalx@terpmail.umd.edu; Personal Email:
   marcus.stancato@gmail.com"
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/marcus-stancato
+profile: null
 photo: assets/people/marcus-stancato.jpg
 research_areas: []
 projects: []

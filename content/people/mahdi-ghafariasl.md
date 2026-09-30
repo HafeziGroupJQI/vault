@@ -7,7 +7,7 @@ building: null
 office: null
 email: mg47463@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/mahdi-ghafariasl
+profile: null
 photo: assets/people/mahdi-ghafariasl.jpg
 research_areas: []
 projects: []

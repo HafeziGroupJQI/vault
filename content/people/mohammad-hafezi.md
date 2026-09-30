@@ -9,7 +9,7 @@ office: "2307"
 places: [atlantic-2307]
 email: hafezi@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/mohammad-hafezi
+profile: null
 photo: assets/people/mohammad-hafezi.jpg
 research_areas: []
 projects: []

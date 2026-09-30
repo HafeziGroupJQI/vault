@@ -7,7 +7,7 @@ building: null
 office: null
 email: gzhu123@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/guanyu-zhu
+profile: null
 photo: assets/people/guanyu-zhu.jpg
 research_areas: []
 projects: []

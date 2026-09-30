@@ -7,7 +7,7 @@ building: null
 office: null
 email: mvanrege@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/mathias-van-regemortel
+profile: null
 photo: assets/people/mathias-van-regemortel.jpg
 research_areas: []
 projects: []

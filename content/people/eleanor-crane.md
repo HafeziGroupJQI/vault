@@ -7,7 +7,7 @@ building: null
 office: null
 email: emc2@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/eleanor-crane
+profile: null
 photo: assets/people/eleanor-crane.png
 research_areas: []
 projects: []

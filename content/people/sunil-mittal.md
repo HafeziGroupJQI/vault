@@ -7,7 +7,7 @@ building: null
 office: null
 email: mittals@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/sunil-mittal
+profile: null
 photo: assets/people/sunil-mittal.jpg
 research_areas: []
 projects: []

@@ -7,7 +7,7 @@ building: null
 office: null
 email: galshala@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/ghadah-alshalan
+profile: null
 photo: assets/people/ghadah-alshalan.jpg
 research_areas: []
 projects: []

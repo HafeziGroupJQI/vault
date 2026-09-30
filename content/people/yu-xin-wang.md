@@ -7,7 +7,7 @@ building: null
 office: null
 email: yuxinw@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/yu-xin-wang
+profile: null
 photo: assets/people/yu-xin-wang.jpg
 research_areas: []
 projects: []

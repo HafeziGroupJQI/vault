@@ -8,7 +8,7 @@ building: null
 office: null
 email: oshtanko@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/oles-shtanko
+profile: null
 photo: assets/people/oles-shtanko.jpg
 research_areas: []
 projects: []

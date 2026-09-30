@@ -7,7 +7,7 @@ building: null
 office: null
 email: null
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/jules-sueiro
+profile: null
 photo: assets/people/jules-sueiro.jpg
 research_areas: []
 projects: []

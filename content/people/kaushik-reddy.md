@@ -7,7 +7,7 @@ building: null
 office: null
 email: kkaushik@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/kaushik-reddy
+profile: null
 photo: assets/people/kaushik-reddy.jpg
 research_areas: []
 projects: []

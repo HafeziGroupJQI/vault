@@ -7,7 +7,7 @@ building: null
 office: null
 email: seif@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/alireza-seif
+profile: null
 photo: assets/people/alireza-seif.jpg
 research_areas: []
 projects: []

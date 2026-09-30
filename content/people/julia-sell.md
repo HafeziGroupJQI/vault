@@ -7,7 +7,7 @@ building: null
 office: null
 email: jsell@physics.umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/julia-sell
+profile: null
 photo: assets/people/julia-sell.jpg
 research_areas: []
 projects: []

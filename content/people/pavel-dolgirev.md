@@ -7,7 +7,7 @@ building: null
 office: null
 email: null
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/pavel-dolgirev-1
+profile: null
 photo: assets/people/pavel-dolgirev.jpg
 research_areas: []
 projects: []

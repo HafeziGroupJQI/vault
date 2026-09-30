@@ -7,7 +7,7 @@ building: null
 office: null
 email: null
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/david-roberts
+profile: null
 photo: assets/people/david-roberts.png
 research_areas: []
 projects: []

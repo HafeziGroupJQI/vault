@@ -7,7 +7,7 @@ building: null
 office: null
 email: bincao@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/bin-cao
+profile: null
 photo: assets/people/bin-cao.jpg
 research_areas: []
 projects: []

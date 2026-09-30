@@ -7,7 +7,7 @@ building: null
 office: null
 email: zpcian@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/ze-pei-cian
+profile: null
 photo: assets/people/ze-pei-cian.jpg
 research_areas: []
 projects: []

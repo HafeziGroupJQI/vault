@@ -7,7 +7,7 @@ building: null
 office: null
 email: null
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/soumadeep-saha
+profile: null
 photo: assets/people/soumadeep-saha.png
 research_areas: []
 projects:

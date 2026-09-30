@@ -8,7 +8,7 @@ building: null
 office: null
 email: kuoenjui@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/en-jui-kuo-0
+profile: null
 photo: assets/people/en-jui-kuo.jpg
 research_areas: []
 projects: []

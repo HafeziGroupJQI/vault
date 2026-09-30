@@ -8,7 +8,7 @@ office: "2369"
 places: [atlantic-2369]
 email: null
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/gavin-bogdan
+profile: null
 photo: assets/people/gavin-bogdan.jpg
 research_areas: []
 projects:

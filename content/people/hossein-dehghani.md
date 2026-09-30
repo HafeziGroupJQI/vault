@@ -7,7 +7,7 @@ building: null
 office: null
 email: hdehghan@umd.edu
 scope: null
-profile: https://hafezi.jqi.umd.edu/people/hossein-dehghani
+profile: null
 photo: assets/people/hossein-dehghani.jpg
 research_areas: []
 projects: []
